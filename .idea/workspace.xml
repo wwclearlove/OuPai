@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa7c9db-c9c3-4d72-88de-492e4b3b8815" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5fa7c9db-c9c3-4d72-88de-492e4b3b8815" name="Default" comment="WNAGSHUAI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/原版.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="321">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -277,15 +277,31 @@
       <option name="presentableId" value="Default" />
       <updated>1558319401687</updated>
       <workItem from="1558319406271" duration="279000" />
-      <workItem from="1558321588190" duration="995000" />
+      <workItem from="1558321588190" duration="1227000" />
     </task>
+    <task id="LOCAL-00001" summary="WNAGSHUAI">
+      <created>1558322663098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558322663098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="WNAGSHUAI">
+      <created>1558322765267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558322765267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1274000" />
+    <option name="totallyTimeSpent" value="1506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18958503" />
@@ -326,6 +342,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WNAGSHUAI" />
+    <option name="LAST_COMMIT_MESSAGE" value="WNAGSHUAI" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/js/jquery-3.3.1.js" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
@@ -358,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/原版.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="321">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
