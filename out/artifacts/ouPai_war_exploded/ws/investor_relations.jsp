@@ -28,13 +28,17 @@
 
         .investor_relations01 {
             height: 550px;
+<<<<<<< HEAD
             background: url("../image/investor_relations01.jpg") no-repeat;
             background-size: 100%,100%;
+=======
+>>>>>>> d13be9078d44ce181a70d7975ea616f9f8f32f7d
         }
     </style>
 
 </head>
 <body>
+<<<<<<< HEAD
 <div style="height: 150px;width: 100%;"></div>
 
 <section>
@@ -42,6 +46,17 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0;text-align: center">
                 <h2 style="color: white;margin-top: 27%;padding-bottom: 40px;">投资者关系</h2>
+=======
+<div style="height: 150px;width: 100%;">
+
+</div>
+<section>
+    <div class="container-fluid investor_relations01">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
+                <img src="../image/investor_relations01.jpg" alt="" style="width: 100%;float: left">
+                <h2 style="position: absolute;color: white;margin-left: 45%;margin-top: 27%;">投资者关系</h2>
+>>>>>>> d13be9078d44ce181a70d7975ea616f9f8f32f7d
                 <div id="the_title_content" align="center"
                      style="background-color: white;height: 60px;margin: 0 auto;border-radius: 50px;">
                     <ul id="the_title_content_ul">
@@ -62,6 +77,9 @@
         </div>
     </div>
 </section>
+<<<<<<< HEAD
 
+=======
+>>>>>>> d13be9078d44ce181a70d7975ea616f9f8f32f7d
 </body>
 </html>
