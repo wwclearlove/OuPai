@@ -70,7 +70,7 @@
 </head>
 <body>
 <div id="the_title_content" align="center"
-     style="height: 60px;margin: 0 auto;border-radius: 50px;">
+     style="background-color: white;height: 60px;margin: 0 auto;border-radius: 50px;">
     <ul id="the_title_content_ul">
         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 购物攻略 </a></li>
         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 购物攻略 </a></li>
@@ -82,6 +82,7 @@
         var oLi = document.getElementsByTagName("li");
         document.getElementById("the_title_content").style.width = oLi[0].offsetWidth*(oLi.length+1) + "px";
         document.getElementById("the_title_content_ul").style.width = oLi[0].offsetWidth*(oLi.length+1) + "px";
+        document.getElementById("the_title_content_ul").style.marginLeft = oLi[0].offsetWidth/2 + "px";
     </script>
 </div>
 </body>
