@@ -7,97 +7,18 @@
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <title>Bootstrap HelloWorld</title>
     <!-- Bootstrap -->
-     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/head.css" rel="stylesheet">
     <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
     <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/head.js"></script>
     <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
     <script src="js/bootstrap.min.js"></script>
     <style>
-        .head{
-            /*height: 70px;*/
-            text-align: center;
-            color: #ffffff;
-            background-color: #3E3E3E;
-            padding-top: 20px;
-            padding-bottom: 20px;
-        }
-        .search-btn{
-            color: #ffffff;
-            /*float: left;*/
-            /*width: 90px;*/
-            /*height: 35px;*/
-            /*background-color: #ffc900;*/
-            text-align: center;
-            /*line-height: 35px;*/
-            /*margin-top: 15px;*/
-        }
-
-        .head li{
-            list-style: none;
-            float: right;
-            padding-left: 10px;
-            padding-right: 10px;
-        }
-        @media (max-width: 750px) {
-            img{
-                width: 30px;
-                height: 30px;
-            }
-            span{
-                font-size: 0.6em;
-            }
-            #bs-example-navbar-collapse-1 ul li{
-                float: none;
-            }
-        }
-
-        .as{
-            min-width:100px;
-        }
-        .as li{
-            float: none;
-
-            padding-right:0;
-
-        }
 
     </style>
     <script>
-            $(document).ready(function () {
 
-                var oA = $(".dropdown-toggle")
-                for (var i = 0; i < oA.length; i++) {
-                    oA[i].index = i;
-
-                    oA[i].onmouseover = function () {
-                        var oUls = $(".menu_list");
-                        for (var j = 0; j < oUls.length; j++) {
-                            oA.eq(j).css("color","#000");
-                        }
-
-                        oA.eq(this.index).css("color","#ffc900");
-                        var oUl = oUls.eq(this.index);
-
-                        var oLi = oUl.children();
-                        for (var n = 0; n < oLi.length; n++) {
-                            oLi[n].indexs = n;
-                            oLi[n].onmouseover = function () {
-                                oLi.eq(this.indexs).css({"font-size":"1.2em"});
-                            };
-                            oLi[n].onmouseout = function () {
-                                oLi.eq(this.indexs).css("font-size","1em");
-                            };
-                        }
-                    };
-                }
-                $(".dropdown-toggle").mouseout(function () {
-                   $(".dropdown-toggle").css("color","#000");
-                })
-
-
-
-
-        })
     </script>
 </head>
 
@@ -108,18 +29,17 @@
             <ul>
                 <li>
                     <a class="search-btn" href="#">
-                        <img src="image/logo.png" class="img-circle">
-                        <span>用户登录</span>
+                        <img src="image/logo.png" class="img-responsive">
                     </a>
                 </li>
                 <li>
                     <a class="search-btn " href="#">
-                        <img src="image/shop.png" class="img-circle" >
+                        <img src="image/shop.png" class="img-responsive">
                         <span>欧派商城</span>
                     </a>
                 </li>
                 <li>
-                    <img src="image/phone.png" class="img-circle" >
+                    <img src="image/phone.png" class="img-responsive">
                     客服/招商热线：<span>400-884-1868</span>
                 </li>
             </ul>

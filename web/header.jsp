@@ -8,10 +8,13 @@
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <title>Bootstrap HelloWorld</title>
     <!-- Bootstrap -->
-     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <%--<link href="${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/head.css" rel="stylesheet">
     <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
-    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="${pageContext.request.contextPath}/js/jquery-3.2.1.min.js"></script>
+    <script src="js/head.js"></script>
     <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+<<<<<<< HEAD
     <script src="js/bootstrap.min.js"></script>
     <style>
         .head{
@@ -97,33 +100,38 @@
 
         })
     </script>
+=======
+    <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>--%>
+>>>>>>> e166dabeed7b9754b309aa2fe6cded56f2498cd3
 </head>
 
 <body>
-<header class="container-fluid ">
+<header class="container-fluid" style="padding-left: 0;padding-right: 0px">
     <div class="row head">
         <div class="col-lg-12 col-md-12 col-sm-24 col-xs-36">
             <ul>
                 <li>
                     <a class="search-btn" href="#">
-                        <img src="image/logo.png" class="img-circle">
+                        <img src="${pageContext.request.contextPath}/image/logo.png" class="img-circle">
                         <span>用户登录</span>
                     </a>
                 </li>
                 <li>
                     <a class="search-btn " href="#">
-                        <img src="image/shop.png" class="img-circle" >
+                        <img src="${pageContext.request.contextPath}/image/shop.png" class="img-circle">
                         <span>欧派商城</span>
                     </a>
                 </li>
                 <li>
-                    <img src="image/phone.png" class="img-circle" >
+                    <a class="search-btn " href="#">
+                    <img src="${pageContext.request.contextPath}/image/phone.png" class="img-circle">
                     客服/招商热线：<span>400-884-1868</span>
+                    </a>
                 </li>
             </ul>
         </div>
     </div>
-    <nav class="navbar navbar-default qw">
+    <nav class="navbar navbar-default qw" id="pd" style="margin-bottom: 0">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
