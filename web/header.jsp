@@ -95,9 +95,6 @@
                    $(".dropdown-toggle").css("color","#000");
                 })
 
-
-
-
         })
     </script>
 </head>
