@@ -134,15 +134,15 @@
         color: white;
       }
       .qh1{
-        padding:8.1%;
+        padding:8.5%;
         background: #f6f6f6;
       }
       .qh2{
-        padding:8.1%;
+        padding:9%;
         background: #ffffff;
       }
       .qh3{
-        padding:8.1%;
+        padding:9%;
         background: #ffffff;
       }
     </style>

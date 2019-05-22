@@ -7,166 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/02_Bootrap案列.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526114336_801.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120242_383.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120334_542.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120344_225.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160603144109_520.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160621184836_936.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/bigImg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuwu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jstl-impl.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/investor_relations.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_title_content.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/Fuwuheard.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cj.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/djj.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/footer.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gcal.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gyop.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1_q.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2_q.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3_q.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4_q.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5_q.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6_q.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/phone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qianshou.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qq.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/share.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/shop.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/we.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wgmn.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/xiao.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/investor_relations.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/jquery-3.2.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_title_content.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/animated.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/screen-reader.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_animated.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/font-awesome.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/the_title_content/the_title_content.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/eg.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/原版.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526114336_801.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526120242_383.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526120334_542.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526120344_225.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160603144109_520.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160621184836_936.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/bigImg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuwu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/investor_relations.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/Fuwuheard.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/MyFuwu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/investor_relations02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/investor_relations.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ouPai.iml" afterPath="$PROJECT_DIR$/ouPai.iml" />
-      <change beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
       <change beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/ws/eg.html" afterPath="$PROJECT_DIR$/web/ws/eg.html" />
-      <change beforePath="$PROJECT_DIR$/web/ws/egs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,7 +20,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="135" column="7" lean-forward="false" selection-start-line="135" selection-start-column="7" selection-end-line="146" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="146" column="7" lean-forward="false" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -190,9 +56,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/web/header.jsp" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -215,6 +82,12 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="225" />
+    <option name="y" value="79" />
+    <option name="width" value="1447" />
+    <option name="height" value="800" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -230,8 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +120,9 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,46 +309,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558530245227</updated>
-      <workItem from="1558530246647" duration="285000" />
+      <workItem from="1558530246647" duration="408000" />
+      <workItem from="1558533833308" duration="461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285000" />
+    <option name="totallyTimeSpent" value="869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18736501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1620">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1539">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -511,15 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4158">
-          <caret line="154" column="6" lean-forward="false" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,6 +391,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="135" column="7" lean-forward="false" selection-start-line="135" selection-start-column="7" selection-end-line="146" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="146" column="7" lean-forward="false" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
           <folding />
         </state>
       </provider>
