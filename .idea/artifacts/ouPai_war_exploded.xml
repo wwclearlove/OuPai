@@ -7,7 +7,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="ouPai" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet.jsp.jstl" />
+        </element>
       </element>
+      <element id="javaee-facet-resources" facet="ouPai/web/Web2" />
     </root>
   </artifact>
 </component>
