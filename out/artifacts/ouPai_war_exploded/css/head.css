@@ -25,6 +25,12 @@
     span{
         font-size: 0.6em;
     }
+    p{
+        font-size: 0.6em;
+    }
+    h3{
+        font-size: 0.8em;
+    }
     #bs-example-navbar-collapse-1 ul li{
         float: none;
     }

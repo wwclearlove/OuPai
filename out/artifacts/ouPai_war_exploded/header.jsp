@@ -24,19 +24,19 @@
             <ul>
                 <li>
                     <a class="search-btn" href="#">
-                        <img src="image/logo.png" class="img-circle">
+                        <img src="${pageContext.request.contextPath}/image/logo.png" class="img-circle">
                         <span>用户登录</span>
                     </a>
                 </li>
                 <li>
                     <a class="search-btn " href="#">
-                        <img src="image/shop.png" class="img-circle">
+                        <img src="${pageContext.request.contextPath}/image/shop.png" class="img-circle">
                         <span>欧派商城</span>
                     </a>
                 </li>
                 <li>
                     <a class="search-btn " href="#">
-                    <img src="image/phone.png" class="img-circle">
+                    <img src="${pageContext.request.contextPath}/image/phone.png" class="img-circle">
                     客服/招商热线：<span>400-884-1868</span>
                     </a>
                 </li>

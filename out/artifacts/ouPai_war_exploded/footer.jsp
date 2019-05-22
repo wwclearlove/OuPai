@@ -77,19 +77,19 @@
                 <div class="row tb" >
                     <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="#" >
-                            <img  src="image/qq.png" class="img-responsive" alt="">
-                            <p >QQ</p>
+                            <img  src="${pageContext.request.contextPath}/image/qq.png" class="img-responsive" alt="">
+                            <p>QQ</p>
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="#" >
-                            <img  src="image/wx.png" class="img-responsive" alt="">
-                            <p >微信</p>
+                            <img  src="${pageContext.request.contextPath}/image/wx.png" class="img-responsive" alt="">
+                            <p>微信</p>
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="#" >
-                            <img  src="image/share.png" class="img-responsive" alt="">
+                            <img  src="${pageContext.request.contextPath}/image/share.png" class="img-responsive" alt="">
                             <p >分享</p>
                         </a>
                     </div>
@@ -100,10 +100,11 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-                <img src="image/footer.jpg" width="100%" alt=""><%-- class="img-responsive"--%>
+                <img src="${pageContext.request.contextPath}/image/footer.jpg" width="100%" alt=""><%-- class="img-responsive"--%>
             </div>
         </div>
     </div>
+    <a href="#0" class="cd-top">Top</a>
 </footer>
 </body>
 </html>

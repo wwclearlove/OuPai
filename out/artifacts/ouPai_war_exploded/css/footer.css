@@ -46,3 +46,18 @@
 .tb p{
     padding-left: 3px;
 }
+@media (max-width: 750px) {
+    span{
+        font-size: 0.6em;
+    }
+    a{
+        font-size: 0.8em;
+    }
+
+    p{
+        font-size: 0.8em;
+    }
+   .row-content h3{
+        font-size: 1em;
+    }
+}
