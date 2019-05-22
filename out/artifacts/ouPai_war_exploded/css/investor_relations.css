@@ -1,0 +1,98 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.investor_relations01 {
+    background: url("../image/investor_relations01.jpg") no-repeat;
+    background-size: 100%, 100%;
+}
+
+#the_title_content ul li {
+    float: left;
+    height: 100%;
+    list-style: none;
+    line-height: 60px;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15%;
+
+}
+
+#the_title_content ul li a {
+    float: left;
+    color: black;
+    height: 100%;
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+    text-decoration: none;
+}
+
+#the_title_content ul li a i {
+    float: left;
+    font-size: 1.3em;
+    color: #FEA327;
+    display: none;
+    line-height: 60px;
+}
+
+
+.investor_relations02div div {
+    padding: 20px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    alignment-baseline: center;
+}
+
+.investor_relations02div a {
+    width: 12%;
+    float: left;
+    color: black;
+    display: block;
+    padding-top: 1%;
+    margin-right: 1%;
+    padding-bottom: 1%;
+    border-radius: 5px;
+    transition: all 0.2s;
+    text-decoration: none;
+    background-color: #F5F5F5;
+}
+
+#investor_relations02div_a {
+    color: white;
+    margin-left: 5%;
+    background-color: #FFBB6A;
+}
+
+
+.investor_relations03div div{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.investor_relations03div div a{
+    color: black;
+    text-decoration: none;
+}
+.investor_relations03div div span{
+    color: #999999;
+}
+
+
+
+@media (max-width: 700px) {
+    #the_title_content {
+        display: none;
+    }
+
+    .investor_relations02div a {
+        font-size: 0.4em;
+    }
+}
+
+.investor_relations03div div a:hover{
+    color: #FFBB6A;
+}

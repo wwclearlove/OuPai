@@ -6,120 +6,167 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e4bc03a-e6fb-46a0-822e-4829d437d5e6" name="Default" comment="">
+    <list default="true" id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/02_Bootrap案列.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526114336_801.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120242_383.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120334_542.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120344_225.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160603144109_520.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160621184836_936.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/bigImg2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuwu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jstl-impl.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/investor_relations.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_title_content.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/Fuwuheard.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cj.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/djj.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/footer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gcal.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gyop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1_q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2_q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3_q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4_q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5_q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6_q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/phone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qianshou.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/share.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/shop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/we.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wgmn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/xiao.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/investor_relations.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_title_content.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/animated.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/bordered-pulled.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/core.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/fixed-width.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/font-awesome.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/icons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/larger.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/list.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/path.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/rotated-flipped.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/screen-reader.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/stacked.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_animated.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_bordered-pulled.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_core.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_fixed-width.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_icons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_larger.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_list.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_path.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_rotated-flipped.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_stacked.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/font-awesome.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/the_title_content/the_title_content.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/eg.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/原版.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526114336_801.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526120242_383.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526120334_542.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160526120344_225.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160603144109_520.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/20160621184836_936.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/bigImg2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/icon16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/MyFuwu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/investor_relations.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/Fuwuheard.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/MyFuwu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/investor_relations02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/investor_relations.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/02_Bootrap案列.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jstl-impl.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_title_content.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cj.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/djj.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/footer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gcal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gyop.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1_q.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2_q.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3_q.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4_q.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5_q.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6_q.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/phone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qianshou.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qq.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/share.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/shop.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/we.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wgmn.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/xiao.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/jquery-3.2.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_title_content.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/screen-reader.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_screen-reader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/the_title_content/the_title_content.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/eg.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/egs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/原版.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ouPai.iml" afterPath="$PROJECT_DIR$/ouPai.iml" />
+      <change beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/eg.html" afterPath="$PROJECT_DIR$/web/ws/eg.html" />
+      <change beforePath="$PROJECT_DIR$/web/ws/egs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,25 +176,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>row-content</find>
-    </findStrings>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -160,20 +190,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/footer.html" />
-        <option value="$PROJECT_DIR$/web/css/herd.css" />
-        <option value="$PROJECT_DIR$/web/js/j.js" />
-        <option value="$PROJECT_DIR$/web/css/footer.min.css" />
-        <option value="$PROJECT_DIR$/web/header.html" />
-        <option value="$PROJECT_DIR$/web/css/footer.css" />
-        <option value="$PROJECT_DIR$/web/wyc/index2.jsp" />
-        <option value="$PROJECT_DIR$/web/index22.html" />
-        <option value="$PROJECT_DIR$/web/footer.jsp" />
-        <option value="$PROJECT_DIR$/web/css/head.css" />
-        <option value="$PROJECT_DIR$/web/header.jsp" />
-        <option value="$PROJECT_DIR$/web/index.html" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/web/header.jsp" />
       </list>
     </option>
   </component>
@@ -190,11 +209,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="225" />
-    <option name="y" value="79" />
-    <option name="width" value="1447" />
-    <option name="height" value="800" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -211,8 +230,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,15 +256,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\oupai\web\image" />
-      <recent name="G:\oupai\web" />
-      <recent name="G:\oupai\web\js" />
-      <recent name="G:\oupai\web\css" />
-      <recent name="G:\oupai\web\wyc" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -258,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -300,7 +310,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="index.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/index.jsp" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -335,8 +344,8 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="index2.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/wyc/index2.jsp" />
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="ouPai:war exploded">
           <settings>
@@ -345,204 +354,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index2_jsp_ouPai" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ouPai:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="index.jsp (3)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="ouPai:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index_jsp_(3)_ouPai_2" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ouPai:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="index.jsp (4)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="ouPai:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index_jsp_(4)_ouPai_2" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ouPai:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="index.jsp (5)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="ouPai:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index_jsp_(5)_ouPai" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ouPai:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="ouPai:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index_jsp_ouPai" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ouPai:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.101" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <deployment>
-        <artifact name="ouPai:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ouPai" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ouPai_2" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -551,7 +363,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49704" />
+        <option name="DEBUG_PORT" value="49917" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -610,24 +422,6 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.index.jsp" />
-      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.index.jsp (3)" />
-      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.index.jsp (4)" />
-      <item index="4" class="java.lang.String" itemvalue="Tomcat Server.index.jsp (5)" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
-      <item index="6" class="java.lang.String" itemvalue="Tomcat Server.index2.jsp" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.index2.jsp" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
-        <item index="2" class="java.lang.String" itemvalue="Tomcat Server.index.jsp (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Tomcat Server.index.jsp (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Tomcat Server.index.jsp (3)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -637,86 +431,52 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5e4bc03a-e6fb-46a0-822e-4829d437d5e6" name="Default" comment="" />
-      <created>1558417635397</created>
+      <changelist id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="" />
+      <created>1558530245227</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558417635397</updated>
-      <workItem from="1558417642522" duration="14963000" />
-      <workItem from="1558485332416" duration="18463000" />
-      <workItem from="1558508320224" duration="13714000" />
+      <updated>1558530245227</updated>
+      <workItem from="1558530246647" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47140000" />
+    <option name="totallyTimeSpent" value="285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38678092" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2586393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38678092" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -725,203 +485,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.html">
+    <entry file="file://$PROJECT_DIR$/web/ws/eg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MyFuwu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#3;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/image/footer.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/image/cd-top-arrow.svg" />
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-1.7.1.min.js" />
-    <entry file="file://$PROJECT_DIR$/web/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/web/css/reset.css" />
-    <entry file="file://$PROJECT_DIR$/web/index22.html" />
-    <entry file="file://$PROJECT_DIR$/web/js/head.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/image/banner8.png" />
-    <entry file="file://$PROJECT_DIR$/web/02_Bootrap案列.html">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="129" column="14" lean-forward="true" selection-start-line="101" selection-start-column="4" selection-end-line="129" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/image/gcal.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="132" column="60" lean-forward="false" selection-start-line="132" selection-start-column="60" selection-end-line="132" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="6" column="72" lean-forward="false" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="4" column="27561" lean-forward="false" selection-start-line="4" selection-start-column="27561" selection-end-line="4" selection-end-column="27561" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/head.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        <state relative-caret-position="4158">
+          <caret line="154" column="6" lean-forward="false" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/header.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/wyc/index2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="55" />
-          <folding>
-            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#3;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#5;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
