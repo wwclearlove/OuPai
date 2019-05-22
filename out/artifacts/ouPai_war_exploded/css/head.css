@@ -10,7 +10,10 @@
     color: #ffffff;
     text-align: center;
 }
-
+.qw{
+    padding-left: 0;
+    padding-right: 0;
+}
 .head li{
     list-style: none;
     float: right;

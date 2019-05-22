@@ -18,7 +18,7 @@
 </head>
 
 <body>
-<header class="container-fluid ">
+<header class="container-fluid" style="padding-left: 0;padding-right: 0px">
     <div class="row head">
         <div class="col-lg-12 col-md-12 col-sm-24 col-xs-36">
             <ul>
@@ -43,7 +43,7 @@
             </ul>
         </div>
     </div>
-    <nav class="navbar navbar-default qw">
+    <nav class="navbar navbar-default qw" id="pd">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">

@@ -16,11 +16,7 @@
     <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/reset.css"> <!-- CSS reset -->
-  
-    <script src="${pageContext.request.contextPath}/js/modernizr.js"></script> <!-- Modernizr -->
-    <%--<script src="js/jquery-1.7.1.min.js"></script>--%>
-    <script src="${pageContext.request.contextPath}/js/main.js"></script>
+
   </head>
   <body>
   <%--<c:import url="header.jsp"></c:import>--%>
