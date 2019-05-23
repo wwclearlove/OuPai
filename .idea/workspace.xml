@@ -8,15 +8,137 @@
   <component name="ChangeListManager">
     <list default="true" id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" />
-      <change beforePath="$PROJECT_DIR$/web/css/head.css" afterPath="$PROJECT_DIR$/web/css/head.css" />
-      <change beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/js/head.js" afterPath="$PROJECT_DIR$/web/js/head.js" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/02_Bootrap案列.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526114336_801.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120242_383.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120334_542.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120344_225.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160603144109_520.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160621184836_936.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/bigImg2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon13.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuwu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jstl-impl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/investor_relations.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_title_content.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/Fuwuheard.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cj.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/djj.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/footer.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gcal.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gyop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1_q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2_q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3_q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4_q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5_q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6_q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/phone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qianshou.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qq.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/share.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/shop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/we.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wgmn.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wx.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/xiao.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/investor_relations.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/jquery-3.2.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_title_content.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/animated.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/screen-reader.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_animated.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_screen-reader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/the_title_content/the_title_content.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/eg.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/原版.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +154,7 @@
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1941">
-              <caret line="221" column="16" lean-forward="true" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
+              <caret line="221" column="16" lean-forward="false" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -44,7 +166,7 @@
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="246">
-              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -53,8 +175,8 @@
       <file leaf-file-name="header.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+            <state relative-caret-position="324">
+              <caret line="96" column="36" lean-forward="false" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -377,12 +499,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558530245227</updated>
       <workItem from="1558530246647" duration="408000" />
-      <workItem from="1558533833308" duration="5719000" />
+      <workItem from="1558533833308" duration="6465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6127000" />
+    <option name="totallyTimeSpent" value="6873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -452,10 +574,10 @@
         <state relative-caret-position="-227">
           <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -495,7 +617,7 @@
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
-          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -511,7 +633,7 @@
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1941">
-          <caret line="221" column="16" lean-forward="true" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
+          <caret line="221" column="16" lean-forward="false" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -520,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/header.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+        <state relative-caret-position="324">
+          <caret line="96" column="36" lean-forward="false" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
