@@ -3,7 +3,7 @@
 <html>
   <head>
     <title>Bootstrap HelloWorld</title>
-
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/footer.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">

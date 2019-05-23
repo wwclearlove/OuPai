@@ -20,7 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12" style="text-align:center;red:yellow;font-weight:bold;font-size:30px;padding: 5%">
-        <h4>恭喜，注册成功！请登录您的注册邮箱进行激活您的账号，激活后才能登录。</h4>
+        <h4>恭喜，激活成功！点击 <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp" style="text-decoration: none;">登录</a></h4>
       </div>
     </div>
   </div>

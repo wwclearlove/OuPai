@@ -8,6 +8,7 @@
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <title>Bootstrap HelloWorld</title>
     <!-- Bootstrap -->
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/footer.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">
@@ -35,10 +36,18 @@
       margin-left:25%;
       margin-bottom:3%;
     }
-    .su2 button {
+    #btn_sub{
       margin-left:25%;
       margin-bottom:3%;
       text-align: center;
+      padding: 1% 2% 1% 2% ;
+      background-color: #ffa800;;
+      color: #fff;
+      font-size: 1.5em;
+    }
+    #btn_zx{
+      margin-left:5%;
+      margin-bottom:3%;
       padding: 1% 2% 1% 2% ;
       background-color: #ffa800;;
       color: #fff;
@@ -58,6 +67,28 @@
       color: #fc7f7f;
     }
   </style>
+  <script>
+      $(function () {
+          //1.给登录按钮绑定单击事件
+          $("#btn_sub").click(function () {
+              $("#errorMsg").css("display","none");
+              $("#errorMsg").html("");
+              //2.发送ajax请求，提交表单数据
+              $.post("${pageContext.request.contextPath}/loginServlet",$("#loginForm").serialize(),function (data) {
+                  //data : {flag:false,errorMsg:''}
+                  if(data.flag){
+                      //登录成功
+                      location.href="${pageContext.request.contextPath}/wyc/resist_ok.jsp";
+                  }else{
+                      //登录失败
+                      $("#errorMsg").css("display","block");
+                      $("#errorMsg").html(data.errorMsg);
+
+                  }
+              });
+          });
+      });
+  </script>
   <body>
 
   <jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
@@ -80,7 +111,7 @@
             </div>
             <div class="su1 row">
               <input class="col-md-3 col-xs-3 col-sm-3" name="check" type="text" placeholder="请输入验证码" autocomplete="off">
-              <span class="col-md-3 col-xs-3 col-sm-3"><img src="${pageContext.request.contextPath}/checkCode" alt="" onclick="changeCheckCode(this)"></span>
+              <span class="col-md-3 col-xs-3 col-sm-3"><img src="${pageContext.request.contextPath}/checkCode" id="checked" alt="" onclick="changeCheckCode(this)"></span>
               <script type="text/javascript">
                   //图片点击事件
                   function changeCheckCode(img) {
@@ -90,15 +121,21 @@
             </div>
 
             <div class="su2 row">
-              <button class="col-md-3 col-xs-3 col-sm-3" type="button">登录</button>
-              <div class=" col-md-3 col-xs-3 col-sm-3" style="margin-top: 2%">
-                <input type="checkbox" name="" style="vertical-align: middle">
-                <span >自动登录</span>
-              </div>
+              <button class="col-md-3 col-xs-3 col-sm-3 " id="btn_sub" type="button">登录</button>
+
+              <button  type="button" class="col-md-3 col-xs-3 col-sm-3 " id="btn_zx" onclick="changeCheck()">重置</button>
+
 
             </div>
-            <div class="reg row">没有账户？<a href="${pageContext.request.contextPath}/wyc/regist.jsp">立即注册</a></div>
-
+            <div class="reg row">没有账户？<a href="${pageContext.request.contextPath}/wyc/regist.jsp" >立即注册</a></div>
+            <script type="text/javascript">
+                //图片点击事件
+                function changeCheck() {
+                    location.href="${pageContext.request.contextPath}/wyc/login.jsp";
+                    <%--this.href("${pageContext.request.contextPath}/wyc/login.jsp");--%>
+                    <%--img.src="${pageContext.request.contextPath}/checkCode?"+new Date().getTime();--%>
+                }
+            </script>
 
 
           </form>

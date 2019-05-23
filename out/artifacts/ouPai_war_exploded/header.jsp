@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html lang="zh-CN" xmlns:align="http://www.w3.org/1999/xhtml">
 <head>
@@ -12,17 +13,31 @@
 <body>
 <header class="container-fluid" style="padding-left: 0;padding-right: 0px">
     <div class="row head" style="margin-right: 0;margin-left: 0;">
-        <div class="col-lg-12 col-md-12 col-sm-24 col-xs-36">
-            <ul>
-                <li>
-                    <h4 class="search-btn" style="vertical-align:middle">张三,欢迎您</h4>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+            <ul>
+                <li style="padding-top: 1%" >
+                    <a href="javascript:void(0)"><span class="search-btn" style="vertical-align:middle;color: #ffde0d;">${user.name}<c:choose> <c:when test="${user.name eq null}">请点击用户登录按钮</c:when><c:otherwise>,欢迎您</c:otherwise> </c:choose></span></a>
                 </li>
                 <li>
-                    <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp">
-                        <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
-                        <span>用户登录</span>
-                    </a>
+
+
+                    <c:choose>
+                        <c:when test="${user.name eq null}">
+                            <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp">
+                                <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
+                                <span>用户登录</span>
+                            </a>
+                        </c:when>
+                        <c:otherwise>
+                            <a class="search-btn" href="${pageContext.request.contextPath}/removeServlet">
+                                <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
+                                <span>用户退出</span>
+                            </a>
+                        </c:otherwise>
+                    </c:choose>
+
+
                 </li>
                 <li>
                     <a class="search-btn " href="#">
@@ -36,7 +51,9 @@
                     客服/招商热线：<span>400-884-1868</span>
                     </a>
                 </li>
+
             </ul>
+
         </div>
     </div>
     <nav class="navbar navbar-default qw" id="pd" style="margin-bottom: 0">
@@ -49,7 +66,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#" style="color: #ffde0d">首页</a>
+                <a class="navbar-brand" href="${pageContext.request.contextPath}/index.jsp" style="color: #ffde0d">首页</a>
             </div>
 
 

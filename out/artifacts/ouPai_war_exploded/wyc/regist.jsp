@@ -8,7 +8,7 @@
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/footer.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <script src="${pageContext.request.contextPath}/js/jquery-3.2.1.min.js"></script>
 
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
@@ -137,9 +137,13 @@
             if(flag) {
                 //用户名合法
                 $("#username").css("border","");
+                $("#username_err").html("")
+
             }else {
                 //用户名非法 加一个红色框框
                 $("#username").css("border","1px solid red");
+                $("#username_err").html("请输入8-20位的数字字母")
+                $("#username_err").css("color","#ff000e")
             }
             return flag;
         }
@@ -154,12 +158,16 @@
             if(flag) {
                 //用户名合法
                 $("#password").css("border","");
+                $("#password_err").html("")
             }else {
                 //用户名非法 加一个红色框框
                 $("#password").css("border","1px solid red");
+                $("#password_err").html("请输入8-20位的数字字母")
+                $("#password_err").css("color","#ff000e")
             }
             return flag;
         }
+
         //校验邮箱
         function checkEmail(){
             //1.获取邮箱
@@ -171,13 +179,32 @@
             var flag = reg_email.test(email);
             if(flag){
                 $("#email").css("border","");
+                $("#email_err").html("")
             }else{
                 $("#email").css("border","1px solid red");
+                $("#email_err").html("请输入正确的邮箱地址，以便于激活")
+                $("#email_err").css("color","#ff000e")
             }
 
             return flag;
         }
+        //
+        function checkPhone(){
+            var phone = $("#telephone").val();
+            var reg_phone = /^[1][3,4,5,7,8][0-9]{9}$/;
+            //3.判断
+            var flag = reg_phone.test(phone);
+            if(flag){
+                $("#telephone").css("border","");
+                $("#phone_err").html("")
+            }else{
+                $("#phone_err").html("请输入11位正确手机号码")
+                $("#phone_err").css("color","#ff000e")
+                $("#telephone").css("border","1px solid red");
+            }
 
+            return flag;
+        }
         $(function () {
             //当表单提交时，调用所有的校验方法
             $("#registerForm").submit(function(){
@@ -206,6 +233,7 @@
             $("#username").blur(checkUsername);
             $("#password").blur(checkPassword);
             $("#email").blur(checkEmail);
+            $("#telephone").blur(checkPhone);
 
 
         });
@@ -236,6 +264,7 @@
               </td>
               <td class="td_right">
                 <input type="text" id="username" name="username" placeholder="请输入账号">
+                <span id="username_err" style="float: right"></span>
               </td>
             </tr>
             <tr>
@@ -244,6 +273,7 @@
               </td>
               <td class="td_right">
                 <input type="text" id="password" name="password" placeholder="请输入密码">
+                <span id="password_err" style="float: right"></span>
               </td>
             </tr>
             <tr>
@@ -252,6 +282,7 @@
               </td>
               <td class="td_right">
                 <input type="text" id="email" name="email" placeholder="请输入Email">
+                <span id="email_err" style="float: right"></span>
               </td>
             </tr>
             <tr>
@@ -268,6 +299,7 @@
               </td>
               <td class="td_right">
                 <input type="text" id="telephone" name="telephone" placeholder="请输入您的手机号">
+                <span id="phone_err" style="float: right"></span>
               </td>
             </tr>
             <tr>
