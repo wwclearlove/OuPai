@@ -44,3 +44,11 @@
     padding-right:0;
 
 }
+
+.menu_list li a i{
+    float: left;
+    color: #ffde0d;
+    display: none;
+}
+
+

@@ -53,62 +53,56 @@
                 <ul class="nav navbar-nav menu" id="ass">
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >我们的业务<span class="caret"></span></a>
-                        <ul class="dropdown-menu as menu_list" >
-                            <li><a href="#">我们</a></li>
-                            <li><a href="#">厨柜</a></li>
-                            <li><a href="#">工程案例</a></li>
+                        <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>我们</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
 
-
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的公司<span class="caret"></span></a>
-                        <ul class="dropdown-menu as menu_list">
-                            <li><a href="#">橱柜1</a></li>
-                            <li><a href="#">金属门窗2</a></li>
-                            <li><a href="#">工程案例3</a></li>
+                        <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜1</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗2</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例3</a></li>
                         </ul>
                     </li>
 
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的服务<span class="caret"></span></a>
-                        <ul class="dropdown-menu as menu_list">
-                            <li ><a href="#">橱柜</a></li>
-                            <li><a href="#">金属门窗</a></li>
-                            <li><a href="#">工程案例</a></li>
+                        <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">资讯中心<span class="caret"></span></a>
-                        <ul class="dropdown-menu as menu_list">
-                            <li ><a href="#">橱柜</a></li>
-                            <li><a href="#">金属门窗</a></li>
-                            <li><a href="#">工程案例</a></li>
+                        <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">投资者关系<span class="caret"></span></a>
-                        <ul class="dropdown-menu as menu_list">
-                            <li ><a href="#">橱柜</a></li>
-                            <li><a href="#">金属门窗</a></li>
-                            <li><a href="#">工程案例</a></li>
+                        <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">加入欧派<span class="caret"></span></a>
-                        <ul class="dropdown-menu as menu_list">
-                            <li ><a href="#">橱柜</a></li>
-                            <li><a href="#">金属门窗</a></li>
-                            <li><a href="#">工程案例</a></li>
+                        <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
                 </ul>
-                <!--<form class="navbar-form navbar-left">
-                    <div class="form-group">
-                        <input type="text" class="form-control" style="width: 150px" placeholder="Search">
-                    </div>
-                    <button type="submit" class="btn btn-default">Submit</button>
-                </form>-->
+
             </div>
         </div>
     </nav>
