@@ -2,34 +2,233 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6720881e-043a-4005-9c9f-2deea7f174d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/call1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/call2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/call3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/call4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/call5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/call6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/fuwu1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/fuwu2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/fuwu3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/fuwu4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/fuwu5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/fuwu6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/gonglue1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/gonglue2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/gonglue3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/gonglue4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/news1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/news2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/MyFuWu/news3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fcx/fuwu_call.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fcx/fuwu_changjianwenti.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fcx/fuwu_gouwu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fcx/news_zhuxun.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/MyFuWu.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/MyFuwu.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.jms.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.resource.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/activation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-email-1.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mail.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/banner8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/bg22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/cj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/djj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/gcal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/gyop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic1_q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic2_q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic3_q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic4_q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic5_q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/ic6_q.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/iicon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/iicon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/iicon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/investor_relations02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/loginbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/qianshou.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/we.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/wgmn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/xiao.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ouPai/druid.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/ResultInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/druid.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/service/impl/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/JDBCUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/MailUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/Md5Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/UuidUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web/filter/CharchaterFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web/servlet/ActiveUserServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web/servlet/CheckCodeServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web/servlet/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web/servlet/RegistUserServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web/servlet/RemoveServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/investor_relations.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/investor_relations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/jihuo_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/regist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/regist.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/register2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/resist_ok.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/02_Bootrap案列.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526114336_801.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120242_383.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120334_542.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120344_225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160603144109_520.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160621184836_936.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/bigImg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jstl-impl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_title_content.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_changjianwenti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_gouwu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fuwu_call.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/footer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/shop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_title_content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/news_zhuxun.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/the_title_content/the_title_content.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/w.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/egs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/image/banner8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/ws/egs.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/image/banner6.jpg" afterPath="$PROJECT_DIR$/web/image/banner6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/image/banner7.jpg" afterPath="$PROJECT_DIR$/web/image/banner7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/image/logo.png" afterPath="$PROJECT_DIR$/web/image/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fcx/Fuwuheard.jsp" afterPath="$PROJECT_DIR$/web/fcx/Fuwuheard.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/原版.html" afterPath="$PROJECT_DIR$/web/原版.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ouPai.iml" afterPath="$PROJECT_DIR$/ouPai.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuwu.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuwu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/Fuwuheard.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/Fuwuheard.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/eg.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/eg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/原版.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/原版.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/head.css" afterPath="$PROJECT_DIR$/web/css/head.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/footer.jsp" afterPath="$PROJECT_DIR$/web/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/head.js" afterPath="$PROJECT_DIR$/web/js/head.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ws/eg.html" afterPath="$PROJECT_DIR$/web/ws/eg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/wyc/index2.jsp" afterPath="$PROJECT_DIR$/web/wyc/index2.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +237,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ouPai$Tomcat_9_.coverage" NAME="Tomcat 9  Coverage Results" MODIFIED="1558507650925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -49,7 +251,7 @@
         <entry file="file://$PROJECT_DIR$/web/fcx/news_zhuxun.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="16" column="77" lean-forward="true" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+              <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -200,16 +402,56 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-395">
               <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+              <folding>
+                <marker date="1558680394602" expanded="true" signature="14348:14356" ph="..." />
+                <marker date="1558680394602" expanded="true" signature="14348:14532" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1135">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1558680394602" expanded="true" signature="15459:15466" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <marker date="1558680856889" expanded="true" signature="178120:178137" ph="..." />
+                <marker date="1558680856889" expanded="true" signature="178120:178155" ph="..." />
+                <marker date="1558680856889" expanded="true" signature="178120:178168" ph="..." />
+                <marker date="1558680856889" expanded="true" signature="178120:178183" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MailUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/util/MailUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1036">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.html">
+      <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1135">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="148">
+              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -254,6 +496,8 @@
         <option value="$PROJECT_DIR$/web/news_zhuxun.html" />
         <option value="$PROJECT_DIR$/web/fcx/news_zhuxun.html" />
         <option value="$PROJECT_DIR$/web/fcx/fuwu_call.html" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java" />
       </list>
     </option>
   </component>
@@ -262,13 +506,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
@@ -314,7 +551,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,11 +565,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wyc" />
+              <option name="myItemId" value="production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ouPai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OuPai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ouPai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OuPai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -863,16 +1128,15 @@
       <workItem from="1558533174461" duration="4119000" />
       <workItem from="1558572459682" duration="13282000" />
       <workItem from="1558599242455" duration="9223000" />
-      <workItem from="1558659134931" duration="13371000" />
+      <workItem from="1558659134931" duration="14237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55770000" />
+    <option name="totallyTimeSpent" value="56636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -889,6 +1153,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -896,7 +1161,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -904,7 +1169,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1301,13 +1565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/MyFuWu/fuwu1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1322,6 +1579,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1850">
           <caret line="16" column="86" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="16" selection-end-column="86" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1380,6 +1638,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1464,7 +1723,7 @@
     <entry file="file://$PROJECT_DIR$/web/fcx/news_zhuxun.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
-          <caret line="16" column="77" lean-forward="true" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1619,7 +1878,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-395">
           <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-          <folding />
+          <folding>
+            <marker date="1558680394602" expanded="true" signature="14348:14356" ph="..." />
+            <marker date="1558680394602" expanded="true" signature="14348:14532" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1627,6 +1889,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1135">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1558680394602" expanded="true" signature="15459:15466" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1558680856889" expanded="true" signature="178120:178137" ph="..." />
+            <marker date="1558680856889" expanded="true" signature="178120:178155" ph="..." />
+            <marker date="1558680856889" expanded="true" signature="178120:178168" ph="..." />
+            <marker date="1558680856889" expanded="true" signature="178120:178183" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1036">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding />
         </state>
       </provider>
