@@ -7,44 +7,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/up-d.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/up-db.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ouPai_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ouPai_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/Wefuwu/4Sfw.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/Weyewu/ck.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/4Sfw.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/baoxiuzhengce.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/ck.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-4S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-listen.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-people.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-world.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gfive.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gfour.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gone.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gsix.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gthree.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gtwo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/baoxiu-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/aqcf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/astzy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/big-one.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/big-two.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/cf-book.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/cf-people.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/cf-wl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/fz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/lmdg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/lscf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/nycf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/pgnzt.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/rxcf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/shopping.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/skl.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/snkl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/stjt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/sxgy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/three-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/tl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/wzzf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/ydn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/yscf.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ouPai.iml" afterPath="$PROJECT_DIR$/ouPai.iml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/druid.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/jihuo_ok.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/jihuo_ok.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/login.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/login.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/regist.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/regist.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/resist_ok.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/resist_ok.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/dao/UserDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/dao/impl/UserDaoImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/domain/ResultInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/domain/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/druid.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/service/UserService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/service/impl/UserServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/util/JDBCUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/util/MailUtils$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/util/MailUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/util/Md5Util.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/util/UuidUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/web/filter/CharchaterFilter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/web/servlet/ActiveUserServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/web/servlet/CheckCodeServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/web/servlet/LoginServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/web/servlet/RegistUserServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ouPai/web/servlet/RemoveServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/footer.jsp" afterPath="$PROJECT_DIR$/web/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/wyc/jihuo_ok.jsp" afterPath="$PROJECT_DIR$/web/wyc/jihuo_ok.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/wyc/login.jsp" afterPath="$PROJECT_DIR$/web/wyc/login.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/wyc/regist.jsp" afterPath="$PROJECT_DIR$/web/wyc/regist.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/wyc/resist_ok.jsp" afterPath="$PROJECT_DIR$/web/wyc/resist_ok.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +58,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="4Sfw.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/Wefuwu/4Sfw.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,8 +154,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="209" />
-    <option name="y" value="24" />
+    <option name="x" value="375" />
+    <option name="y" value="35" />
     <option name="width" value="1447" />
     <option name="height" value="800" />
   </component>
@@ -176,19 +190,20 @@
               <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="oupai" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="oupai" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="oupai" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="wyc" type="462c0819:PsiDirectoryNode" />
+              <item name="Wefuwu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,10 +231,10 @@
       <recent name="com.web.servlet" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\oupai\web" />
+      <recent name="G:\oupai\web\image" />
       <recent name="G:\oupai\web\css" />
       <recent name="G:\oupai\web\js" />
-      <recent name="G:\oupai\web\image" />
-      <recent name="G:\oupai\web" />
       <recent name="G:\oupai\web\wyc" />
     </key>
   </component>
@@ -506,12 +521,12 @@
       <workItem from="1558533833308" duration="26717000" />
       <workItem from="1558596241927" duration="17654000" />
       <workItem from="1558658081619" duration="4808000" />
-      <workItem from="1558663488870" duration="9074000" />
+      <workItem from="1558663488870" duration="10067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58661000" />
+    <option name="totallyTimeSpent" value="59654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -594,21 +609,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="343" column="16" lean-forward="false" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/investor_relations.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -929,6 +929,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="73" lean-forward="false" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/4Sfw.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Wefuwu/4Sfw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
