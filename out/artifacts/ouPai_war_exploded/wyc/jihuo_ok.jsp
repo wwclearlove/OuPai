@@ -15,17 +15,17 @@
   </head>
   <body>
 
-  <jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
+  <jsp:include page="../header.jsp" flush="true"/>
 
   <div class="container">
     <div class="row">
       <div class="col-md-12" style="text-align:center;red:yellow;font-weight:bold;font-size:30px;padding: 5%">
-        <h4>恭喜，激活成功！点击 <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp" style="text-decoration: none;">登录</a></h4>
+        <h4>恭喜，激活成功！点击 <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp" style="text-decoration: none;color: black">登录</a></h4>
       </div>
     </div>
   </div>
 
-  <jsp:include page="${pageContext.request.contextPath}/footer.jsp" flush="true"/>
+  <jsp:include page="../footer.jsp" flush="true"/>
 
   </body>
 

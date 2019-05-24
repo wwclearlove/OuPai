@@ -241,7 +241,7 @@
   </head>
   <body>
 
-  <jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
+  <jsp:include page="../header.jsp" flush="true"/>
   <div class="container-fluid rg_layout" align="center">
     <div class="row  loginbg rg_form clearfix " style="font-size: 1.2em;padding-top:4%">
       <div class="col-md-offset-1 col-md-2 " style="background:rgba(255,255,255,0.3);" >
@@ -352,7 +352,7 @@
       </div>
     </div>
   </div>
-  <jsp:include page="${pageContext.request.contextPath}/footer.jsp" flush="true"/>
+  <jsp:include page="../footer.jsp" flush="true"/>
 
   </body>
 

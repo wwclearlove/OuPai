@@ -17,12 +17,22 @@
     <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
+    <script type="text/javascript" src="js/manhuatoTop.1.0.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/manhuatoTop.1.0.css">
+    <script type="text/javascript">
+        $(function (){
+            $(window).manhuatoTop({
+                showHeight : 100,//设置滚动高度时显示
+                speed : 500 //返回顶部的速度以毫秒为单位
+            });
+        });
+
+    </script>
+
     <script>
         $(function () {
             $('#carousel-example-generic').carousel({interval: 2000});
         });
-
-
     </script>
     <style>
       p{
@@ -150,7 +160,7 @@
     </style>
   </head>
   <body>
-  <jsp:include page="${pageContext.request.contextPath}header.jsp" flush="true"/>
+  <jsp:include page="header.jsp" flush="true"/>
   <div class="container-fluid">
     <div class="row">
       <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -480,7 +490,7 @@
 
     </div>
   </div>
-  <jsp:include page="${pageContext.request.contextPath}footer.jsp" flush="true"/>
+  <jsp:include page="footer.jsp" flush="true"/>
   <%--<%@ include file="header.jsp"%>--%>
   <%--<%@ include file="footer.jsp"%>--%>
   </body>

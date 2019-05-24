@@ -91,7 +91,7 @@
   </script>
   <body>
 
-  <jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
+  <jsp:include page="../header.jsp" flush="true"/>
   <div class="container-fluid" align="center">
     <div class="row  loginbg">
       <div class=" col-md-5 col-md-offset-6" >
@@ -143,7 +143,7 @@
       </div>
     </div>
   </div>
-  <jsp:include page="${pageContext.request.contextPath}/footer.jsp" flush="true"/>
+  <jsp:include page="../footer.jsp" flush="true"/>
 
   </body>
 

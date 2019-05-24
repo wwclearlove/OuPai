@@ -15,7 +15,7 @@
   </head>
   <body>
 
-  <jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
+  <jsp:include page="../header.jsp" flush="true"/>
 
   <div class="container">
     <div class="row">
@@ -25,7 +25,7 @@
     </div>
   </div>
 
-  <jsp:include page="${pageContext.request.contextPath}/footer.jsp" flush="true"/>
+  <jsp:include page="../footer.jsp" flush="true"/>
 
   </body>
 

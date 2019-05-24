@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap HelloWorld</title>
 
+
 </head>
 
 <body>
@@ -75,7 +76,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >我们的业务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>我们</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
@@ -84,42 +85,40 @@
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的公司<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜1</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗2</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例3</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>公司</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>关于欧派</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>品牌历史</a></li>
                         </ul>
                     </li>
 
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的服务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">资讯中心<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>新闻中心</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">投资者关系<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>投资关系</a></li>
+
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">加入欧派<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>橱柜</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>金属门窗</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>成为供应商</a></li>
+
                         </ul>
                     </li>
                 </ul>
