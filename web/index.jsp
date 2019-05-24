@@ -21,8 +21,6 @@
         $(function () {
             $('#carousel-example-generic').carousel({interval: 2000});
         });
-
-
     </script>
     <style>
       p{
@@ -150,7 +148,7 @@
     </style>
   </head>
   <body>
-  <jsp:include page="${pageContext.request.contextPath}header.jsp" flush="true"/>
+  <jsp:include page="header.jsp" flush="true"/>
   <div class="container-fluid">
     <div class="row">
       <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -480,7 +478,7 @@
 
     </div>
   </div>
-  <jsp:include page="${pageContext.request.contextPath}footer.jsp" flush="true"/>
+  <jsp:include page="footer.jsp" flush="true"/>
   <%--<%@ include file="header.jsp"%>--%>
   <%--<%@ include file="footer.jsp"%>--%>
   </body>
