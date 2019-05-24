@@ -6,49 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/Wefuwu/4Sfw.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/Weyewu/ck.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/4Sfw.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/baoxiuzhengce.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/ck.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-4S.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-listen.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-people.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/4S-world.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gfive.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gfour.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gone.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gsix.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gthree.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/Gtwo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/baoxiu-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/aqcf.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/astzy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/big-one.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/big-two.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/cf-book.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/cf-people.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/cf-wl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/fz.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/lmdg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/lscf.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/nycf.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/pgnzt.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/rxcf.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/shopping.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/skl.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/snkl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/stjt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/sxgy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/three-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/tl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/wzzf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/ydn.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/cf/yscf.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="786c22a0-c88e-4e56-917e-25ee1647be5b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
