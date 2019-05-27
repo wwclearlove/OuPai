@@ -31,8 +31,8 @@
 }
 
 .kf{
-    margin-top: 40px;
-    line-height: 40px;
+    margin-top: 30px;
+    line-height: 30px;
     color: #666;
     font-size: 14px;
     font-weight: bold;
@@ -46,7 +46,7 @@
 .tb p{
     padding-left: 3px;
 }
-@media (max-width: 750px) {
+@media (max-width:750px) {
     span{
         font-size: 0.6em;
     }
@@ -60,4 +60,5 @@
    .row-content h3{
         font-size: 1em;
     }
+
 }

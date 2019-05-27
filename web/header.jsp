@@ -77,7 +77,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >我们的业务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
@@ -96,14 +96,15 @@
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp"><i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp"><i class="fa fa-hand-o-right fa-lg"></i>保修政策</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">资讯中心<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>新闻中心</a></li>
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">

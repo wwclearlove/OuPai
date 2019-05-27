@@ -20,13 +20,11 @@
   </head>
   <body>
   <%--<c:import url="header.jsp"></c:import>--%>
-  <jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
+  <jsp:include page="../header.jsp" flush="true"/>
   <div style="height: 1000px;width: 100%">
 
   </div>
-  <jsp:include page="${pageContext.request.contextPath}/footer.jsp" flush="true"/>
-  <%--<%@ include file="header.jsp"%>--%>
-  <%--<%@ include file="footer.jsp"%>--%>
+  <jsp:include page="../footer.jsp" flush="true"/>
   </body>
 
 </html>
