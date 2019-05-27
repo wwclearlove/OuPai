@@ -53,7 +53,7 @@
                     <ul id="the_title_content_ul">
                         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 新闻中心 </a></li>
                         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 爱家计划 </a></li>
-                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 投资者关系 </a></li>
+                        <li><a href="investor_relations.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 投资者关系 </a></li>
                     </ul>
                     <script>
                         var oUl = document.getElementById("the_title_content_ul");
@@ -184,4 +184,5 @@
 <%--引入头尾部--%>
 <jsp:include page="../footer.jsp" flush="true"/>
 
+</body>
 </html>
