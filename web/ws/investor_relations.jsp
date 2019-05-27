@@ -52,7 +52,7 @@
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="the_title_content_ul">
                         <li><a href="${pageContext.request.contextPath}/fcx/newzx.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 新闻中心 </a></li>
-                        <%--<li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>投资者关系 </a></li>--%>
+                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>投资者关系 </a></li>
 
                     </ul>
                     <script>

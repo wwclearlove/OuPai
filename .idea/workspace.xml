@@ -7,74 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4d5eee7-6f34-49e9-8669-64f40c8dd097" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/about_the_send.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/become_a_supplier.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/brand_history.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/project_case.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/MyFuwu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/changjianwenti.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/fuwu_call.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/gouwu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/fcx/newzx.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/gwc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/image/sl3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/about_the_send.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/become_a_supplier.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/brand_history.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/cwgys.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/gcal.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/gyop.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/ppls.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy/project_case.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20160526145806_873.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20160526145840_838.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20160526145925_122.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20160526150000_831.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20160818092935_122.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161013171938_772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161013171952_507.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161013172018_316.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161013172033_149.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161107182248_638.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161107182611_996.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161107183255_499.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/20161117091000_110.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/bigImg5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/jtleft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/jtright.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/yy_img/shop.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war/ouPai_war.war" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war/ouPai_war.war" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4sfw.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4sfw.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/4Sfw.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/4Sfw.css" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/baoxiuzhengce.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/baoxiuzhengce.css" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/ck.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/ck.css" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.html" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_call.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_call.html" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_gouwu.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_gouwu.html" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/Wefuwu/4sfw.jsp" afterPath="$PROJECT_DIR$/web/Wefuwu/4sfw.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp" afterPath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/Weyewu/ck.jsp" afterPath="$PROJECT_DIR$/web/Weyewu/ck.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/css/4Sfw.css" afterPath="$PROJECT_DIR$/web/css/4Sfw.css" />
-      <change beforePath="$PROJECT_DIR$/web/css/baoxiuzhengce.css" afterPath="$PROJECT_DIR$/web/css/baoxiuzhengce.css" />
-      <change beforePath="$PROJECT_DIR$/web/css/ck.css" afterPath="$PROJECT_DIR$/web/css/ck.css" />
-      <change beforePath="$PROJECT_DIR$/web/fcx/MyFuwu.html" afterPath="$PROJECT_DIR$/web/fcx/MyFuwu.html" />
-      <change beforePath="$PROJECT_DIR$/web/fcx/fuwu_call.html" afterPath="$PROJECT_DIR$/web/fcx/fuwu_call.html" />
-      <change beforePath="$PROJECT_DIR$/web/fcx/fuwu_gouwu.html" afterPath="$PROJECT_DIR$/web/fcx/fuwu_gouwu.html" />
-      <change beforePath="$PROJECT_DIR$/web/footer.jsp" afterPath="$PROJECT_DIR$/web/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/fcx/newzx.jsp" afterPath="$PROJECT_DIR$/web/fcx/newzx.jsp" />
       <change beforePath="$PROJECT_DIR$/web/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/ws/our_business.jsp" afterPath="$PROJECT_DIR$/web/ws/our_business.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/ws/our_company.jsp" afterPath="$PROJECT_DIR$/web/ws/our_company.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/ws/our_investment.jsp" afterPath="$PROJECT_DIR$/web/ws/our_investment.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/ws/the_shopping_cart.jsp" afterPath="$PROJECT_DIR$/web/ws/the_shopping_cart.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/ws/to_join_the_european.jsp" afterPath="$PROJECT_DIR$/web/ws/to_join_the_european.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/web/WEB-INF/classes/" />
@@ -86,52 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/footer.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="53" column="77" lean-forward="false" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/header.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="100" column="84" lean-forward="false" selection-start-line="100" selection-start-column="84" selection-end-line="100" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4sfw.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Wefuwu/4sfw.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="53" column="101" lean-forward="true" selection-start-line="53" selection-start-column="101" selection-end-line="53" selection-end-column="101" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baoxiuzhengce.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,8 +72,6 @@
         <option value="$PROJECT_DIR$/web/fcx/MyFuwu.jsp" />
         <option value="$PROJECT_DIR$/web/fcx/gouwu.jsp" />
         <option value="$PROJECT_DIR$/web/fcx/changjianwenti.jsp" />
-        <option value="$PROJECT_DIR$/web/fcx/newzx.jsp" />
-        <option value="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
         <option value="$PROJECT_DIR$/web/header.jsp" />
         <option value="$PROJECT_DIR$/web/ws/to_join_the_european.jsp" />
         <option value="$PROJECT_DIR$/web/ws/our_investment.jsp" />
@@ -192,6 +80,8 @@
         <option value="$PROJECT_DIR$/web/footer.jsp" />
         <option value="$PROJECT_DIR$/web/Wefuwu/4sfw.jsp" />
         <option value="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp" />
+        <option value="$PROJECT_DIR$/web/fcx/newzx.jsp" />
+        <option value="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
       </list>
     </option>
   </component>
@@ -235,6 +125,11 @@
             <path>
               <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="oupai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oupai" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -492,16 +387,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558920922861</updated>
-      <workItem from="1558920924165" duration="17399000" />
+      <workItem from="1558920924165" duration="17618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17399000" />
+    <option name="totallyTimeSpent" value="17618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -524,7 +418,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24514039" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24514039" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -959,22 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/fcx/newzx.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="73" column="93" lean-forward="false" selection-start-line="73" selection-start-column="93" selection-end-line="73" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ws/investor_relations.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="53" column="85" lean-forward="false" selection-start-line="53" selection-start-column="85" selection-end-line="53" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/ws/to_join_the_european.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1041,18 +919,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="100" column="84" lean-forward="false" selection-start-line="100" selection-start-column="84" selection-end-line="100" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/Wefuwu/4sfw.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="53" column="101" lean-forward="true" selection-start-line="53" selection-start-column="101" selection-end-line="53" selection-end-column="101" />
+          <caret line="53" column="101" lean-forward="false" selection-start-line="53" selection-start-column="101" selection-end-line="53" selection-end-column="101" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1062,10 +932,34 @@
     <entry file="file://$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/fcx/newzx.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="72" column="60" lean-forward="false" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="117" column="85" lean-forward="true" selection-start-line="117" selection-start-column="85" selection-end-line="117" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ws/investor_relations.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
