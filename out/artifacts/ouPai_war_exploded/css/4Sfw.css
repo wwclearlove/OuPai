@@ -2,6 +2,40 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+=======
+.investor_relations01 {
+    background: url("../image/sl2.jpg") no-repeat;
+    background-size: 100%, 100%;
+}
+#the_title_content ul li {
+    float: left;
+    height: 100%;
+    list-style: none;
+    line-height: 60px;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#the_title_content ul li a {
+    float: left;
+    color: black;
+    height: 100%;
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+    text-decoration: none;
+}
+
+#the_title_content ul li a i {
+    float: left;
+    font-size: 1.3em;
+    color: #FEA327;
+    display: none;
+    line-height: 60px;
+}
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 .fwln{
     background: #FFBB6A;
     text-align: center;

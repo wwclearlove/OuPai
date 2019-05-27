@@ -1,8 +1,13 @@
 <%--
   Created by IntelliJ IDEA.
   User: MICHAEL
+<<<<<<< HEAD
   Date: 2019/5/20
   Time: 20:51
+=======
+  Date: 2019/5/22
+  Time: 15:29
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -13,6 +18,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<<<<<<< HEAD
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/investor_relations.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
@@ -33,6 +39,37 @@
 
 </head>
 <body>
+=======
+    <title>投资者关系</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../css/head.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/investor_relations.css">
+    <script type="text/javascript" src="../js/investor_relations.js"></script>
+    <script src="../js/head.js"></script>
+    <style type="text/css">
+
+        .row {
+            margin-right: 0;
+        }
+
+        .container-fluid {
+            padding-right: 0;
+        }
+
+    </style>
+</head>
+<body>
+
+<%--引入头部导航栏--%>
+
+<jsp:include page="../header.jsp" flush="true"/>
+
+<%--内容--%>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 <section>
     <div class="container-fluid investor_relations01" align="center">
         <div class="row">
@@ -44,12 +81,22 @@
                     <ul id="the_title_content_ul">
                         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 新闻中心 </a></li>
                         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 爱家计划 </a></li>
+<<<<<<< HEAD
                         <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 投资者关系 </a></li>
                     </ul>
                     <script>
                         var oLi = document.getElementsByTagName("li");
                         document.getElementById("the_title_content").style.width = oLi[0].offsetWidth * (oLi.length + 1) + "px";
                         document.getElementById("the_title_content_ul").style.marginLeft = oLi[0].offsetWidth / 2 + "px";
+=======
+                        <li><a href="investor_relations.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 投资者关系 </a></li>
+                    </ul>
+                    <script>
+                        var oUl = document.getElementById("the_title_content_ul");
+                        var oLi = oUl.getElementsByTagName("li");
+                        document.getElementById("the_title_content").style.width = oLi[2].offsetWidth * (oLi.length + 1) + "px";
+                        document.getElementById("the_title_content_ul").style.marginLeft = oLi[2].offsetWidth / 2 + "px";
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                     </script>
                 </div>
             </div>
@@ -92,7 +139,11 @@
                 <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
+<<<<<<< HEAD
                 <img src="${pageContext.request.contextPath}//image/investor_relations02.png" alt="" width="100%">
+=======
+                <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
@@ -170,5 +221,12 @@
     </div>
 
 </section>
+<<<<<<< HEAD
+=======
+
+<%--引入头尾部--%>
+<jsp:include page="../footer.jsp" flush="true"/>
+
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 </body>
 </html>

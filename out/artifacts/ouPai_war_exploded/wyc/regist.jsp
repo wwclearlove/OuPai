@@ -111,7 +111,11 @@
       }
       @media (max-width: 750px) {
         .rg_form_center{
+<<<<<<< HEAD
           margin-left: 20%;
+=======
+          margin-left: 10%;
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
         }
       }
 

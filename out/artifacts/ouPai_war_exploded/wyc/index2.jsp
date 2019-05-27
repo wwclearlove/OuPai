@@ -1,10 +1,18 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
+<<<<<<< HEAD
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" contenmvn package -Dmaven.test.failture.ignore=true t="width=device-width, initial-scale=1">
+=======
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <title>Bootstrap HelloWorld</title>
     <!-- Bootstrap -->
@@ -17,6 +25,7 @@
     <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
+<<<<<<< HEAD
   </head>
   <body>
   <%--<c:import url="header.jsp"></c:import>--%>
@@ -28,5 +37,30 @@
   <%--<%@ include file="header.jsp"%>--%>
   <%--<%@ include file="footer.jsp"%>--%>
   </body>
+=======
+<<<<<<< HEAD
+  </head>
+  <body>
+  <%--<c:import url="header.jsp"></c:import>--%>
+  <jsp:include page="../header.jsp" flush="true"/>
+  <div style="height: 1000px;width: 100%">
+
+  </div>
+  <jsp:include page="../footer.jsp" flush="true"/>
+  </body>
+=======
+</head>
+<body>
+<%--<c:import url="header.jsp"></c:import>--%>
+<jsp:include page="${pageContext.request.contextPath}/header.jsp" flush="true"/>
+<div style="height: 1000px;width: 100%">
+
+</div>
+<jsp:include page="${pageContext.request.contextPath}/footer.jsp" flush="true"/>
+<%--<%@ include file="header.jsp"%>--%>
+<%--<%@ include file="footer.jsp"%>--%>
+</body>
+>>>>>>> e4ec91464a29fb940d41fd1672b6ab9dc3dda0fc
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 
 </html>

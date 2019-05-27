@@ -7,10 +7,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap HelloWorld</title>
+<<<<<<< HEAD
 
 
 </head>
 
+=======
+</head>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 <body>
 <header class="container-fluid" style="padding-left: 0;padding-right: 0px">
     <div class="row head" style="margin-right: 0;margin-left: 0;">
@@ -21,8 +25,11 @@
                     <a href="javascript:void(0)"><span class="search-btn" style="vertical-align:middle;color: #ffde0d;">${user.name}<c:choose> <c:when test="${user.name eq null}">请点击用户登录按钮</c:when><c:otherwise>,欢迎您</c:otherwise> </c:choose></span></a>
                 </li>
                 <li>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                     <c:choose>
                         <c:when test="${user.name eq null}">
                             <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp">
@@ -48,8 +55,13 @@
                 </li>
                 <li>
                     <a class="search-btn " href="#">
+<<<<<<< HEAD
                     <img src="${pageContext.request.contextPath}/image/phone.png" class="img-circle">
                     客服/招商热线：<span>400-884-1868</span>
+=======
+                        <img src="${pageContext.request.contextPath}/image/phone.png" class="img-circle">
+                        客服/招商热线：<span>400-884-1868</span>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                     </a>
                 </li>
 
@@ -61,7 +73,12 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
+<<<<<<< HEAD
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+=======
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -77,7 +94,11 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >我们的业务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
+<<<<<<< HEAD
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
+=======
+                            <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
@@ -88,22 +109,37 @@
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>公司</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>关于欧派</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>品牌历史</a></li>
+<<<<<<< HEAD
                         </ul>
                     </li>
 
+=======
+
+                        </ul>
+                    </li>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的服务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+<<<<<<< HEAD
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
+=======
+                            <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp"><i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp"><i class="fa fa-hand-o-right fa-lg"></i>保修政策</a></li>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">资讯中心<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>新闻中心</a></li>
+<<<<<<< HEAD
+=======
+                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                         </ul>
                     </li>
                     <li class="dropdown list">
@@ -118,7 +154,10 @@
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
                             <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>成为供应商</a></li>
+<<<<<<< HEAD
 
+=======
+>>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
                         </ul>
                     </li>
                 </ul>

@@ -2,9 +2,220 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6720881e-043a-4005-9c9f-2deea7f174d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/domain/Product.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/domain/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/servlet/CartServlet.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/web/servlet/CartServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/activation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/c3p0-0.9.5.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-email-1.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/druid-1.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jackson-annotations-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jackson-core-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jackson-databind-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jstl-impl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mail.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mchange-commons-java-0.2.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-beans-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-core-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-tx-5.0.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war/ouPai_war.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_business16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_company01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_company02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_company03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_company04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_company05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_company06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_investment01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_investment02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_investment03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_investment04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/our_investment05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/sl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/sl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/sp1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/sp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/sp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/sp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/the_wardrobe20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/to_join_the_european01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/to_join_the_european02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/to_join_the_european03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/image/to_join_the_european04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ouPai_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/druid.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4sfw.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/our_business.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/our_company.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/our_investment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_shopping_cart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/our_business.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/our_company.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/our_investment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_shopping_cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/egs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_company.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_company.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_investment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_investment.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/the_shopping_cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/the_shopping_cart.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/to_join_the_european.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/to_join_the_european.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/shop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/druid.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Wefuwu/4sfw.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Weyewu/ck.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/our_business.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/our_company.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/our_investment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/the_shopping_cart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/our_business.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/our_company.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/our_investment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/the_shopping_cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/egs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/investor_relations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/our_business.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/our_business.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/our_company.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/our_company.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/our_investment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/our_investment.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/the_shopping_cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/the_shopping_cart.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/to_join_the_european.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/to_join_the_european.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/wyc/shop.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/commons-beanutils-1.8.3.jar" afterPath="$PROJECT_DIR$/lib/commons-beanutils-1.8.3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ouPai_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ouPai_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ouPai.iml" afterPath="$PROJECT_DIR$/ouPai.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/4Sfw.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/4Sfw.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/baoxiuzhengce.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/baoxiuzhengce.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/ck.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/ck.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/investor_relations.css" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/investor_relations.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/regist.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/regist.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/4Sfw.css" afterPath="$PROJECT_DIR$/web/css/4Sfw.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/baoxiuzhengce.css" afterPath="$PROJECT_DIR$/web/css/baoxiuzhengce.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/ck.css" afterPath="$PROJECT_DIR$/web/css/ck.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/footer.css" afterPath="$PROJECT_DIR$/web/css/footer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/investor_relations.css" afterPath="$PROJECT_DIR$/web/css/investor_relations.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/footer.jsp" afterPath="$PROJECT_DIR$/web/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/wyc/index2.jsp" afterPath="$PROJECT_DIR$/web/wyc/index2.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/wyc/regist.jsp" afterPath="$PROJECT_DIR$/web/wyc/regist.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/ws/eg.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,151 +234,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/servlet/CartServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="66" />
-              <folding>
-                <element signature="docComment;class#CartServlet#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eg.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/ws/eg.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4003">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40003">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cart.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/Cart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#257#275#0" expanded="true" />
-                <element signature="e#1177#1178#0" expanded="true" />
-                <element signature="e#1204#1205#0" expanded="true" />
-                <element signature="e#1291#1292#0" expanded="true" />
-                <element signature="e#1322#1323#0" expanded="true" />
-                <element signature="e#1419#1420#0" expanded="true" />
-                <element signature="e#1454#1455#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/CartItem.java">
+      <file leaf-file-name="the_shopping_cart.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/ws/the_shopping_cart.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/servlet/RemoveServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="11" selection-start-column="121" selection-end-line="14" selection-end-column="5" />
+              <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/Order.java">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="330">
+              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="49" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/OrderItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1003">
-              <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-              <folding>
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#765#766#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1110#1111#0" expanded="true" />
-                <element signature="e#1139#1140#0" expanded="true" />
-                <element signature="e#1183#1184#0" expanded="true" />
-                <element signature="e#1219#1220#0" expanded="true" />
-                <element signature="e#1257#1258#0" expanded="true" />
-                <element signature="e#1291#1292#0" expanded="true" />
-                <element signature="e#1345#1346#0" expanded="true" />
-                <element signature="e#1391#1392#0" expanded="true" />
+                <marker date="1558687292916" expanded="true" signature="14343:14462" ph="..." />
               </folding>
             </state>
           </provider>
@@ -208,15 +291,17 @@
         <option value="$PROJECT_DIR$/web/fcx/fuwu_call.html" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/web/fcx/news_zhuxun.html" />
-        <option value="$PROJECT_DIR$/ouPai.iml" />
         <option value="$PROJECT_DIR$/src/domain/Order.java" />
         <option value="$PROJECT_DIR$/src/domain/OrderItem.java" />
         <option value="$PROJECT_DIR$/src/domain/Product.java" />
         <option value="$PROJECT_DIR$/src/domain/CartItem.java" />
         <option value="$PROJECT_DIR$/src/domain/Cart.java" />
         <option value="$PROJECT_DIR$/src/web/servlet/CartServlet.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/ouPai.iml" />
+        <option value="$PROJECT_DIR$/web/ws/the_shopping_cart.html" />
+        <option value="$PROJECT_DIR$/web/ws/the_shopping_cart.jsp" />
       </list>
     </option>
   </component>
@@ -225,13 +310,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
@@ -297,38 +375,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ws" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ouPai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OuPai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ouPai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OuPai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -871,12 +917,12 @@
       <workItem from="1558687439983" duration="712000" />
       <workItem from="1558692684061" duration="7212000" />
       <workItem from="1558706749372" duration="217000" />
-      <workItem from="1558789243369" duration="6429000" />
+      <workItem from="1558789243369" duration="6997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71573000" />
+    <option name="totallyTimeSpent" value="72141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1546" height="830" extended-state="0" />
@@ -897,7 +943,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902297" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -969,21 +1015,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/MyFuWu/call1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/MyFuWu/call6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/MyFuWu/call5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/MyFuWu/call2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1074,16 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-          <folding>
-            <marker date="1558687292916" expanded="true" signature="14343:14462" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -1116,13 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
           <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ouPai.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1924">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1216,7 +1230,7 @@
     <entry file="file://$PROJECT_DIR$/src/domain/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" column="0" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#257#275#0" expanded="true" />
@@ -1329,16 +1343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/servlet/CartServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="66" />
-          <folding>
-            <element signature="docComment;class#CartServlet#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/ws/investor_relations.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2970">
@@ -1363,10 +1367,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ouPai.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="54" column="76" lean-forward="false" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40003">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/servlet/CartServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="docComment;class#CartServlet#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ws/the_shopping_cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <marker date="1558687292916" expanded="true" signature="14343:14462" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ws/the_shopping_cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="34" />
           <folding />
         </state>
       </provider>
