@@ -15,31 +15,34 @@
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
     <link href="../css/ck.css" rel="stylesheet">
+    <script type="text/javascript" src="../js/investor_relations.js"></script>
   </head>
   <body>
   <jsp:include page="../header.jsp" flush="true"/>
+
   <div class="container-fluid investor_relations01" align="center">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-        <h2 id="h2s" style="padding-top: 25%;padding-bottom:10%;color: white;">厨柜</h2>
+        <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">厨柜</h2>
 
         <div id="the_title_content" align="center"
-             style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;" >
+             style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
           <ul id="the_title_content_ul">
-            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 业务</a></li>
-            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 厨柜 </a></li>
-            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 工程案例 </a></li>
+            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>  业务 </a></li>
+            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 厨柜</a></li>
+            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 工程案例</a></li>
+
           </ul>
           <script>
-              var oLi = document.getElementsByTagName("li");
-              document.getElementById("the_title_content").style.width = oLi[0].offsetWidth * (oLi.length + 1) + "px";
-              document.getElementById("the_title_content_ul").style.marginLeft = oLi[0].offsetWidth / 2 + "px";
+              var oUl = document.getElementById("the_title_content_ul");
+              var oLi = oUl.getElementsByTagName("li");
+              document.getElementById("the_title_content").style.width = oLi[2].offsetWidth * (oLi.length + 1) + "px";
+              document.getElementById("the_title_content_ul").style.marginLeft = oLi[2].offsetWidth / 2 + "px";
           </script>
         </div>
       </div>
     </div>
   </div>
-
   <section class="container-fluid">
     <div class="row rs-1">
       <div class="col-xs-5 col-md-5 col-md-offset-1 col-xs-offset-1  big-one "style="padding: 0"><img src="../image/cf/big-one.jpg"class="img-responsive"/></div>
