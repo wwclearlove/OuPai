@@ -372,7 +372,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="375" />
     <option name="y" value="35" />
     <option name="width" value="1447" />
@@ -875,7 +875,7 @@
       <workItem from="1558698670479" duration="16000" />
       <workItem from="1558698728254" duration="1266000" />
       <workItem from="1558744946767" duration="4972000" />
-      <workItem from="1558866234441" duration="4491000" />
+      <workItem from="1558866234441" duration="4848000" />
     </task>
     <task id="LOCAL-00001" summary="dfgsdfg">
       <created>1558688687810</created>
@@ -888,10 +888,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72811000" />
+    <option name="totallyTimeSpent" value="73168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6560587" sideWeight="0.50431967" order="7" side_tool="true" content_ui="tabs" />
