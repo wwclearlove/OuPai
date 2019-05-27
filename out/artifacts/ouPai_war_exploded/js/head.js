@@ -18,9 +18,11 @@ $(document).ready(function () {
                 oLi[n].indexs = n;
                 oLi[n].onmouseover = function () {
                     oLi.eq(this.indexs).css({"font-size":"1.2em"});
+                    oLi.eq(this.indexs).children().eq(0).children().eq(0).css("display","block");
                 };
                 oLi[n].onmouseout = function () {
                     oLi.eq(this.indexs).css("font-size","1em");
+                    oLi.eq(this.indexs).children().eq(0).children().eq(0).css("display","none");
                 };
             }
         };
@@ -30,6 +32,4 @@ $(document).ready(function () {
     })
 
 
-
-
-})
+});

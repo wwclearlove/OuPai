@@ -134,21 +134,21 @@
         color: white;
       }
       .qh1{
-        padding:8.1%;
+        padding:8.5%;
         background: #f6f6f6;
       }
       .qh2{
-        padding:8.1%;
+        padding:9%;
         background: #ffffff;
       }
       .qh3{
-        padding:8.1%;
+        padding:9%;
         background: #ffffff;
       }
     </style>
   </head>
   <body>
-  <jsp:include page="${pageContext.request.contextPath}header.jsp" flush="true"/>
+  <jsp:include page="header.jsp" flush="true"/>
   <div class="container-fluid">
     <div class="row">
       <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -478,7 +478,7 @@
 
     </div>
   </div>
-  <jsp:include page="${pageContext.request.contextPath}footer.jsp" flush="true"/>
+  <jsp:include page="footer.jsp" flush="true"/>
   <%--<%@ include file="header.jsp"%>--%>
   <%--<%@ include file="footer.jsp"%>--%>
   </body>

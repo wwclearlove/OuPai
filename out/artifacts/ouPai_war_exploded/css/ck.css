@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rs-1{
+    margin-top:5%;
+}
+@media (max-width: 750px) {
+    p{
+        font-size: 0.6em;
+    }
+    .big-one{
+        margin-top: 5%;
+    }
+    .big-text p{
+        font-size: 1.5em;
+    }
+    .chzs h1{
+        font-size: 1.2em;
+    }
+    .zgxl-text h3{
+        font-size: 1em;
+    }
+    .ten-photo h4{
+        font-size: 1em;
+    }
+    .czfu-bg p{
+        font-size: 0.3em;
+    }
+    .opsc p{
+        font-size: 0.3em;
+    }
+    .opsc img{
+        width: 90%;
+    }
+}
+@media (min-width: 750px){
+    .big-text p{
+        font-size: 3em;
+    }
+}
+.wdbz{
+    background: #B5B6B6;
+    color: white;
+    height: 240px;
+}
+.zgxl{
+    background: #FFBB6A;
+    text-align: center;
+    padding: 1%;
+    color: white;
+}
+.jdxl{
+    background: #F5F5F5;
+    text-align: center;
+    padding: 1%;
+    color:black;
+    margin-left: 2%;
+}
+.ssxl{
+    background: #F5F5F5;
+    text-align: center;
+    padding: 1%;
+    color: black;
+    margin-left: 2%;
+}
+
+.czfu-bg{
+    background: url("../image/cf/shopping.jpg") no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 4%;
+    padding-top: 3%;
+}
+.fu-text{
+    font-size: 1.8em;
+    text-align: center;
+    margin-top:12%;
+}

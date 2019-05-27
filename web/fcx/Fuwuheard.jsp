@@ -36,19 +36,20 @@
   </div>
 
 
-  <div class="container-fluid" style="margin-top: 160px;margin-bottom: 40px">
+  <div class="container-fluid" style="margin-top: 160px;">
     <div class="row" style="overflow: hidden;">
-      <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 col-md-offset-1" style="background: #f3f3f3;padding-left: 0;" align="center">
+      <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="background: #f3f3f3;padding-left: 0;" align="center">
         <div style="background: #000;border-radius: 50%;width: 40px;height: 40px;" align="center">
           <img src="${pageContext.request.contextPath}/MyFuWu/icon11.png" class="img-rounded" style="margin-top: 10px;"/>
         </div>
         <p style="font-size: 1.5em; text-align: center">购物攻略</p>
       </div>
 
-      <div class="col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
+      <div class=" col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
         <img src="${pageContext.request.contextPath}/MyFuWu/20160621184836_936.jpg" class="img-responsive"/>
       </div>
-      <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" style="background: #f3f3f3;padding-left: 0;padding-right: 0">
+
+      <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="background: #f3f3f3;padding-left: 0;padding-right: 0">
         <p style="font-size: 1em;text-align: center">欧派商场</p>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
@@ -76,7 +77,7 @@
     </div>
   </div>
 
-  <div class="container-fluid" style="margin-top: 20px">
+  <div class="container-fluid" style="margin-top: 20px;margin-bottom: 40px">
     <div class="row" style="overflow: hidden" >
       <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 col-md-offset-1 col-xs-offset-1" style="background: #f3f3f3;padding-left: 0;">
         <p style="font-size: 1em;text-align: center;">4S服务</p>
