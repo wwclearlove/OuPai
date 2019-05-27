@@ -47,8 +47,8 @@
                 <div id="our_business01_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="our_business01_div_ul">
-                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>橱柜</a></li>
-                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>工程案例</a></li>
+                        <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>橱柜</a></li>
+                        <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>工程案例</a></li>
                     </ul>
                     <script>
                         var oUl = document.getElementById("our_business01_div_ul");

@@ -38,9 +38,10 @@
                 <div id="our_investment01_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="our_investment01_div_ul">
-                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>我们的招商</a></li>
-                        <li><a href="our_investment.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>成为供应商</a></li>
-                    </ul>
+                        <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
+                            <i class="fa fa-hand-o-right fa-lg"></i>加入欧派</a></li>
+                        <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp"><i class="fa fa-hand-o-right fa-lg">
+                        </i>成为供应商</a></li>
                     <script>
                         var oUl = document.getElementById("our_investment01_div_ul");
                         var oLi = oUl.getElementsByTagName("li");

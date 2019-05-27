@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .investor_relations01 {
     background: url("../image/sl.jpg") no-repeat;
     background-size: 100%, 100%;
@@ -15,7 +12,7 @@
     text-align: center;
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 15%;
+    padding-bottom: 30%;
 }
 
 #the_title_content ul li a {

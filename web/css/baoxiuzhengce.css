@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .investor_relations01 {
     background: url("../image/sl2.jpg") no-repeat;
     background-size: 100%, 100%;
@@ -15,6 +12,7 @@
     text-align: center;
     padding-left: 25px;
     padding-right: 25px;
+    padding-bottom: 30%;
 }
 
 #the_title_content ul li a {
@@ -33,6 +31,11 @@
     color: #FEA327;
     display: none;
     line-height: 60px;
+}
+@media (max-width: 700px) {
+    #the_title_content {
+        display: none;
+    }
 }
 .rs-1{
     margin-top:3%;

@@ -18,6 +18,7 @@
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
     <link href="../css/baoxiuzhengce.css" rel="stylesheet">
+    <script type="text/javascript" src="../js/investor_relations.js"></script>
   </head>
   <body>
 
@@ -25,19 +26,24 @@
   <div class="container-fluid investor_relations01" align="center">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-        <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">4S服务</h2>
+        <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">保修政策</h2>
 
         <div id="the_title_content" align="center"
              style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
           <ul id="the_title_content_ul">
-            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>购物策略</a></li>
-            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>欧派商城 </a></li>
-            <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>4S服务</a></li>
+            <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
+            <li ><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
+            <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+            <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
+              <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
+            <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
+              <i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
           </ul>
           <script>
-              var oLi = document.getElementsByTagName("li");
-              document.getElementById("the_title_content").style.width = oLi[0].offsetWidth * (oLi.length + 1) + "px";
-              document.getElementById("the_title_content_ul").style.marginLeft = oLi[0].offsetWidth / 2 + "px";
+              var oUl = document.getElementById("the_title_content_ul");
+              var oLi = oUl.getElementsByTagName("li");
+              document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+              document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth /5+ "px";
           </script>
         </div>
       </div>
@@ -45,7 +51,8 @@
   </div>
   <section class="container-fluid">
     <div class="row rs-1">
-      <div class="col-xs-2 col-md-1 col-md-offset-5 col-xs-offset-4 fwln">服务理念</div>
+
+      <div class="col-xs-2 col-md-1 col-md-offset-5 col-xs-offset-4 fwln"><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp" style="text-decoration: none;color: #0f0f0f">4S服务</a></div>
       <div class="col-xs-2 col-md-1 bxzc">保修政策</div>
     </div>
     <div class="row rs-1">

@@ -47,8 +47,8 @@
                 <div id="our_company01_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="our_company01_div_ul">
-                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>关于欧派</a></li>
-                        <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i>品牌历史</a></li>
+                        <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>关于欧派</a></li>
+                        <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>品牌历史</a></li>
                     </ul>
                     <script>
                         var oUl = document.getElementById("our_company01_div_ul");
