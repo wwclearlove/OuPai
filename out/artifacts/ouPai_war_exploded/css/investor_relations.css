@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-* {
-    margin: 0 auto;
-    padding: 0;
-}
-
-=======
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 .investor_relations01 {
     background: url("../image/investor_relations01.jpg") no-repeat;
     background-size: 100%, 100%;
@@ -20,10 +12,6 @@
     padding-left: 25px;
     padding-right: 25px;
     padding-bottom: 15%;
-<<<<<<< HEAD
-
-=======
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 }
 
 #the_title_content ul li a {
@@ -43,8 +31,6 @@
     display: none;
     line-height: 60px;
 }
-<<<<<<< HEAD
-=======
 @media (max-width: 700px) {
     #the_title_content {
         display: none;
@@ -55,7 +41,6 @@
     }
 }
 
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 
 
 .investor_relations02div div {

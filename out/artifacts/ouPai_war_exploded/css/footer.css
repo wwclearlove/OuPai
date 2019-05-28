@@ -31,13 +31,8 @@
 }
 
 .kf{
-<<<<<<< HEAD
-    margin-top: 40px;
-    line-height: 40px;
-=======
     margin-top: 30px;
     line-height: 30px;
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
     color: #666;
     font-size: 14px;
     font-weight: bold;
@@ -51,11 +46,7 @@
 .tb p{
     padding-left: 3px;
 }
-<<<<<<< HEAD
-@media (max-width: 750px) {
-=======
 @media (max-width:750px) {
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
     span{
         font-size: 0.6em;
     }
@@ -69,8 +60,5 @@
    .row-content h3{
         font-size: 1em;
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 }

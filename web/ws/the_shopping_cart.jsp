@@ -6,6 +6,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!doctype html>
 <html lang="en">
 <head>
@@ -32,6 +33,22 @@
             padding-right: 0;
         }
     </style>
+    <script>
+       $( function () {
+           var number = $(".add_to_cart");
+           for (var i=0;i<number.length;i++){
+               $(".add_to_cart").click(function () {
+                   alert(number.eq(i));
+                   $("form").submit();
+               })
+                break;
+           }
+
+
+        })
+
+
+    </script>
 </head>
 <body>
 
@@ -42,29 +59,48 @@
 <section>
     <div class="container-fluid the_wardrobe" align="left" style="margin-left: 15px;margin-right: 15px;">
         <div class="row">
-
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 the_wardrobe01">
-                <img src="../image/the_wardrobe01.jpg" class="img-responsive" alt="">
-                <br>
-                <a href="#" class="the_wardrobe01_a"><strong>卡尔顿全屋套餐 OPA0001334</strong></a>
-                <h3><strong>￥10000</strong></h3>
-                <i class="fa fa-heart fa-lg">241</i>
-                <h6 class="the_wardrobe01_h6">
-                    <strong><span>&nbsp;亮点&nbsp;</span></strong><br>
-                    没有雕栏玉砌的繁华，也没有金碧辉煌的隆重，去翻从简别有天地，时光里的浪漫
-                </h6>
-                <br>
-                <div class="the_wardrobe01_div_a">
-                    <a href="#" class="add_to_cart">
-                        <i class="fa fa-shopping-cart fa-lg">加入购物车</i>
-                    </a>
-                    <a href="javascript:void(0)" class="collection">
-                        <i class="fa fa-star fa-lg">收藏</i>
-                    </a>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 the_wardrobe01">
+                    <form id="form_div1" action="<c:url value="/loadProductServlet"/> " method="post">
+                        <input type="hidden" name="name" value="卡尔顿全屋套餐 OPA0001334">
+                        <input type="hidden" name="price" value="10000">
+                        <input type="hidden" name="imgurl" value="image/the_wardrobe01.jpg">
+                        <input type="hidden" name="description" value="没有雕栏玉砌的繁华，也没有金碧辉煌的隆重，去翻从简别有天地，时光里的浪漫">
+                    <img src="../image/the_wardrobe01.jpg" class="img-responsive" alt="">
+                    <br>
+                    <a href="javascript:document.getElementById('form_div1').submit();" class="the_wardrobe01_a"><strong>卡尔顿全屋套餐 OPA0001334</strong></a>
+                    <h3><strong>￥10000</strong></h3>
+                    <i class="fa fa-heart fa-lg">241</i>
+                    <h6 class="the_wardrobe01_h6">
+                        <strong><span>&nbsp;亮点&nbsp;</span></strong><br>
+                        没有雕栏玉砌的繁华，也没有金碧辉煌的隆重，去翻从简别有天地，时光里的浪漫
+                    </h6>
+                    </form>
+                    <br>
+                    <form id="form1" action="<c:url value="/cartServlet"/> " method="post">
+                        <input type="hidden" name="name" value="卡尔顿全屋套餐 OPA0001334">
+                        <input type="hidden" name="price" value="10000">
+                        <input type="hidden" name="imgurl" value="image/the_wardrobe01.jpg">
+                        <input type="hidden" name="description" value="没有雕栏玉砌的繁华，也没有金碧辉煌的隆重，去翻从简别有天地，时光里的浪漫">
+                    <div class="the_wardrobe01_div_a">
+                        <a href="#" class="add_to_cart">
+                            <i class="fa fa-shopping-cart fa-lg">加入购物车</i>
+                            <%--<input class="fa fa-shopping-cart fa-lg" type="submit" value="加入购物车"/>--%>
+                        </a>
+                        <a href="javascript:void(0)" class="collection">
+                            <i class="fa fa-star fa-lg">收藏</i>
+                        </a>
+                    </div>
+                    </form>
                 </div>
-            </div>
+
+
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 the_wardrobe01">
+                <form id="form2" action="<c:url value="/cartServlet"/> " method="post">
+                    <input type="hidden" name="name" value="巴黎春天全屋套餐 OPA0001232">
+                    <input type="hidden" name="price" value="10000">
+                    <input type="hidden" name="imgurl" value="image/the_wardrobe01.jpg">
+                    <input type="hidden" name="description" value="没有雕栏玉砌的繁华，也没有金碧辉煌的隆重，去翻从简别有天地，时光里的浪漫">
                 <img style="" src="../image/the_wardrobe02.jpg" class="img-responsive" alt="">
                 <br>
                 <a href="#" class="the_wardrobe01_a"><strong>巴黎春天全屋套餐 OPA0001232</strong></a>
@@ -76,16 +112,22 @@
                 </h6>
                 <br>
                 <div class="the_wardrobe01_div_a">
-                    <a href="#" class="add_to_cart">
+                    <a href="javascript:document.getElementById('form1').submit();" class="add_to_cart">
                         <i class="fa fa-shopping-cart fa-lg">加入购物车</i>
                     </a>
                     <a href="javascript:void(0)" class="collection">
                         <i class="fa fa-star fa-lg">收藏</i>
                     </a>
                 </div>
+                </form>
             </div>
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 the_wardrobe01">
+                <form id="form" action="<c:url value="/cartServlet"/> " method="post">
+                    <input type="hidden" name="name" value="巴黎春天卧室家具 OPA0001245">
+                    <input type="hidden" name="price" value="10000">
+                    <input type="hidden" name="imgurl" value="image/the_wardrobe01.jpg">
+                    <input type="hidden" name="description" value="没有雕栏玉砌的繁华，也没有金碧辉煌的隆重，去翻从简别有天地，时光里的浪漫">
                 <img style="" src="../image/the_wardrobe03.jpg" class="img-responsive" alt="">
                 <br>
                 <a href="#" class="the_wardrobe01_a"><strong>巴黎春天卧室家具 OPA0001245</strong></a>
@@ -104,10 +146,16 @@
                         <i class="fa fa-star fa-lg">收藏</i>
                     </a>
                 </div>
+                </form>
             </div>
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 the_wardrobe01">
-                <img style="" src="../image/the_wardrobe17.jpg" width="100%" class="img-responsive" alt="">
+                <form id="form5" action="<c:url value="/cartServlet"/> " method="post">
+                    <input type="hidden" name="name" value="新实用主义卧室家具 OPA0001054">
+                    <input type="hidden" name="price" value="10000">
+                    <input type="hidden" name="imgurl" value="image/the_wardrobe17.jpg">
+                    <input type="hidden" name="description" value="花瓶如伸展的枝桠，吐露绿意。半开放式平开门衣柜，留出装饰空间，便携式沙发可供在">
+                <img style="" src="../image/the_wardrobe17.jpg" class="img-responsive" alt="">
                 <br>
                 <a href="#" class="the_wardrobe01_a"><strong>新实用主义卧室家具 OPA0001054</strong></a>
                 <h3><strong>￥10000</strong></h3>
@@ -118,13 +166,18 @@
                 </h6>
                 <br>
                 <div class="the_wardrobe01_div_a">
-                    <a href="#" class="add_to_cart">
+                    <a href="javascript:document.getElementById('form5').submit();" class="add_to_cart">
                         <i class="fa fa-shopping-cart fa-lg">加入购物车</i>
+                        <div class="alert alert-warning alert-dismissible" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <strong>Warning!</strong> 新实用主义卧室家具加入购物车.
+                        </div>
                     </a>
                     <a href="javascript:void(0)" class="collection">
                         <i class="fa fa-star fa-lg">收藏</i>
                     </a>
                 </div>
+                </form>
             </div>
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 the_wardrobe01">

@@ -3,11 +3,6 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
-<<<<<<< HEAD
-    <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
-=======
 
     <display-name>OuPai</display-name>
 
@@ -25,5 +20,4 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
->>>>>>> dbdec8cc969d733ec5155d5cc6d706df7b295db9
 </web-app>
