@@ -30,19 +30,23 @@
                                 <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
                                 <span>用户退出</span>
                             </a>
+                            <a class="search-btn"style="margin-left: 5%" href="${pageContext.request.contextPath}/removeServlet">
+                                <img src="${pageContext.request.contextPath}/image/gwc.png" class="img-circle">
+                                <span>购物车</span>
+                            </a>
                         </c:otherwise>
                     </c:choose>
 
 
                 </li>
                 <li>
-                    <a class="search-btn " href="#">
+                    <a class="search-btn " href="${pageContext.request.contextPath}/ws/the_shopping_cart.jsp">
                         <img src="${pageContext.request.contextPath}/image/shop.png" class="img-circle">
                         <span>欧派商城</span>
                     </a>
                 </li>
                 <li>
-                    <a class="search-btn " href="#">
+                    <a class="search-btn visible-lg-block" href="#">
                         <img src="${pageContext.request.contextPath}/image/phone.png" class="img-circle">
                         客服/招商热线：<span>400-884-1868</span>
                     </a>
@@ -72,49 +76,59 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >我们的业务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
+                            <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
                             <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                            <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
 
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的公司<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>公司</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>关于欧派</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>品牌历史</a></li>
+                            <li><a href="${pageContext.request.contextPath}/ws/our_company.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>我们的公司</a></li>
+                            <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-hand-o-right fa-lg"></i>关于欧派</a></li>
+                            <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp"><i class="fa fa-hand-o-right fa-lg"></i>品牌历史</a></li>
 
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的服务<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
-                            <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp"><i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
-                            <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp"><i class="fa fa-hand-o-right fa-lg"></i>保修政策</a></li>
+                            <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
+                            <li ><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
+                            <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>保修政策</a></li>
+                            <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">资讯中心<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>新闻中心</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
+                            <li ><a href="${pageContext.request.contextPath}/fcx/newzx.jsp"><i class="fa fa-hand-o-right fa-lg"></i>新闻中心</a></li>
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">投资者关系<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>投资关系</a></li>
+                            <li ><a href="${pageContext.request.contextPath}/ws/investor_relations.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>投资关系</a></li>
 
                         </ul>
                     </li>
                     <li class="dropdown list">
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">加入欧派<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
-                            <li ><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
-                            <li><a href="#"><i class="fa fa-hand-o-right fa-lg"></i>成为供应商</a></li>
+                            <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>加入欧派</a></li>
+                            <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
+                                <i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
+                            <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp"><i class="fa fa-hand-o-right fa-lg">
+                            </i>成为供应商</a></li>
                         </ul>
                     </li>
                 </ul>

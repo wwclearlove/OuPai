@@ -20,7 +20,7 @@
     <script src="../js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="../css/head.css">
     <link rel="stylesheet" href="../css/footer.css">
-    <script src="../js/the_shopping_cart.js"></script>
+    <script src="../js/the_shopping_cart.js" charset="UTF-8"></script>
     <link rel="stylesheet" href="../css/the_shopping_cart.css">
     <script src="../js/head.js"></script>
     <title>购物车</title>

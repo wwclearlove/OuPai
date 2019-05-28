@@ -154,8 +154,10 @@
                 <div id="to_join_the_european_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="to_join_the_european_div_ul">
-                        <li><a href="our_investment.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 我们的招商 </a></li>
-                        <li><a href="to_join_the_european.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 成为供应商 </a></li>
+                        <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
+                            <i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
+                        <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp"><i class="fa fa-hand-o-right fa-lg">
+                        </i>成为供应商</a></li>
                     </ul>
                     <script>
                         var oUl = document.getElementById("to_join_the_european_div_ul");

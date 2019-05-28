@@ -1,9 +1,7 @@
-
 .investor_relations01 {
-    background: url("../image/sl2.jpg") no-repeat;
+    background: url("../yy_img/bigImg5.jpg") no-repeat;
     background-size: 100%, 100%;
 }
-
 #the_title_content ul li {
     float: left;
     height: 100%;
@@ -12,7 +10,7 @@
     text-align: center;
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 30%;
+    padding-bottom: 60%;
 }
 
 #the_title_content ul li a {
@@ -37,19 +35,23 @@
         display: none;
     }
 }
-.rs-1{
-    margin-top:3%;
-}
-.fwln{
-    background: #F5F5F5;
+
+#div-b-b ul li{
+    float: left;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
     text-align: center;
-    padding: 1%;
-    color: white;
+    background-color: rgba(245, 245, 245, 0.16);
+    list-style-type: none;
+    margin-right: 20px;
+    font-size: 20px;
+    border-radius: 8px;
 }
-.bxzc{
-    background: #FFBB6A;
-    text-align: center;
-    padding: 1%;
-    color: white;
-    margin-left: 2%;
+#div-b-b ul li:hover{
+    background-color: rgb(252, 255, 25);
+    color: #ffffff;
+}
+.img_text p{
+    font-size: 20px;
 }
