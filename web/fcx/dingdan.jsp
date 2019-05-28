@@ -43,7 +43,7 @@
 <div class="container-fluid">
     <div class="row ">
         <div class="col-md-6 ">
-            <img class="img-responsive" src="../image/the_wardrobe02.jpg" alt="">
+            <img class="img-responsive" src="../image/the_wardrobe01.jpg" alt="">
         </div>
         <div class="col-md-6">
             <div class="h3 font-weight">${requestScope.product.name }</div>

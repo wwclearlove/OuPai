@@ -17,11 +17,10 @@ import java.io.IOException;
 public class CartServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
+
         //拿到商品的购物车
         Cart cart = (Cart) request.getSession().getAttribute("cart");
-        if(cart == null){
-            cart = new Cart();
-        }
         //得到商品的信息
         Product product = CommonUtils.toBean( request.getParameterMap(), Product.class);
         product.setId(CommonUtils.uuid());
@@ -40,7 +39,7 @@ public class CartServlet extends HttpServlet {
 
         //写入请求转发
 
-        request.getRequestDispatcher(request.getContextPath()+"\\wyc\\gws.jsp").forward(request,response);
+        request.getRequestDispatcher(request.getContextPath()+"wyc/gwc.jsp").forward(request,response);
 
 //        User user = (User) request.getSession().getAttribute("user");
 //        Order order = CommonUtils.toBean( request.getParameterMap(),Order.class);

@@ -38,7 +38,6 @@
            var number = $(".add_to_cart");
            for (var i=0;i<number.length;i++){
                $(".add_to_cart").click(function () {
-                   alert(number.eq(i));
                    $("form").submit();
                })
                 break;

@@ -2,6 +2,7 @@ package web.servlet;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import domain.Cart;
 import domain.ResultInfo;
 import domain.User;
 import org.apache.commons.beanutils.BeanUtils;
@@ -72,6 +73,7 @@ public class LoginServlet extends HttpServlet {
         //6.判断登录成功
         if(u != null && "Y".equals(u.getStatus())){
             request.getSession().setAttribute("user",u);//登录成功标记
+            request.getSession().setAttribute("cart",new Cart());//添加购物车
             //登录成功
             info.setFlag(true);
         }
