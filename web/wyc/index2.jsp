@@ -18,17 +18,7 @@
     <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
-<<<<<<< HEAD
-  </head>
-  <body>
-  <%--<c:import url="header.jsp"></c:import>--%>
-  <jsp:include page="../header.jsp" flush="true"/>
-  <div style="height: 1000px;width: 100%">
 
-  </div>
-  <jsp:include page="../footer.jsp" flush="true"/>
-  </body>
-=======
 </head>
 <body>
 <%--<c:import url="header.jsp"></c:import>--%>

@@ -13,7 +13,6 @@ public class Product implements Serializable{
     private String id; // 商品编号
     private String name; // 名称
     private double price; // 价格
-    private String category; // 分类
     private int pnum; // 数量
     private String imgurl; // 图片路径
     private String description; // 描述
@@ -45,14 +44,6 @@ public class Product implements Serializable{
         this.price = price;
     }
 
-    public String getCategory() {
-        return category;
-    }
-
-    public void setCategory(String category) {
-        this.category = category;
-    }
-
     public int getPnum() {
         return pnum;
     }
@@ -75,5 +66,18 @@ public class Product implements Serializable{
 
     public void setDescription(String description) {
         this.description = description;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", pnum=" + pnum +
+                ", imgurl='" + imgurl + '\'' +
+                ", description='" + description + '\'' +
+                '}';
     }
 }
