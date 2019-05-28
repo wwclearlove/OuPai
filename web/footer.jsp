@@ -67,29 +67,60 @@
                 </ul>
             </div>
 
-            <div class="row-content col-lg-2 col-md-2 visible-lg-block">
+            <div class="row-content col-lg-2 col-md-2 ">
                 <div class=" kf">
                     在线客服
                 </div>
                 <div class=" tb" >
                     <div class="col-md-4 col-sm-4 col-xs-4">
-                        <a href="#" >
+                        <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1280488753&website=www.oicqzone.com" >
                             <img  src="${pageContext.request.contextPath}/image/qq.png" class="img-responsive" alt="">
                             <p>QQ</p>
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-4">
-                        <a href="#" >
+                        <a href="#" onclick="weixin()">
                             <img  src="${pageContext.request.contextPath}/image/wx.png" class="img-responsive" alt="">
                             <p>微信</p>
                         </a>
                     </div>
+                    <script>
+                        function weixin(){
+                            var target_url =
+                                "http://qr.liantu.com/api.php?text=http://172.30.80.72:8080";
+                            window.open(target_url, 'weixin',
+                                'height=320, width=320');
+                        }
+                    </script>
                     <div class="col-md-4 col-sm-4 col-xs-4">
-                        <a href="#" >
+                        <a href="#" onclick="qZone()" >
                             <img  src="${pageContext.request.contextPath}/image/share.png" class="img-responsive" alt="">
                             <p >分享</p>
                         </a>
                     </div>
+                    <script>
+                        function qZone(){
+                            var p = {
+                                url: '172.30.80.72:8080/',
+                                showcount: '1',/*是否显示分享总数,显示：'1'，不显示：'0' */
+                                desc: '工校最强打印三舍B127(帮word排版,制作PPT,安卓APP开发，网页制作)',/*默认分享理由(可选)*/
+                                summary: '分享网页,让更多人加入我们的学习吧',/*分享摘要(可选)*/
+                                title: '学习网页制作,就找工校混子团',/*分享标题(可选)*/
+                                site: '标签',/*分享来源 如：腾讯网(可选)summary*/
+                                style: '101',
+                                width: 199,
+                                height: 30
+                            };
+                            var s = [];
+                            for (var i in p) {
+                                s.push(i + '=' + encodeURIComponent(p[i] || ''));
+                            }
+                            var target_url =
+                                "http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?"+s.join('&');
+                            window.open(target_url, 'qZone',
+                                'height=430, width=400');
+                        }
+                    </script>
                 </div>
             </div>
         </div>
