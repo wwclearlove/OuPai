@@ -117,66 +117,29 @@
     </tr>
     </thead>
     <tbody class="">
-    <tr>
-      <td class="divnone" align="left">
-        <img src="../image/sp1.png" class="img-responsive">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <p class="p1" >卡尔顿全屋套餐</p>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
-      <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <input class="quantity-label" type="number" value="02">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <div class="p1">$470</div>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          <i class="fa fa-trash-o  p1" style="color:red"></i>
-        </button>
-      </td>
-    </tr>
-    <tr>
-      <td class="divnone" align="left">
-        <img src="../image/sp2.jpg" class="img-responsive">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <p class="p1" >卡尔顿全屋套餐</p>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
-      <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <input class="quantity-label" type="number" value="02">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <div class="p1">$470</div>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          <i class="fa fa-trash-o  p1" style="color:red"></i>
-        </button>
-      </td>
-    </tr>
-    <tr>
-      <td class="divnone" align="left">
-        <img src="../image/sp4.jpg" class="img-responsive">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <p class="p1" >卡尔顿全屋套餐</p>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
-      <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <input class="quantity-label" type="number" value="02">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <div class="p1">$470</div>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          <i class="fa fa-trash-o  p1" style="color:red" ></i>
-        </button>
-      </td>
-    </tr>
+    <c:forEach var="${cart.cartItems }" items="cartItems">
+      <tr>
+        <td class="divnone" align="left">
+          <img src="../image/sp1.png" class="img-responsive">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+          <p class="p1" >${cartItems}</p>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
+        <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">1</td>
+          <%--<input class="quantity-label" type="number" value="02">--%>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+          <div class="p1">$470</div>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+            <i class="fa fa-trash-o  p1" style="color:red"></i>
+          </button>
+        </td>
+      </tr>
+    </c:forEach>
     </tbody>
     <table cellspacing="1" class="carttable">
       <tr>

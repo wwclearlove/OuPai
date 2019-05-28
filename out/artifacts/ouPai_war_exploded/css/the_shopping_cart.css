@@ -1,0 +1,97 @@
+.the_wardrobe01 {
+    padding-top: 1%;
+    padding-bottom: 4%;
+}
+
+.the_wardrobe01 h3 {
+    padding: 0;
+    margin: 0;
+    color: red;
+}
+
+.the_wardrobe01_a {
+    color: black;
+    font-size: 0.9em;
+}
+
+.fa-heart {
+    font-size: 1em;
+    display: block;
+    text-align: right;
+}
+
+.the_wardrobe01_h6 {
+    line-height: 1.5em;
+    letter-spacing: 1px;
+}
+
+.the_wardrobe01_h6 span {
+    color: white;
+    background-color: #F16F0D;
+}
+
+.the_wardrobe01_div_a a {
+    float: left;
+    color: black;
+    width: 48%;
+    display: block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+.add_to_cart {
+    color: black;
+    background-color: #F16F0D;
+    text-decoration: none;
+}
+
+.collection {
+    margin-left: 4%;
+    text-decoration: none;
+    background-color: #737373;
+}
+
+.add_to_cart i {
+    font-size: 1em;
+}
+
+.collection i {
+    color: #000000;
+    font-size: 1em;
+}
+
+.the_wardrobe01_a:hover {
+    color: #F16F0D;
+}
+
+.the_wardrobe01 img {
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    -o-transition: -o-transform 0.3s;
+    transition: transform 0.3s;
+}
+
+.the_wardrobe01 img:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 0 10px 0 #000000;
+}
+
+.add_to_cart:hover {
+    color: white;
+}
+
+.the_wardrobe01:hover {
+    box-shadow: 0 0 5px 0 #000000;
+}
+
+
+@media (max-width: 700px) {
+    .the_wardrobe01_h6 {
+        display: none;
+    }
+}

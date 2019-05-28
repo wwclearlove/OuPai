@@ -40,7 +40,7 @@ public class CartServlet extends HttpServlet {
 
         //写入请求转发
 
-        request.getRequestDispatcher(request.getContextPath()+"\\ws\\the_shopping_cart.jsp").forward(request,response);
+        request.getRequestDispatcher(request.getContextPath()+"\\wyc\\gws.jsp").forward(request,response);
 
 //        User user = (User) request.getSession().getAttribute("user");
 //        Order order = CommonUtils.toBean( request.getParameterMap(),Order.class);
