@@ -100,6 +100,33 @@
       }
 
     </style>
+    <script>
+      $(function () {
+          var delete_catr = $(".close");
+          var pid  = $(".product_pid");
+          for (var i=0;i<delete_catr.length;i++){
+              delete_catr[i].indexs = i;
+              delete_catr[i].onclick = function () {
+                  var p_pid = pid.eq(this.indexs).val();
+                  $.ajax({
+                      type: "POST",
+                      url: "${pageContext.request.contextPath}/deleteItemServlet?pid=" + p_pid,
+                      dataType: "text",
+                      success: function (data) {
+                          if (data === "true") {
+                              window.location.href = "${pageContext.request.contextPath}/wyc/gwc.jsp";
+                          }else {
+                              alert("失败");
+                          }
+                      },
+                      error: function () {
+                          alert("请求失败");
+                      }
+                  });
+              }
+          }
+      })
+    </script>
   </head>
   <body>
 
@@ -141,6 +168,7 @@
               <div class="p1">$${cartItem.subtotal}</div>
             </td>
             <td align="left" style="display:table-cell; vertical-align:middle">
+              <input class="product_pid" type="hidden" name="pid" value="${cartItem.product.id}">
               <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
                 <i class="fa fa-trash-o  p1" style="color:red"></i>
               </button>
@@ -168,10 +196,17 @@
         继续购物
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="" style="text-decoration: none;color: #ffff00">
-        <img src="../image/zf.png" border="0" />
-        支付
-      </a>
+      <form id="form" action="<c:url value="/LoadProductServlet"/> " method="post">
+        <input type="hidden" name="name" value="${sessionScope.product.name}">
+        <input type="hidden" name="price" value="${sessionScope.product.price}">
+        <input type="hidden" name="imgurl" value="${sessionScope.product.imgurl}">
+        <input type="hidden" name="description" value="${sessionScope.product.description}">
+        <input type="hidden" name="description" value="${sessionScope.product.pnum}">
+        <a href="javascript:document.getElementById('form').submit();" style="text-decoration: none;color: #ffff00">
+          <img src="../image/zf.png" border="0" />
+          支付
+        </a>
+      </form>
     </div>
   </div>
 </section>

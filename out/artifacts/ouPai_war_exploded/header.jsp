@@ -78,10 +78,7 @@
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
                             <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
-<<<<<<< HEAD
-=======
                             <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp"><i class="fa fa-hand-o-right fa-lg"></i>衣柜</a></li>
->>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
                             <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>
@@ -97,11 +94,7 @@
                         </ul>
                     </li>
                     <li class="dropdown list">
-<<<<<<< HEAD
-                        <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们的服务<span class="caret"></span></a>
-=======
                         <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我们服务<span class="caret"></span></a>
->>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
                             <li ><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>

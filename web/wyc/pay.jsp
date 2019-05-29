@@ -11,6 +11,28 @@
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
 
+    <script>
+      $(function () {
+          $("#okpay").click(function () {
+              $.ajax({
+                  type: "POST",
+                  url: "${pageContext.request.contextPath}/PaySuccessServlet",
+                  dataType: "text",
+                  success: function (data) {
+                      if (data === "true") {
+                          <%--window.location.href = "${pageContext.request.contextPath}/wyc/gwc.jsp";--%>
+                      }else {
+                          alert("失败");
+                      }
+                  },
+                  error: function () {
+                      alert("请求失败");
+                  }
+              });
+          })
+      })
+    </script>
+
   </head>
   <body>
 
@@ -20,8 +42,8 @@
          method="post">
    <div class="" style="color: #000000; padding-left: 5%;padding-top:3%;padding-bottom:2%;background-color: rgba(225,240,212,0.6);font-size: 1.3em">
      <p style="color: #00f37a">订单生成成功，请在24小时以内付款</p>
-     订单号：<span>131231243213</span>
-     支付金额：<span style="color: #ff0e00">10000元</span>
+     订单号：<span>${requestScope.dingdang}</span>
+     支付金额：<span style="color: #ff0e00">${requestScope.jiage}元</span>
    </div>
      <div class="divBank" style="background-color: #efd2af;padding-left:5%;">
        <div class="divText" style="color: #f3f3f3;font-size: 1.35em" >选择网上银行</div>
@@ -113,7 +135,7 @@
          </div>
        </div>
        <div style="margin: 40px 40px 0 40px;">
-         <INPUT TYPE="submit" value="确定支付">
+         <INPUT id="okpay" TYPE="submit" value="确定支付">
        </div>
      </div>
    </form>

@@ -63,6 +63,7 @@
                     });
                 }
             }
+
             for (var i=0;i<arr_add.length;i++){
                 arr_add[i].indexs = i;
                 arr_add[i].onclick = function () {
@@ -87,6 +88,7 @@
                     });
                 }
             }
+
         });
 
     </script>

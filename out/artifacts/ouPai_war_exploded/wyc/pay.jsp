@@ -20,7 +20,7 @@
          method="post">
    <div class="" style="color: #000000; padding-left: 5%;padding-top:3%;padding-bottom:2%;background-color: rgba(225,240,212,0.6);font-size: 1.3em">
      <p style="color: #00f37a">订单生成成功，请在24小时以内付款</p>
-     订单号：<span>131231243213</span>
+     订单号：<span></span>
      支付金额：<span style="color: #ff0e00">10000元</span>
    </div>
      <div class="divBank" style="background-color: #efd2af;padding-left:5%;">

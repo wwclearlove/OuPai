@@ -22,10 +22,6 @@ public class DeleteItemServlet extends HttpServlet {
         Cart cart = (Cart) request.getSession().getAttribute("cart");
 
         cart.delete(pid);
-
-
-        //调转回去的页面
-        request.getRequestDispatcher(request.getContextPath()+"wyc/gwc.jsp").forward(request,response);
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
