@@ -80,7 +80,6 @@ public class LoginServlet extends HttpServlet {
 
         //响应数据
         ObjectMapper mapper = new ObjectMapper();
-
         response.setContentType("application/json;charset=utf-8");
         mapper.writeValue(response.getOutputStream(),info);
 

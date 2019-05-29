@@ -62,10 +62,10 @@
           width: 50%;
         }
         .p1{
-          font-size:2em;
+          font-size:1em;
         }
         h4{
-          font-size: 3em;
+          font-size: 2em;
         }
         .htitle:before{
           top:200px;
