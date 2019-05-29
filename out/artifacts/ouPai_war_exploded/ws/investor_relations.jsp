@@ -1,5 +1,17 @@
+<<<<<<< HEAD
+<%--
+  Created by IntelliJ IDEA.
+  User: MICHAEL
+  Date: 2019/5/22
+  Time: 15:29
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!doctype html>
+=======
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+>>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,6 +19,17 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>投资者关系</title>
+<<<<<<< HEAD
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../css/head.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/investor_relations.css">
+    <script type="text/javascript" src="../js/investor_relations.js"></script>
+    <script src="../js/head.js"></script>
+=======
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.min.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <script src="${pageContext.request.contextPath}/js/jquery-3.2.1.min.js"></script>
@@ -16,6 +39,7 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/investor_relations.css">
     <script type="text/javascript" src="${pageContext.request.contextPath}/js/investor_relations.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
+>>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
     <style type="text/css">
 
         .row {

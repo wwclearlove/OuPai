@@ -120,12 +120,20 @@
     <c:forEach items="${sessionScope.cart.cartItems }" var="cartItem">
       <tr>
         <td class="divnone" align="left">
+<<<<<<< HEAD
+          <img src="${cartItem.product.imgurl}" class="img-responsive">
+=======
           <img src="../image/sp1.png" class="img-responsive">
+>>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
         </td>
         <td align="left" style="display:table-cell; vertical-align:middle">
           <p class="p1" >${cartItem.product.name}</p>
         </td>
+<<<<<<< HEAD
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">￥ ${cartItem.product.price}</td>
+=======
         <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$ ${cartItem.product.price}</td>
+>>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
         <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
         <td align="left" style="display:table-cell; vertical-align:middle"class="p1">${cartItem.count}</td>
           <%--<input class="quantity-label" type="number" value="02">--%>
@@ -153,7 +161,11 @@
 
   <div class="row">
     <div style="text-align:right; margin-top:10px;margin-right: 70px"class="p1" >
+<<<<<<< HEAD
+      <a href="../ws/the_shopping_cart.jsp" style="text-decoration: none;color: #ffff00">
+=======
       <a href="" style="text-decoration: none;color: #ffff00">
+>>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
         <img src="../image/jxgw.png" border="0" />
         继续购物
       </a>

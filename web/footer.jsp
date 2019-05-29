@@ -36,7 +36,7 @@
             <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的服务</h3>
                 <ul>
-                    <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp">我们的服务</a></li>
+                    <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp">我们服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp">购物攻略</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp">常见问题</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
