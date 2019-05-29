@@ -9,9 +9,8 @@
 </head>
 <body>
 <footer>
-    <div class="container-fluid" style="background:#E3E3E3;" >
-        <div class="row" id="footers">
-
+    <div class="container-fluid" style="background:#E3E3E3;"  >
+        <div class="row" id="footers" style="margin-top: 3%">
             <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的业务</h3>
                 <ul>
@@ -21,7 +20,6 @@
                     <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp">工程案例</a></li>
                 </ul>
             </div>
-
             <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的公司</h3>
                 <ul>
@@ -32,7 +30,6 @@
 
                 </ul>
             </div>
-
             <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的服务</h3>
                 <ul>
@@ -47,7 +44,6 @@
                       联系我们</a></li>
                 </ul>
             </div>
-
             <div class="row-content col-md-2  col-xs-6">
                 <h3>质讯中心</h3>
                 <ul>
@@ -57,7 +53,6 @@
                 </ul>
 
             </div>
-
             <div class="row-content col-md-2  col-xs-6">
                 <h3>加入欧派</h3>
                 <ul>
@@ -68,7 +63,6 @@
                     <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp">成为供应商</a></li>
                 </ul>
             </div>
-
             <div class="row-content col-lg-2 col-md-2 ">
                 <div class=" kf">
                     在线客服
