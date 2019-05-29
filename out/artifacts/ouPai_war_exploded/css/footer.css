@@ -24,7 +24,7 @@
 }
 
 .kf{
-    /*margin-top: 30px;*/
+    margin-top: 20px;
     line-height: 30px;
     color: #666;
     font-size: 14px;
@@ -60,9 +60,9 @@
     }
     .row-content >h3{
         color: #555555;
-        font-size:0.9em;
+        font-size:0.7em;
         font-weight: bold;
-        line-height: 10px;
-        margin:10px 0px 1px 35px;
+        line-height: 16px;
+        margin:20px 0px 20px 40px;
     }
 }

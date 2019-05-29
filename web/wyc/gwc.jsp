@@ -1,5 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <html>
   <head>
     <title>Bootstrap HelloWorld</title>
@@ -117,29 +119,37 @@
     </tr>
     </thead>
     <tbody class="">
-    <c:forEach items="${sessionScope.cart.cartItems }" var="cartItem">
-      <tr>
-        <td class="divnone" align="left">
-          <img src="../image/sp1.png" class="img-responsive">
-        </td>
-        <td align="left" style="display:table-cell; vertical-align:middle">
-          <p class="p1" >${cartItem.product.name}</p>
-        </td>
-        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$ ${cartItem.product.price}</td>
-        <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">${cartItem.count}</td>
-          <%--<input class="quantity-label" type="number" value="02">--%>
-        </td>
-        <td align="left" style="display:table-cell; vertical-align:middle">
-          <div class="p1">$${cartItem.subtotal}</div>
-        </td>
-        <td align="left" style="display:table-cell; vertical-align:middle">
-          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-            <i class="fa fa-trash-o  p1" style="color:red"></i>
-          </button>
-        </td>
-      </tr>
-    </c:forEach>
+    <c:choose>
+      <c:when test="${empty sessionScope.cart or fn:length(sessionScope.cart.cartItems) eq 0 }">
+        <h1>请添加商品</h1>
+      </c:when>
+      <c:otherwise>
+        <c:forEach items="${sessionScope.cart.cartItems }" var="cartItem">
+          <tr>
+            <td class="divnone" align="left">
+              <img src="${cartItem.product.imgurl}" class="img-responsive">
+            </td>
+            <td align="left" style="display:table-cell; vertical-align:middle">
+              <p class="p1" >${cartItem.product.name}</p>
+            </td>
+            <td align="left" style="display:table-cell; vertical-align:middle"class="p1">￥ ${cartItem.product.price}</td>
+            <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
+            <td align="left" style="display:table-cell; vertical-align:middle"class="p1">${cartItem.count}</td>
+              <%--<input class="quantity-label" type="number" value="02">--%>
+            </td>
+            <td align="left" style="display:table-cell; vertical-align:middle">
+              <div class="p1">$${cartItem.subtotal}</div>
+            </td>
+            <td align="left" style="display:table-cell; vertical-align:middle">
+              <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                <i class="fa fa-trash-o  p1" style="color:red"></i>
+              </button>
+            </td>
+          </tr>
+        </c:forEach>
+      </c:otherwise>
+    </c:choose>
+
     </tbody>
     <table cellspacing="1" class="carttable">
       <tr>
@@ -153,7 +163,7 @@
 
   <div class="row">
     <div style="text-align:right; margin-top:10px;margin-right: 70px"class="p1" >
-      <a href="" style="text-decoration: none;color: #ffff00">
+      <a href="../ws/the_shopping_cart.jsp" style="text-decoration: none;color: #ffff00">
         <img src="../image/jxgw.png" border="0" />
         继续购物
       </a>
