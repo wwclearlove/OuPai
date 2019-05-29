@@ -12,29 +12,31 @@
     <div class="container-fluid" style="background:#E3E3E3;" >
         <div class="row" id="footers">
 
-            <div class="row-content col-md-2  col-xs-6">
+            <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的业务</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp">业务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp">厨柜</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp">衣柜</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp">工程案例</a></li>
                 </ul>
             </div>
 
-            <div class="row-content col-md-2  col-xs-6">
+            <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的公司</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/our_company.jsp">
                       公司</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp">关于欧派</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp">品牌历史</a></li>
+
                 </ul>
             </div>
 
-            <div class="row-content col-md-2  col-xs-6">
+            <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的服务</h3>
                 <ul>
-                    <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp">我们的服务</a></li>
+                    <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp">我们服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp">购物攻略</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp">常见问题</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
@@ -87,7 +89,7 @@
                     <script>
                         function weixin(){
                             var target_url =
-                                "http://qr.liantu.com/api.php?text=http://172.30.80.72:8080";
+                                "http://qr.liantu.com/api.php?text=http://148.70.205.132:8080/oupi";
                             window.open(target_url, 'weixin',
                                 'height=320, width=320');
                         }

@@ -30,6 +30,10 @@
 <%--<%@ include file="header.jsp"%>--%>
 <%--<%@ include file="footer.jsp"%>--%>
 </body>
+<<<<<<< HEAD
 >>>>>>> e4ec91464a29fb940d41fd1672b6ab9dc3dda0fc
+=======
+
+>>>>>>> be0808c1537287e5bb00e84da260cf1ce88d558e
 
 </html>
