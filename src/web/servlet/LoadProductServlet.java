@@ -9,19 +9,40 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.io.PipedWriter;
+import java.io.PrintWriter;
 
 /**
  * Created by Rockly on 2019/5/27 23:38.
  */
-@WebServlet("/loadProductServlet")
+@WebServlet("/LoadProductServlet")
 public class LoadProductServlet extends HttpServlet {
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        PrintWriter out  = response.getWriter();
+        String name = request.getParameter("name");
         Product product = CommonUtils.toBean( request.getParameterMap(), Product.class);
-        request.setAttribute("product",product);
-        request.getRequestDispatcher(request.getContextPath()+"\\fcx\\dingdan.jsp").forward(request,response);
+        product.setId(CommonUtils.uuid());
+        // price 转换为数值
+        String to_price = request.getParameter("price");
+        to_price = to_price.substring(1,to_price.length());
+        product.setPrice(Double.parseDouble(to_price));
+
+        product.setPnum(1);
+
+
+
+        if (name.equals("")) {
+            out.write("false");
+        }else {
+            out.write("true");
+            System.out.println(name);
+            System.out.println(product.toString());
+        }
+        request.getSession().setAttribute("product",product);
     }
 
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-            doPost(request,response);
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        doGet(request,response);
     }
+
 }

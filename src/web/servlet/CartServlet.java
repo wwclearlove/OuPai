@@ -36,15 +36,6 @@ public class CartServlet extends HttpServlet {
         //添加条目进入购物车中去
         cart.add(cartItem);
 
-
-        //写入请求转发
-
-        request.getRequestDispatcher(request.getContextPath()+"wyc/gwc.jsp").forward(request,response);
-
-//        User user = (User) request.getSession().getAttribute("user");
-//        Order order = CommonUtils.toBean( request.getParameterMap(),Order.class);
-//        order.setId(CommonUtils.uuid());
-
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
