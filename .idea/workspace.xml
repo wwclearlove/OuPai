@@ -6,10 +6,58 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6746dbfc-ca44-4599-9abd-d33ed35b31cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/web/footer.jsp" afterPath="$PROJECT_DIR$/web/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/header.jsp" afterPath="$PROJECT_DIR$/web/header.jsp" />
+    <list default="true" id="48418f99-ea44-48c6-8983-064dbe0f23d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/META-INF/ouPai.kotlin_module" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/all_the_special_effects.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/all_the_special_effects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/all_the_special_effects.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/all_the_special_effects.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war/ouPai_war.war" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war/ouPai_war.war" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4Sfw.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4Sfw.html" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4sfw.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4sfw.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.html" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.html" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/changjianwenti.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/changjianwenti.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_call.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_call.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/gouwu.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/gouwu.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/newzx.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/newzx.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.html" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_company.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_company.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_investment.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_investment.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/the_shopping_cart.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/the_shopping_cart.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/to_join_the_european.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/to_join_the_european.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy/gcal.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy/gcal.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/Wefuwu/4Sfw.html" afterPath="$PROJECT_DIR$/web/Wefuwu/4Sfw.html" />
+      <change beforePath="$PROJECT_DIR$/web/Wefuwu/4sfw.jsp" afterPath="$PROJECT_DIR$/web/Wefuwu/4sfw.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.html" afterPath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.html" />
+      <change beforePath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp" afterPath="$PROJECT_DIR$/web/Wefuwu/baoxiuzhengce.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/Weyewu/ck.html" afterPath="$PROJECT_DIR$/web/Weyewu/ck.html" />
+      <change beforePath="$PROJECT_DIR$/web/Weyewu/ck.jsp" afterPath="$PROJECT_DIR$/web/Weyewu/ck.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/fcx/MyFuwu.jsp" afterPath="$PROJECT_DIR$/web/fcx/MyFuwu.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/fcx/changjianwenti.jsp" afterPath="$PROJECT_DIR$/web/fcx/changjianwenti.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/fcx/fuwu_call.jsp" afterPath="$PROJECT_DIR$/web/fcx/fuwu_call.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/fcx/gouwu.jsp" afterPath="$PROJECT_DIR$/web/fcx/gouwu.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/fcx/newzx.jsp" afterPath="$PROJECT_DIR$/web/fcx/newzx.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/investor_relations.jsp" afterPath="$PROJECT_DIR$/web/ws/investor_relations.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/our_business.jsp" afterPath="$PROJECT_DIR$/web/ws/our_business.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/our_company.jsp" afterPath="$PROJECT_DIR$/web/ws/our_company.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/our_investment.jsp" afterPath="$PROJECT_DIR$/web/ws/our_investment.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/the_shopping_cart.jsp" afterPath="$PROJECT_DIR$/web/ws/the_shopping_cart.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/ws/to_join_the_european.jsp" afterPath="$PROJECT_DIR$/web/ws/to_join_the_european.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/yy/gcal.jsp" afterPath="$PROJECT_DIR$/web/yy/gcal.jsp" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/web/WEB-INF/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,13 +81,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/web/Weyewu/ck.jsp" />
-        <option value="$PROJECT_DIR$/web/yy/gcal.jsp" />
-        <option value="$PROJECT_DIR$/web/ws/our_business.jsp" />
-        <option value="$PROJECT_DIR$/web/css/yg.css" />
-        <option value="$PROJECT_DIR$/web/Weyewu/yg.jsp" />
-        <option value="$PROJECT_DIR$/web/footer.jsp" />
-        <option value="$PROJECT_DIR$/web/header.jsp" />
       </list>
     </option>
   </component>
@@ -56,12 +97,6 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="436" />
-    <option name="y" value="89" />
-    <option name="width" value="1447" />
-    <option name="height" value="632" />
-  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -77,6 +112,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,26 +122,21 @@
               <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="oupai" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oupai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\oupai\web\image" />
-      <recent name="G:\oupai\web\Weyewu" />
-      <recent name="G:\oupai\web\css" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,7 +236,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ouPai_5" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ouPai_7" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -212,7 +245,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="57024" />
+        <option name="DEBUG_PORT" value="59654" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -280,17 +313,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6746dbfc-ca44-4599-9abd-d33ed35b31cc" name="Default" comment="" />
-      <created>1559109108119</created>
+      <changelist id="48418f99-ea44-48c6-8983-064dbe0f23d1" name="Default" comment="" />
+      <created>1559115370385</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559109108119</updated>
-      <workItem from="1559109109304" duration="5282000" />
+      <updated>1559115370385</updated>
+      <workItem from="1559115371568" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5282000" />
+    <option name="totallyTimeSpent" value="143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -313,7 +346,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -335,98 +368,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="4" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4131">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/ck.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Weyewu/yg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ws/investor_relations.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="58" column="79" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ws/our_business.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="56" column="67" lean-forward="false" selection-start-line="56" selection-start-column="67" selection-end-line="56" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Weyewu/ck.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="40" column="103" lean-forward="false" selection-start-line="40" selection-start-column="103" selection-end-line="40" selection-end-column="103" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/yg.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/yy/gcal.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="41" column="19" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="41" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Weyewu/yg.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="38" column="87" lean-forward="false" selection-start-line="38" selection-start-column="87" selection-end-line="38" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="96" column="143" lean-forward="false" selection-start-line="96" selection-start-column="143" selection-end-line="96" selection-end-column="143" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -6,7 +6,6 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -103,7 +102,7 @@
             <h5>1对1沟通空间规划方案在选定自己喜欢的家装风格后，设计师会根据你实际的家装户型给予专业的空间布局规划建议。</h5>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            <img src="${pageContext.request.contextPath}/image/our_business05.jpg" class="img-responsive" alt="">
+            <img src="../image/our_business05.jpg" class="img-responsive" alt="">
             <h4>9大空间个性定制</h4>
             <h5>提供个性化定制服务在空间规划方案确定后，你可以根据自己的喜好选用制作的板材，按照使用习惯调整产品组合等等。</h5>
         </div>
@@ -165,21 +164,21 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 our_business08_div_img">
-                        <div style="height: 100%;width: 100%;background-color: white;">
+                        <div style="width: 100%;background-color: white;">
                             <div style="width: 100%;height: 10px;"></div>
                             <img src="../image/our_business11.jpg" class="img-responsive" alt="">
                             <h3>衣帽间</h3>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 our_business08_div_img">
-                        <div style="height: 100%;width: 100%;background-color: white;">
+                        <div style="width: 100%;background-color: white;">
                             <div style="width: 100%;height: 10px;"></div>
                             <img src="../image/our_business12.jpg" class="img-responsive" alt="">
                             <h3>卧室</h3>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 our_business08_div_img">
-                        <div style="height: 100%;width: 100%;background-color: white;">
+                        <div style="width: 100%;background-color: white;">
                             <div style="width: 100%;height: 10px;"></div>
                             <img src="../image/our_business13.jpg" class="img-responsive" alt="">
                             <h3>餐厨空间</h3>
@@ -194,21 +193,21 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 our_business08_div_img">
-                        <div style="height: 100%;width: 100%;background-color: white;">
-                            <div style="width: 100%;height: 10px;"></div>
+                        <div style="width: 100%;background-color: white;">
+                            <div style="height: 10px;"></div>
                             <img src="../image/our_business14.jpg" class="img-responsive" alt="">
                             <h3>主卧室</h3>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 our_business08_div_img">
-                        <div style="height: 100%;width: 100%;background-color: white;">
+                        <div style="width: 100%;background-color: white;">
                             <div style="width: 100%;height: 10px;"></div>
                             <img src="../image/our_business15.jpg" class="img-responsive" alt="">
                             <h3>书房</h3>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 our_business08_div_img">
-                        <div style="height: 100%;width: 100%;background-color: white;">
+                        <div style="width: 100%;background-color: white;">
                             <div style="width: 100%;height: 10px;"></div>
                             <img src="../image/our_business16.jpg" class="img-responsive" alt="">
                             <h3>客厅</h3>
