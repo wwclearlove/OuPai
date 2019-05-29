@@ -37,7 +37,7 @@
               var oUl = document.getElementById("the_title_content_ul");
               var oLi = oUl.getElementsByTagName("li");
               document.getElementById("the_title_content").style.width = oLi[1].offsetWidth * (oLi.length + 1) + "px";
-              document.getElementById("the_title_content_ul").style.marginLeft = oLi[1].offsetWidth /4 + "px";
+              document.getElementById("the_title_content_ul").style.marginLeft = oLi[1].offsetWidth /7 + "px";
           </script>
         </div>
       </div>
