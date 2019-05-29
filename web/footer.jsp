@@ -87,7 +87,7 @@
                     <script>
                         function weixin(){
                             var target_url =
-                                "http://qr.liantu.com/api.php?text=http://172.30.80.72:8080";
+                                "http://qr.liantu.com/api.php?text=http://148.70.205.132:8080/oupi";
                             window.open(target_url, 'weixin',
                                 'height=320, width=320');
                         }
