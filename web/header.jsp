@@ -30,7 +30,7 @@
                                 <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
                                 <span>用户退出</span>
                             </a>
-                            <a class="search-btn"style="margin-left: 5%" href="${pageContext.request.contextPath}/removeServlet">
+                            <a class="search-btn" href="${pageContext.request.contextPath}/cartServlet">
                                 <img src="${pageContext.request.contextPath}/image/gwc.png" class="img-circle">
                                 <span>购物车</span>
                             </a>

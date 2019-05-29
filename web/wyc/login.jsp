@@ -78,7 +78,7 @@
                   //data : {flag:false,errorMsg:''}
                   if(data.flag){
                       //登录成功
-                      location.href="${pageContext.request.contextPath}/wyc/resist_ok.jsp";
+                      location.href="${pageContext.request.contextPath}/index.jsp";
                   }else{
                       //登录失败
                       $("#errorMsg").css("display","block");
