@@ -62,10 +62,10 @@
           width: 50%;
         }
         .p1{
-          font-size:2em;
+          font-size:1em;
         }
         h4{
-          font-size: 3em;
+          font-size: 2em;
         }
         .htitle:before{
           top:200px;
@@ -117,71 +117,34 @@
     </tr>
     </thead>
     <tbody class="">
-    <tr>
-      <td class="divnone" align="left">
-        <img src="../image/sp1.png" class="img-responsive">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <p class="p1" >卡尔顿全屋套餐</p>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
-      <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <input class="quantity-label" type="number" value="02">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <div class="p1">$470</div>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          <i class="fa fa-trash-o  p1" style="color:red"></i>
-        </button>
-      </td>
-    </tr>
-    <tr>
-      <td class="divnone" align="left">
-        <img src="../image/sp2.jpg" class="img-responsive">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <p class="p1" >卡尔顿全屋套餐</p>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
-      <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <input class="quantity-label" type="number" value="02">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <div class="p1">$470</div>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          <i class="fa fa-trash-o  p1" style="color:red"></i>
-        </button>
-      </td>
-    </tr>
-    <tr>
-      <td class="divnone" align="left">
-        <img src="../image/sp4.jpg" class="img-responsive">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <p class="p1" >卡尔顿全屋套餐</p>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
-      <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
-        <input class="quantity-label" type="number" value="02">
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <div class="p1">$470</div>
-      </td>
-      <td align="left" style="display:table-cell; vertical-align:middle">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          <i class="fa fa-trash-o  p1" style="color:red" ></i>
-        </button>
-      </td>
-    </tr>
+    <c:forEach items="${sessionScope.cart.cartItems }" var="cartItem">
+      <tr>
+        <td class="divnone" align="left">
+          <img src="../image/sp1.png" class="img-responsive">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+          <p class="p1" >${cartItem.product.name}</p>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$ ${cartItem.product.price}</td>
+        <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">${cartItem.count}</td>
+          <%--<input class="quantity-label" type="number" value="02">--%>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+          <div class="p1">$${cartItem.subtotal}</div>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+            <i class="fa fa-trash-o  p1" style="color:red"></i>
+          </button>
+        </td>
+      </tr>
+    </c:forEach>
     </tbody>
     <table cellspacing="1" class="carttable">
       <tr>
         <td style="text-align:right; padding-right:50px;"class="p1">
-          <font style="color:#FF6600; font-weight:bold">合计：&nbsp;&nbsp;${total}元</font>
+          <font style="color:#FF6600; font-weight:bold">合计：&nbsp;&nbsp;${sessionScope.cart.total }元</font>
         </td>
       </tr>
     </table>

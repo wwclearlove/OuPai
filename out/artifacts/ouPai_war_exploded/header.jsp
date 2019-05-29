@@ -30,7 +30,7 @@
                                 <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
                                 <span>用户退出</span>
                             </a>
-                            <a class="search-btn"style="margin-left: 5%" href="${pageContext.request.contextPath}/removeServlet">
+                            <a class="search-btn" href="${pageContext.request.contextPath}/cartServlet">
                                 <img src="${pageContext.request.contextPath}/image/gwc.png" class="img-circle">
                                 <span>购物车</span>
                             </a>
@@ -78,6 +78,7 @@
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
                             <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
+                            <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp"><i class="fa fa-hand-o-right fa-lg"></i>衣柜</a></li>
                             <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
                         </ul>
                     </li>

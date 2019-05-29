@@ -47,13 +47,14 @@
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="our_business01_div_ul">
                         <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>橱柜</a></li>
+                        <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 衣柜 </a></li>
                         <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>工程案例</a></li>
                     </ul>
                     <script>
                         var oUl = document.getElementById("our_business01_div_ul");
                         var oLi = oUl.getElementsByTagName("li");
-                        document.getElementById("our_business01_div").style.width = oLi[1].offsetWidth * (oLi.length + 1) + "px";
-                        document.getElementById("our_business01_div_ul").style.marginLeft = oLi[1].offsetWidth / 3 + "px";
+                        document.getElementById("our_business01_div").style.width = oLi[2].offsetWidth * (oLi.length + 1) + "px";
+                        document.getElementById("our_business01_div_ul").style.marginLeft = oLi[2].offsetWidth / 2 + "px";
                     </script>
                 </div>
             </div>

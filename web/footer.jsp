@@ -12,46 +12,48 @@
     <div class="container-fluid" style="background:#E3E3E3;" >
         <div class="row" id="footers">
 
-            <div class="row-content col-md-2  col-xs-6">
+            <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的业务</h3>
                 <ul>
-                    <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
-                    <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
-                    <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                    <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp">业务</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp">厨柜</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp">衣柜</a></li>
+                    <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp">工程案例</a></li>
                 </ul>
             </div>
 
-            <div class="row-content col-md-2  col-xs-6">
+            <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的公司</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/our_company.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>公司</a></li>
-                    <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-hand-o-right fa-lg"></i>关于欧派</a></li>
-                    <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp"><i class="fa fa-hand-o-right fa-lg"></i>品牌历史</a></li>
+                      公司</a></li>
+                    <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp">关于欧派</a></li>
+                    <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp">品牌历史</a></li>
+
                 </ul>
             </div>
 
-            <div class="row-content col-md-2  col-xs-6">
+            <div class="row-content col-md-2  col-xs-4">
                 <h3>我们的服务</h3>
                 <ul>
-                    <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                    <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp">我们的服务</a></li>
+                    <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp">购物攻略</a></li>
+                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp">常见问题</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
+                        4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>保修政策</a></li>
+                       保修政策</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>联系我们</a></li>
+                      联系我们</a></li>
                 </ul>
             </div>
 
             <div class="row-content col-md-2  col-xs-6">
                 <h3>质讯中心</h3>
                 <ul>
-                    <li><a href="${pageContext.request.contextPath}/fcx/newzx.jsp"><i class="fa fa-hand-o-right fa-lg"></i>新闻中心</a></li>
+                    <li><a href="${pageContext.request.contextPath}/fcx/newzx.jsp">新闻中心</a></li>
                     <li ><a href="${pageContext.request.contextPath}/ws/investor_relations.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>投资关系</a></li>
+                       投资关系</a></li>
                 </ul>
 
             </div>
@@ -60,10 +62,10 @@
                 <h3>加入欧派</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>加入欧派</a></li>
+                       加入欧派</a></li>
                     <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
-                        <i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
-                    <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp"><i class="fa fa-hand-o-right fa-lg"></i>成为供应商</a></li>
+                     我们的招商</a></li>
+                    <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp">成为供应商</a></li>
                 </ul>
             </div>
 
@@ -87,7 +89,7 @@
                     <script>
                         function weixin(){
                             var target_url =
-                                "http://qr.liantu.com/api.php?text=http://172.30.80.72:8080";
+                                "http://qr.liantu.com/api.php?text=http://148.70.205.132:8080/oupi";
                             window.open(target_url, 'weixin',
                                 'height=320, width=320');
                         }
