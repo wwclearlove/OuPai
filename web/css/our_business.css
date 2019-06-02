@@ -1,7 +1,7 @@
 .our_business01 {
-    background: url("../image/our_business01.jpg") no-repeat;
-    background-size: 100%, 100%;
-}
+     background: url("../image/our_business01.jpg") no-repeat;
+     background-size: 100%, 100%;
+ }
 
 #our_business01_div ul li {
     float: left;

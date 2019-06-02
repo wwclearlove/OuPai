@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>Bootstrap HelloWorld</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../css/font-awesome.css">
+     <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+    <script src="../js/bootstrap.min.js"></script>
+    <style>
+
+        .htitle:after {
+            content: '';
+            position: absolute;
+            top: 60px;
+            left:10%;
+
+            width: 40px;
+            height: 2px;
+            background: #2ed87b;
+        }
+        .htitle:before {
+            content: '';
+            position: absolute;
+            top: 60px;
+            left: 0px;
+            bottom: 0px;
+            width: 100%;
+            height: 2px;
+            background: #f1f1f1;
+        }
+        .panel2 {
+            border-radius: 3px;
+            background-color: #e9ebee;
+        }
+
+        table{
+            width: 100%;
+        }
+
+        tr {
+            border: 0.1px #e9ebee solid;
+        }
+        th{
+            text-align: left;
+            border: 0.1px #e9ebee solid;
+        }
+        td{
+
+            /*border: 1px solid red;*/
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+
+        td input{
+            width: 90%;
+            vertical-align:middle
+        }
+
+        @media(min-width: 750px) {
+            .p1{
+                 font-size:2em;
+             }
+            h4{
+                font-size: 3em;
+            }
+            .htitle:before{
+                top: 60px;
+            }
+            .htitle:after{
+                top: 60px;
+            }
+            body{
+                margin-left: 10%;
+                margin-right: 10%;
+            }
+        }
+        @media(max-width: 750px) {
+            .p1{
+                font-size: 0.8em;
+            }
+            .divnone{
+               display: none;
+            }
+            h4{
+                font-size: 1em;
+            }
+            .htitle:before{
+                top: 30px;
+            }
+            .htitle:after{
+                top:30px;
+            }
+            body{
+                margin-left: 0;
+                margin-right: 0;
+            }
+            td input{
+                width: 50%;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+
+<h4 class=" htitle ">我的购物车</h4>
+
+    <table id="cart_list"  class=" table table-hover">
+    <thead class="panel2 ">
+    <tr>
+        <th class="divnone p1" style="width: 20%">图片</th>
+        <th class="p1" style="width: 15%">名称</th>
+        <th class="p1"  style="width: 15%">单价</th>
+        <th class="p1"  style="width: 15% ">数量</th>
+        <th class="p1"  style="width: 15%">合计</th>
+        <th style="width: 10%"></th>
+    </tr>
+    </thead>
+    <tbody class="">
+    <tr>
+        <td class="divnone" align="left">
+            <img src="../image/sp1.png" class="img-responsive">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <p class="p1" >卡尔顿全屋套餐</p>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
+        <td align="left" style="display:table-cell; vertical-align:middle;" class="p1" >
+            <input class="quantity-label" type="number" value="02">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <div class="p1">$470</div>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                <i class="fa fa-trash-o  p1" style="color:red"></i>
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td class="divnone" align="left">
+            <img src="../image/sp2.jpg" class="img-responsive">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <p class="p1" >卡尔顿全屋套餐</p>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
+        <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
+            <input class="quantity-label" type="number" value="02">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <div class="p1">$470</div>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                <i class="fa fa-trash-o  p1" style="color:red"></i>
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td class="divnone" align="left">
+            <img src="../image/sp4.jpg" class="img-responsive">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <p class="p1" >卡尔顿全屋套餐</p>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle"class="p1">$235</td>
+        <td align="left" style="display:table-cell; vertical-align:middle;" class="p1">
+            <input class="quantity-label" type="number" value="02">
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <div class="p1">$470</div>
+        </td>
+        <td align="left" style="display:table-cell; vertical-align:middle">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                <i class="fa fa-trash-o  p1" style="color:red" ></i>
+            </button>
+        </td>
+    </tr>
+    </tbody>
+        <table cellspacing="1" style="padding-right: 30%;text-align: right">
+            <tr>
+                <td class="p1">
+                    <font style="color:#ffd700; font-weight:bold">合计：&nbsp;&nbsp;${total}元</font>
+                </td>
+            </tr>
+        </table>
+</table>
+
+
+    <div class="row">
+        <div style="text-align:right; margin-top:10px"class="p1" >
+            <a href="" style="text-decoration: none;color: #ffff00">
+                <img src="../image/jxgw.png" border="0" />
+                继续购物
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="" style="text-decoration: none;color: #ffff00">
+                <img src="../image/zf.png" border="0" />
+                支付
+            </a>
+        </div>
+    </div>
+
+</body>
+
+</html>

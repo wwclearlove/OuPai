@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>Bootstrap HelloWorld</title>
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+    <script src="../js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/about_the_send.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
+    <script>
+        window.onload = function () {
+            var oUlInvestor = document.getElementById("the_title_content_ul");
+            var oLiInvestor = oUlInvestor.getElementsByTagName("li");
+            var oIInvestor = oUlInvestor.getElementsByTagName("i");
+            for (var i = 0; i < oLiInvestor.length; i++) {
+                oLiInvestor[i].index = i;
+                oLiInvestor[i].onmouseover = function (ev) {
+                    oIInvestor[this.index].style.display = "block"
+                };
+                oLiInvestor[i].onmouseout = function (ev) {
+                    oIInvestor[this.index].style.display = "none"
+                }
+            }
+        }
+
+    </script>
+    <script>
+        /* window.onload = function () {
+             var leng = document.getElementsByTagName("y");
+             for (var i = 0; i < leng.length; i++) {
+                 leng[i].style.display = "block";
+                 if (i == 5) break;
+             }
+         }*/
+    </script>
+    <script>
+        $(function () {
+            var number = 0;
+            var leng = $(".div");
+            leng.eq(0).css("display", "block");
+            $(".lbt_right").click(function () {
+                for (var i = 0; i < leng.length; i++) {
+                    leng.eq(i).css("display", "none");
+                }
+                number += 1;
+                leng.eq(number).css("display", "block");
+                if (number === 4) {
+                    number = -1;
+                }
+            });
+            $(".lbt_left").click(function () {
+                for (var i = 0; i < leng.length; i++) {
+                    leng.eq(i).css("display", "none");
+                }
+                number -= 1;
+                leng.eq(number).css("display", "block");
+                if (number === -1) {
+                    number = 4;
+                }
+            });
+        })
+    </script>
+    <script>
+        $(function () {
+            var lenga = $("y");
+            var leng = $(".hzzz");
+            leng.eq(0).css("display", "block");
+            $("y").click(function () {
+               var index = $(this).index();
+                for (var i = 0; i <leng.length ; i++) {
+                    leng.eq(i).css("display","none");
+                }
+               leng.eq(index).css("display","block");
+
+            });
+
+        })
+
+    </script>
+</head>
+
+<body>
+<div class="container-fluid investor_relations01" align="center">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
+            <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">品牌历史</h2>
+
+            <div id="the_title_content" align="center"
+                 style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
+                <ul id="the_title_content_ul">
+                    <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 关于欧派 </a></li>
+                    <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 世界的欧派 </a></li>
+                    <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 品牌历史 </a></li>
+                    <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 家与未来 </a></li>
+                    <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 欧铂丽家居定制 </a></li>
+                    <li><a href=""><i class="fa fa-dot-circle-o fa-lg"></i> 走进AI工厂 </a></li>
+                </ul>
+                <script>
+                    var oLi = document.getElementsByTagName("li");
+                    document.getElementById("the_title_content").style.width = oLi[5].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[5].offsetWidth / 2 + "px";
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row lbt">
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 hz">
+            <img src="yy_img/jtleft.png" class="lbt_left">
+        </div>
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 hz">
+
+            <div class="div">
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">1994</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">1995</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">1996</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">1997</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">1998</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">1999</y>
+            </div>
+            <div class="div">
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2000</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2001</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2002</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2003</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2004</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2005</y>
+            </div>
+            <div class="div">
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2006</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2007</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2008</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2009</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2010</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2011</y>
+            </div>
+            <div class="div">
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2012</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2013</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2014</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2015</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2016</y>
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2017</y>
+            </div>
+            <div class="div">
+                <y class="col-lg-2  col-md-2 col-sm-2 col-xs-2">2018</y>
+            </div>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 hz">
+            <img src="yy_img/jtright.png " class="lbt_right">
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  hzzz">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzza">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="color: #ffff00;font-size: 100px; text-align: center">1994</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 20px; text-align: center">欧派第一套橱柜诞生，开始改变中国人对厨房的认知</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 30px;">
+                    <ul style=" color: yellow ;font-size: 18px">
+                        <li> <span style=" color: #000000">广州康洁厨柜企业有限公司成立（“康洁”为“欧派”注册前所用商标），率先将欧洲“整体厨房”概念引入中国。</span></li>
+                        <li><span style=" color: #000000">欧派第一套整体橱柜诞生，开创中国工业化生产现代橱柜的先河，掀起中国“厨房革命”风暴。</span></li>
+                        <li><span style=" color: #000000">中国第一家橱柜专营店“康洁橱柜五羊商场”开业。</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzzb"></div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  hzzz">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzza">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="color: #ffff00;font-size: 100px; text-align: center">1995</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 20px; text-align: center">欧派第一套橱柜诞生，开始改变中国人对厨房的认知</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 30px;">
+                    <ul style=" color: yellow ;font-size: 18px">
+                        <li> <span style=" color: #000000">广州康洁厨柜企业有限公司成立（“康洁”为“欧派”注册前所用商标），率先将欧洲“整体厨房”概念引入中国。</span></li>
+                        <li><span style=" color: #000000">欧派第一套整体橱柜诞生，开创中国工业化生产现代橱柜的先河，掀起中国“厨房革命”风暴。</span></li>
+                        <li><span style=" color: #000000">中国第一家橱柜专营店“康洁橱柜五羊商场”开业。</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzzb2" ></div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  hzzz">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzza">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="color: #ffff00;font-size: 100px; text-align: center">1996</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 20px; text-align: center">欧派第一套橱柜诞生，开始改变中国人对厨房的认知</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 30px;">
+                    <ul style=" color: yellow ;font-size: 18px">
+                        <li> <span style=" color: #000000">广州康洁厨柜企业有限公司成立（“康洁”为“欧派”注册前所用商标），率先将欧洲“整体厨房”概念引入中国。</span></li>
+                        <li><span style=" color: #000000">欧派第一套整体橱柜诞生，开创中国工业化生产现代橱柜的先河，掀起中国“厨房革命”风暴。</span></li>
+                        <li><span style=" color: #000000">中国第一家橱柜专营店“康洁橱柜五羊商场”开业。</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzzb3" ></div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  hzzz">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzza">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="color: #ffff00;font-size: 100px; text-align: center">1997</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 20px; text-align: center">欧派第一套橱柜诞生，开始改变中国人对厨房的认知</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 30px;">
+                    <ul style=" color: yellow ;font-size: 18px">
+                        <li> <span style=" color: #000000">广州康洁厨柜企业有限公司成立（“康洁”为“欧派”注册前所用商标），率先将欧洲“整体厨房”概念引入中国。</span></li>
+                        <li><span style=" color: #000000">欧派第一套整体橱柜诞生，开创中国工业化生产现代橱柜的先河，掀起中国“厨房革命”风暴。</span></li>
+                        <li><span style=" color: #000000">中国第一家橱柜专营店“康洁橱柜五羊商场”开业。</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzzb4"></div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  hzzz">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzza">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="color: #ffff00;font-size: 100px; text-align: center">1998</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 20px; text-align: center">欧派第一套橱柜诞生，开始改变中国人对厨房的认知</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 30px;">
+                    <ul style=" color: yellow ;font-size: 18px">
+                        <li> <span style=" color: #000000">广州康洁厨柜企业有限公司成立（“康洁”为“欧派”注册前所用商标），率先将欧洲“整体厨房”概念引入中国。</span></li>
+                        <li><span style=" color: #000000">欧派第一套整体橱柜诞生，开创中国工业化生产现代橱柜的先河，掀起中国“厨房革命”风暴。</span></li>
+                        <li><span style=" color: #000000">中国第一家橱柜专营店“康洁橱柜五羊商场”开业。</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzzb5"></div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  hzzz">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzza">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="color: #ffff00;font-size: 100px; text-align: center">1999</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 20px; text-align: center">欧派第一套橱柜诞生，开始改变中国人对厨房的认知</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 30px;">
+                    <ul style=" color: yellow ;font-size: 18px">
+                        <li> <span style=" color: #000000">广州康洁厨柜企业有限公司成立（“康洁”为“欧派”注册前所用商标），率先将欧洲“整体厨房”概念引入中国。</span></li>
+                        <li><span style=" color: #000000">欧派第一套整体橱柜诞生，开创中国工业化生产现代橱柜的先河，掀起中国“厨房革命”风暴。</span></li>
+                        <li><span style=" color: #000000">中国第一家橱柜专营店“康洁橱柜五羊商场”开业。</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 hzzb6" ></div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

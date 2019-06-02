@@ -41,6 +41,7 @@
                             <i class="fa fa-hand-o-right fa-lg"></i>加入欧派</a></li>
                         <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp"><i class="fa fa-hand-o-right fa-lg">
                         </i>成为供应商</a></li>
+                    </ul>
                     <script>
                         var oUl = document.getElementById("our_investment01_div_ul");
                         var oLi = oUl.getElementsByTagName("li");

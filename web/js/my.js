@@ -15,11 +15,7 @@ function changeSecond() {
 
     if (svalue == 0) {
         window.clearInterval(interval);
-
-        // 下列两行代码用于获取项目名，例如：bookstore
-
-        // 拼接访问路径名，例如：http://localhost:8080/bookstore/index.jsp
-        location.href ='http://localhost:8080/index.jsp';
+        location.href ='http://148.70.205.132:8080/oupi/';
         return;
     }
 

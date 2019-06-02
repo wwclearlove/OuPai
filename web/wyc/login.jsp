@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" contenmvn package -Dmaven.test.failture.ignore=true t="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <title>Bootstrap HelloWorld</title>
+    <title>登录</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
@@ -78,7 +78,7 @@
                   //data : {flag:false,errorMsg:''}
                   if(data.flag){
                       //登录成功
-                      location.href="${pageContext.request.contextPath}/index.jsp";
+                      location.href="${pageContext.request.contextPath}/wyc/logo_ok.jsp";
                   }else{
                       //登录失败
                       $("#errorMsg").css("display","block");

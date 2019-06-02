@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" contenmvn package -Dmaven.test.failture.ignore=true t="width=device-width, initial-scale=1">
-    <title>Bootstrap HelloWorld</title>
+    <title>品牌历史</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">

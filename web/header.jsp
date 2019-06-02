@@ -30,7 +30,7 @@
                                 <img src="${pageContext.request.contextPath}/image/logo1.png" class="img-circle">
                                 <span>用户退出</span>
                             </a>
-                            <a class="search-btn" href="${pageContext.request.contextPath}/cartServlet">
+                            <a class="search-btn" href="${pageContext.request.contextPath}/wyc/gwc.jsp">
                                 <img src="${pageContext.request.contextPath}/image/gwc.png" class="img-circle">
                                 <span>购物车</span>
                             </a>
@@ -40,7 +40,7 @@
 
                 </li>
                 <li>
-                    <a class="search-btn " href="${pageContext.request.contextPath}/ws/the_shopping_cart.jsp">
+                    <a class="search-btn " href="${pageContext.request.contextPath}/wyc/the_shopping_cart.jsp">
                         <img src="${pageContext.request.contextPath}/image/shop.png" class="img-circle">
                         <span>欧派商城</span>
                     </a>

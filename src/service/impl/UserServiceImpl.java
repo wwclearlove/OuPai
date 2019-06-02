@@ -33,7 +33,7 @@ public class UserServiceImpl implements UserService {
 
         //3.激活邮件发送，邮件正文？
 
-        String content="感谢您注册我们小组的网站"+"<a href='http://localhost:8080/activeUserServlet?code="+user.getCode()+"'>点击激活【账号哟】</a>";
+        String content="感谢您注册我们小组的网站"+"<a href='http://148.70.205.132:8080/oupi/activeUserServlet?code="+user.getCode()+"'>点击激活【账号哟】</a>";
 
         MailUtils.sendMail(user.getEmail(),content,"激活邮件");
         //保存用户信息
