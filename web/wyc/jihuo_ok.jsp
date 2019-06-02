@@ -20,7 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12" style="text-align:center;red:yellow;font-weight:bold;font-size:30px;padding: 5%">
-        <h4>恭喜，激活成功！点击 <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp" style="text-decoration: none;color: black">登录</a></h4>
+        <h4>恭喜，激活成功！点击 <a class="search-btn" href="${pageContext.request.contextPath}/wyc/login.jsp" style="text-decoration: none;color: #ff0e00">登录</a></h4>
       </div>
     </div>
   </div>

@@ -11,7 +11,7 @@ import java.io.IOException;
 public class RemoveServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         request.getSession().removeAttribute("user");//为了保证验证码只能使用一次
-        response.sendRedirect(request.getContextPath()+"index.jsp");
+        response.sendRedirect(request.getContextPath()+"/index.jsp");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
   <head>
-    <title>Bootstrap HelloWorld</title>
+    <title>支付</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/css/footer.css" rel="stylesheet">
