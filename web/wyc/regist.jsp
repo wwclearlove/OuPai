@@ -15,9 +15,8 @@
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
     <style>
       .loginbg{
-        background: url("../image/bg22.jpg") no-repeat;
-        background-size: 100%, 100%;
-        border: 1px saddlebrown solid;
+        background: url("../image/regist.jpg") no-repeat;
+        background-size: 140%, 100%;
       }
 
       .rg_form_left{
@@ -243,7 +242,7 @@
 
   <jsp:include page="../header.jsp" flush="true"/>
   <div class="container-fluid rg_layout" align="center">
-    <div class="row  loginbg rg_form clearfix " style="font-size: 1.2em;padding-top:4%">
+    <div class="row  loginbg rg_form clearfix " style="font-size: 1.2em;">
       <div class="col-md-offset-1 col-md-2 " style="background:rgba(255,255,255,0.3);" >
         <div class="rg_form_left">
           <p style="	font-size: 1.8em;color:#ffcd26;">新用户注册</p>
