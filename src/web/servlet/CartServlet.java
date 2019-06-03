@@ -16,9 +16,6 @@ import java.io.IOException;
 @WebServlet("/cartServlet")
 public class CartServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
-
-
         //拿到商品的购物车
         Cart cart = (Cart) request.getSession().getAttribute("cart");
         //得到商品的信息
@@ -27,15 +24,11 @@ public class CartServlet extends HttpServlet {
         System.out.println("-----"+product.toString());
         //添加到购物车的条目中去
         CartItem cartItem = new CartItem();
-
         cartItem.setProduct(product);
-
         //每次添加1个
         cartItem.setCount(1);
-
         //添加条目进入购物车中去
         cart.add(cartItem);
-
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
