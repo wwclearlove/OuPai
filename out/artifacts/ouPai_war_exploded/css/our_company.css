@@ -1,6 +1,10 @@
 .our_company01 {
     background: url("../image/our_company01.jpg") no-repeat;
+<<<<<<< HEAD
     background-size: 130%, 100%;
+=======
+    background-size: 100%, 100%;
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
 }
 
 #our_company01_div ul li {
@@ -11,7 +15,11 @@
     text-align: center;
     padding-left: 25px;
     padding-right: 25px;
+<<<<<<< HEAD
     padding-bottom: 40%;
+=======
+    padding-bottom: 20%;
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
 }
 
 #our_company01_div ul li a {

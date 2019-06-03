@@ -20,9 +20,8 @@
   </head>
   <style>
     .loginbg{
-      background: url("../image/loginbg.jpg") no-repeat;
-      background-size: 100%, 100%;
-      border: 1px saddlebrown solid;
+      background: url("../image/login.jpg") no-repeat;
+      background-size: 120%, 100%;
     }
     #errorMsg{
       display: none;
@@ -66,6 +65,16 @@
     .reg a {
       color: #fc7f7f;
     }
+    @media (max-width: 700px) {
+      .bt{
+        margin-top: 5%;
+      }
+    }
+    @media (min-width: 700px) {
+      .bt{
+        margin-top: 3%;
+      }
+    }
   </style>
   <script>
       $(function () {
@@ -93,11 +102,11 @@
 
   <jsp:include page="../header.jsp" flush="true"/>
   <div class="container-fluid" align="center">
-    <div class="row  loginbg">
+    <div class="row loginbg">
       <div class=" col-md-5 col-md-offset-6" >
-        <div class="row " style="background-color:#ffde0d;color: white;font-size: 1.5em;padding: 5%;">
-          <img src="../image/logo.png" alt="" class="col-md-6 col-xs-6 col-xs-6"style="text-align: right" >
-          <span class="col-md-6 col-xs-6 col-xs-6" style="text-align: left" >欢迎登录欧派</span>
+        <div class="row " style="background-color:#ffde0d;color: white;font-size: 1.5em;padding: 2%;">
+          <img src="../image/yclogo.png" alt="" class="col-md-6 col-xs-6 col-xs-6"style="text-align: right" >
+          <span class="col-md-6 col-xs-6 col-xs-6 bt" style="text-align: left" >欢迎登录欧派</span>
         </div>
         <div class="row kz" style="background-color: white;text-align: center">
           <div id="errorMsg" class="row alert alert-danger" ></div>

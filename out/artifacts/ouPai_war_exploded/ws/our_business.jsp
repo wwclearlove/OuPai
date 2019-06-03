@@ -41,7 +41,11 @@
     <div class="container-fluid our_business01" align="center">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
+<<<<<<< HEAD
                 <h2 id="h2s" style="padding-top: 25%;padding-bottom: 3%;color: black;">我们的业务</h2>
+=======
+                <h2 id="h2s" style="padding-top: 25%;padding-bottom: 3%;color: white;">我们的业务</h2>
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
 
                 <div id="our_business01_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
@@ -77,7 +81,11 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                 <h1><strong>高端定制</strong> <br> 一家搞定</h1>
                 <h5>
+<<<<<<< HEAD
                     宜程家居整合家居家装资源，以顶级设计师一对一提供空间设计服务，提供全屋定制解决方案，真正实现一体化设计、一站式挑选、
+=======
+                    欧派大家居整合家居家装资源，以顶级设计师一对一提供空间设计服务，提供全屋定制解决方案，真正实现一体化设计、一站式挑选、
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                     一揽子服务，一站式解决设计、装修、选材、采购家居产品等问题，个性化定制你的爱家，轻轻松松，拎包入住。
                 </h5>
             </div>
@@ -108,8 +116,13 @@
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
             <img src="../image/our_business06.jpg" class="img-responsive" alt="">
+<<<<<<< HEAD
             <h4>宜程科技工作人员终身服务</h4>
             <h5>整套家装流程完毕后，宜程科技专业服务团队还会定期为购买产品的客户，提供上门检查维护、清洁产品的服务。</h5>
+=======
+            <h4>欧派金保姆终身服务</h4>
+            <h5>整套家装流程完毕后，欧派金保姆专业服务团队还会定期为购买产品的客户，提供上门检查维护、清洁产品的服务。</h5>
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
             <img src="../image/our_business07.jpg" class="img-responsive" alt="">
@@ -119,7 +132,11 @@
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
             <img src="../image/our_business08.jpg" class="img-responsive" alt="">
             <h4>进场施工及安装家具</h4>
+<<<<<<< HEAD
             <h5>宜程科技团队将按照全套设计方案，安排家装工人对毛坯房进行基本修饰，再逐一为各区域安装家具。</h5>
+=======
+            <h5>欧派团队将按照全套设计方案，安排家装工人对毛坯房进行基本修饰，再逐一为各区域安装家具。</h5>
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
         </div>
     </div>
 
@@ -141,7 +158,10 @@
                 <a href="javascript:void(0)">纽约迷情</a>
                 <a href="javascript:void(0)">英伦新贵</a>
                 <a href="javascript:void(0)">米兰印象</a>
+<<<<<<< HEAD
                 <a href="javascript:void(0)">名仕之家</a>
+=======
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
             </div>
         </div>
     </div>
@@ -224,11 +244,19 @@
                 <div class="row our_business08_div_i_div">
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" style="border-right: 1px solid #999999;">
                         <i class="fa fa-home fa-4x"></i>
+<<<<<<< HEAD
                         <h4>宜程商场</h4>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" style="border-right: 1px solid #999999;">
                         <i class="fa fa-bookmark-o fa-4x"></i>
                         <h4>宜程商城</h4>
+=======
+                        <h4>欧派商场</h4>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" style="border-right: 1px solid #999999;">
+                        <i class="fa fa-bookmark-o fa-4x"></i>
+                        <h4>欧派商城</h4>
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" style="border-right: 1px solid #999999;">
                         <i class="fa fa-street-view fa-4x"></i>

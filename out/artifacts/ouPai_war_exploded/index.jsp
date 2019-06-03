@@ -162,6 +162,14 @@
             padding: 9%;
             background: #ffffff;
         }
+<<<<<<< HEAD
+=======
+
+        #carousel-example-generic img{
+            width: 100%;
+        }
+
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
     </style>
 
     <link rel="stylesheet" href="css/all_the_special_effects.css">
@@ -181,8 +189,11 @@
                 <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+<<<<<<< HEAD
                 <li data-target="#carousel-example-generic" data-slide-to="6"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+=======
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
             </ol>
 
             <div class="carousel-inner" role="listbox">
@@ -222,6 +233,7 @@
 
                     </div>
                 </div>
+<<<<<<< HEAD
                 <div class="item">
                     <img src="image/banner7.jpg" alt="...">
                     <div class="carousel-caption">
@@ -234,6 +246,8 @@
 
                     </div>
                 </div>
+=======
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
             </div>
 
 
