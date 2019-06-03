@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="../css/footer.css">
     <script src="../js/head.js"></script>
     <script type="text/javascript" src="../js/investor_relations.js"></script>
-    <title>联系我们</title>
+    <title>新闻中心</title>
     <style>
         .investor_relations01 {
             background: url("../image/investor_relations01.jpg") no-repeat;
