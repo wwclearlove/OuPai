@@ -6,7 +6,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Bootstrap HelloWorld</title>
+    <title>厨柜</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
@@ -16,7 +16,7 @@
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
     <link href="../css/ck.css" rel="stylesheet">
-    <script type="text/javascript" src="../js/investor_relations.js"></script>
+    <%--<script type="text/javascript" src="../js/investor_relations.js"></script>--%>
 
     <link rel="stylesheet" href="../css/all_the_special_effects.css">
     <script type="text/javascript" src="../js/all_the_special_effects.js"></script>
@@ -47,7 +47,19 @@
               var oUl = document.getElementById("the_title_content_ul");
               var oLi = oUl.getElementsByTagName("li");
               document.getElementById("the_title_content").style.width = oLi[2].offsetWidth * (oLi.length + 1) + "px";
-              document.getElementById("the_title_content_ul").style.marginLeft = oLi[2].offsetWidth / 4 + "px";
+              document.getElementById("the_title_content_ul").style.marginLeft = oLi[2].offsetWidth / 2 + "px";
+              var oUlInvestor = document.getElementById("the_title_content_ul");
+              var oLiInvestor = oUlInvestor.getElementsByTagName("li");
+              var oIInvestor = oUlInvestor.getElementsByTagName("i");
+              for (var i = 0; i < oLiInvestor.length; i++) {
+                  oLiInvestor[i].index = i;
+                  oLiInvestor[i].onmouseover = function (ev) {
+                      oIInvestor[this.index].style.display = "block"
+                  };
+                  oLiInvestor[i].onmouseout = function (ev) {
+                      oIInvestor[this.index].style.display = "none"
+                  }
+              }
           </script>
             </div>
         </div>

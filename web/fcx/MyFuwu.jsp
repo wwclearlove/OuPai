@@ -49,7 +49,7 @@
 </div>
 <section>
 
-    <div class="container-fluid">
+    <div class="container-fluid" style="margin-top: 10%">
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
                 <img src="../MyFuWu/fuwu1.png" class="img-responsive"/>

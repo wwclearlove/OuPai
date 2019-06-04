@@ -1,0 +1,140 @@
+/*首页动效*/
+
+.tx1 {
+    margin-top: -5%;
+    padding-bottom: 5%;
+    visibility: hidden;
+    transition: all 1s;
+}
+
+.img_div {
+    overflow: hidden;
+}
+
+.img_d1 img {
+    visibility: hidden;
+    transition: all 0.4s;
+}
+
+.img_d1 img:hover {
+    z-index: 1024;
+    position: relative;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px 0 #000000;
+}
+
+.gengduo:hover {
+    background-color: #5e5e5e;
+    color: white;
+}
+
+.goumai:hover {
+    background-color: #FFB84C;
+    color: white;
+}
+
+.tx2 img {
+    z-index: 1024;
+    position: relative;
+    visibility: hidden;
+    transition: all 0.8s;
+}
+
+.div_i:hover,
+.div_i2:hover,
+.div_i3:hover,
+.bs1:hover,
+.bs:hover,
+.qh1:hover,
+.qh2:hover,
+.qh3:hover {
+    background-color: #ffde77;
+}
+
+
+/*4S服务动效*/
+
+.fwln {
+    margin-left: 40%;
+}
+
+.fwln, .bxzc {
+    width: 10%;
+    border-radius: 5px;
+}
+
+.fwln:hover, .bxzc:hover {
+    background-color: #FFBB6A;
+}
+
+#div_4sfw div div {
+    overflow: hidden;
+}
+
+.img_4sfw {
+    transition: all 0.3s;
+}
+
+.img_4sfw:hover {
+    transform: scale(1.5);
+}
+
+.rs-1 {
+    overflow: hidden;
+}
+
+.rs_1_img {
+    margin-left: 100%;
+    transition: all 1s;
+}
+
+
+/*橱柜动效*/
+
+.ck_rs_1_img1 {
+    margin-left: -50%;
+    transition: all 1s;
+}
+
+.ck_rs_1_img2 {
+    margin-left: 50%;
+    transition: all 1s;
+}
+
+.row{
+    overflow: hidden;
+}
+
+.ck_divs{
+    visibility: hidden;
+    transition: all 0.5s;
+}
+
+.ck_divs img{
+    transition: all 0.3s;
+}
+
+.ck_divs img:hover{
+    transform: scale(1.3);
+    box-shadow: 0 0 10px 0 #000000;
+}
+
+.zgxl:hover,.jdxl:hover,.ssxl:hover{
+    background-color: #FFBB6A;
+}
+
+.ck_divs_img{
+    transition: all 0.5s;
+}
+.ck_divs_img:hover{
+    transform: scale(1.4);
+}
+
+.ten-photo div img{
+    transition: all 0.3s;
+}
+
+.ten-photo div img:hover{
+    transform: scale(0.8);
+    box-shadow: 0 0 10px 0 #000000;
+}

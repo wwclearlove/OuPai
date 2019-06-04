@@ -26,6 +26,6 @@ public class PayCartServlet extends HttpServlet {
         //传递总价
         request.setAttribute("jiage",cart.getTotal());
 
-        request.getRequestDispatcher(request.getContextPath()+"/wyc/pay.jsp").forward(request,response);
+        request.getRequestDispatcher("/wyc/pay.jsp").forward(request,response);
     }
 }

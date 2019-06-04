@@ -63,8 +63,8 @@
             <img src="../MyFuWu/call1.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
                 <p class="text-center" style="font-size: 3vmin">电话联系</p>
-                <p class="text-center" style="font-size: 2vmin">集团客服热线：400-884-1868<br>
-                    集团销售热线：400-884-1869<br>
+                <p class="text-center" style="font-size: 2vmin">集团客服热线：153-2856-1260<br>
+                    集团销售热线：153-2856-1260<br>
                 </p>
 
             </div>
@@ -73,7 +73,7 @@
             <img src="../MyFuWu/call2.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
                 <p class="text-center" style="font-size: 3vmin">邮箱联系</p>
-                <p class="text-center" style="font-size: 2vmin">请发送邮箱至：op@oppein.com</p>
+                <p class="text-center" style="font-size: 2vmin">请发送邮箱至：1280488753@qq.com</p>
 
             </div>
         </div>
@@ -83,16 +83,16 @@
         <div class="col-md-3 col-md-offset-2 col-xs-3 col-xs-offset-1">
             <img src="../MyFuWu/call4.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
-                <p class="text-center" style="font-size: 3vmin">假冒欧派产品举报</p>
-                <p class="text-center" style="font-size: 2vmin">全国客服：400-884-1868；</p>
+                <p class="text-center" style="font-size: 3vmin">假冒产品举报</p>
+                <p class="text-center" style="font-size: 2vmin">全国客服：153-2856-1260；</p>
 
             </div>
         </div>
         <div class="col-md-3 col-xs-3">
-            <img src="../MyFuWu/call6.png" class="img-responsive"/>
+            <img src="../image/erweima.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
                 <p class="text-center" style="font-size: 3vmin">微信二维码</p>
-                <p class="text-center" style="font-size: 2vmin">欧派家居<br>
+                <p class="text-center" style="font-size: 2vmin">宜程家居<br>
                     轻松扫一扫，感受欧派服务！
                 </p>
 
@@ -102,7 +102,7 @@
             <img src="../MyFuWu/call3.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
                 <p class="text-center" style="font-size: 3vmin">在线QQ</p>
-                <p class="text-center" style="font-size: 2vmin">客服001：1481800357</p>
+                <p class="text-center" style="font-size: 2vmin">客服001:1280488753</p>
 
             </div>
         </div>

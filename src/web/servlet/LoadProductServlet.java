@@ -22,6 +22,7 @@ public class LoadProductServlet extends HttpServlet {
         String name = request.getParameter("name");
         Product product = CommonUtils.toBean( request.getParameterMap(), Product.class);
         product.setId(CommonUtils.uuid());
+
         // price 转换为数值
         String to_price = request.getParameter("price");
         to_price = to_price.substring(1,to_price.length());

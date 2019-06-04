@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" contenmvn package -Dmaven.test.failture.ignore=true t="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <title>Bootstrap HelloWorld</title>
+    <title> 保修政策</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/font-awesome.css">
     <link href="${pageContext.request.contextPath}/css/head.css" rel="stylesheet">
@@ -90,12 +90,12 @@
             <p>④.电镀功能配件系列保修期为1年；</p>
             <p>⑤.塑胶类功能配件保修期为2年；</p>
             <p>⑥.其他易损，易耗件不在免费保修期范围。</p>
-            <p> 欧派家居系列产品实行“终身使用，免费维修”，即：免费保修期满后，上门维修只收材料、配件等成本费，不另收维护费和服务费。</p>
+            <p> 产品实行“终身使用，免费维修”，即：免费保修期满后，上门维修只收材料、配件等成本费，不另收维护费和服务费。</p>
         </div>
     </div>
     <div class="row rs-1">
         <div class="col-md-10 col-xs-10 col-md-offset-1 col-xs-offset-1 ">
-            <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gthree.jpg" alt=""/>&nbsp;&nbsp;&nbsp;欧铂尼木门
+            <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gthree.jpg" alt=""/>&nbsp;&nbsp;&nbsp;木门系列
             </p>
             <p>①.木门门扇、门套木制品保修期为5年，五金配件保修期为1年；</p>
             <p>②.产品实行终身使用，免费维修，即免费保修期后，上门维修只收取材料配件等成本费用，不另收维修费及服务费</p>
@@ -122,7 +122,7 @@
         <div class="col-md-10 col-xs-10 col-md-offset-1 col-xs-offset-1 ">
             <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gsix.jpg" alt=""/>&nbsp;&nbsp;&nbsp;壁纸产品
             </p>
-            <p>欧派壁纸两年免费保修，终身维护。</p>
+            <p>壁纸两年免费保修，终身维护。</p>
         </div>
     </div>
 </section>

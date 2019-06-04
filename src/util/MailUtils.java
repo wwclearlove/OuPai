@@ -11,6 +11,8 @@ import java.util.Properties;
 public final class MailUtils {
     private static final String USER = "1280488753@qq.com"; // 发件人称号，同邮箱地址
     private static final String PASSWORD = "itapwzulevodihfb";
+
+    final static String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
     /**
      *
      * @param to 收件人邮箱
@@ -21,8 +23,15 @@ public final class MailUtils {
     public static boolean sendMail(String to, String text, String title){
         try {
             final Properties props = new Properties();
+//            props.put("mail.smtp.auth", "true");
+//            props.put("mail.smtp.host", "smtp.qq.com");
+
             props.put("mail.smtp.auth", "true");
             props.put("mail.smtp.host", "smtp.qq.com");
+            props.setProperty("mail.smtp.socketFactory.class", SSL_FACTORY);
+            props.setProperty("mail.smtp.socketFactory.fallback", "false");
+            props.setProperty("mail.smtp.port", "465");
+            props.setProperty("mail.smtp.socketFactory.port", "465");
 
             // 发件人的账号
             props.put("mail.user", USER);
@@ -67,7 +76,7 @@ public final class MailUtils {
     }
 
     public static void main(String[] args) throws Exception { // 做测试用
-        MailUtils.sendMail("1454589031@qq.com","你好，这是一封测试邮件，无需回复。","测试邮件");
+        MailUtils.sendMail("1280588753@qq.com","你好，这是一封测试邮件，无需回复。","测试邮件");
         System.out.println("发送成功");
     }
 
