@@ -71,13 +71,18 @@
             <p style="font-size: 1.5em; font-weight: bolder;">业售后服务标准编制单位</p>
             <p style="margin-top:40px">1、上门测量、电脑跟踪、定期检修、5年质保、</p>
             <p>终身维护等16道一站式服务。</p>
+<<<<<<< HEAD
             <p style="margin-top:40px">2、重视对客户的承诺，以“体验、</p>
+=======
+            <p style="margin-top:40px">2、欧派聆听客户的每一个需求，重视对客户的承诺，以“体验、</p>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
             <p>专业、速度、尊崇”四大维度为标准，确保每一个客户满意。</p>
         </div>
         <div class="col-md-5" style="padding: 0;margin: 0;"><img src="../image/4S-4S.jpg" width="100%"
                                                                  class="img_4sfw"/></div>
     </div>
     <div class="row">
+<<<<<<< HEAD
         <div class="col-md-5 col-md-offset-1" style="padding: 0"><img src="../image/4S-w.jpg" width="100%"
                                                                       class="img_4sfw"/></div>
         <div class="col-md-5 text-4s">
@@ -85,22 +90,41 @@
             <p style="margin-top:40px">为让更多消费者梦想成真，遍布中国及世界各地的</p>
             <p> 网上服务服务网点，让消费者随时随地</p>
             <p>都能享受到宜程家居营销模式及一站式个性服务。</p>
+=======
+        <div class="col-md-5 col-md-offset-1" style="padding: 0"><img src="../image/4S-world.jpg" width="100%"
+                                                                      class="img_4sfw"/></div>
+        <div class="col-md-5 text-4s">
+            <p style="font-size: 1.5em;margin-top: 60px; font-weight: bolder; ">遍布世界的服务网络</p>
+            <p style="margin-top:40px">为让更多消费者梦想成真，欧派铺建遍布中国及世界各地的</p>
+            <p> 4800余家销售服务网点，让消费者随时随地</p>
+            <p>都能享受到欧派顾问式营销模式及一站式个性服务。。</p>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
         </div>
     </div>
     <div class="row">
         <div class="col-md-5 col-md-offset-1 text-4s">
+<<<<<<< HEAD
             <p style="font-size: 1.5em;margin-top: 60px; font-weight: bolder; ">全国服务团队</p>
             <%--<p style="margin-top:40px"></p>--%>
             <p>通过总结实践中遇到的各种服务问题汇编成标准教材，对服务团队实行</p>
             <p>统一培训，实现全国统一水准高质量的安装和售后服务。</p>
         </div>
         <div class="col-md-5" style="padding: 0;margin: 0;"><img src="../image/4S-fuwu.jpg" width="100%"
+=======
+            <p style="font-size: 1.5em;margin-top: 60px; font-weight: bolder; ">全国700多个服务团队</p>
+            <p style="margin-top:40px">凭借20多年客户服务经验，全国700多个服务团队服务客户。</p>
+            <p>通过总结实践中遇到的各种服务问题汇编成标准教材，对服务团队实行</p>
+            <p>统一培训，实现全国统一水准高质量的安装和售后服务。</p>
+        </div>
+        <div class="col-md-5" style="padding: 0;margin: 0;"><img src="../image/4S-people.jpg" width="100%"
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                                                  class="img_4sfw"/></div>
     </div>
     <div class="row">
         <div class="col-md-5 col-md-offset-1" style="padding: 0;"><img src="../image/4S-listen.jpg" width="100%"
                                                                        class="img_4sfw"/></div>
         <div class="col-md-5 text-4s">
+<<<<<<< HEAD
             <%--<p style="font-size: 1.5em;margin-top: 70px; font-weight: bolder;">全国免费服务热线：400-884-1868</p>--%>
             <%--<p style="margin-top:60px">统一标准实施售后服务，欧派总部设立400全国免费客服中心，</p>--%>
             <%--<p>您可直接拨打免费热线400-884-1868，</p>--%>
@@ -109,6 +133,12 @@
                 <p style="margin-top:60px">统一标准实施售后服务</p>
                 <p>您可直接拨打售后热线电话</p>
                 <p>我们将 以最快的速度受理，直至您满意为止。</p>
+=======
+            <p style="font-size: 1.5em;margin-top: 70px; font-weight: bolder;">全国免费服务热线：400-884-1868</p>
+            <p style="margin-top:60px">统一标准实施售后服务，欧派总部设立400全国免费客服中心，</p>
+            <p>您可直接拨打免费热线400-884-1868，</p>
+            <p>我们将 以最快的速度受理，直至您满意为止。</p>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
         </div>
     </div>
 </section>

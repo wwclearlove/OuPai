@@ -111,7 +111,7 @@
                 <div class="wdbz visible-lg-block">
                     <br/>
                     <p style="text-align: center;font-size: 2em;">耐用厨房</p>
-                    <p style="font-size: 0.85em">安装在欧派橱柜上的每一个部件，都经过</p>
+                    <p style="font-size: 0.85em">安装在宜程橱柜上的每一个部件，都经过</p>
                     <p style="font-size: 0.85em">真实生活状态模拟实验室 3000 小时测</p>
                     <p style="font-size: 0.85em">试，每一套厨房，都能经得起时间的考</p>
                     <p style="font-size: 0.85em">验；</p>
@@ -123,7 +123,7 @@
                 <div class="wdbz visible-lg-block">
                     <br/>
                     <p style="text-align: center;font-size: 2em;">安全厨房</p>
-                    <p style="font-size: 0.85em">欧派橱柜从厨房安全角度出发，拥有四重</p>
+                    <p style="font-size: 0.85em">宜程橱柜从厨房安全角度出发，拥有四重</p>
                     <p style="font-size: 0.85em">安全防护技术，广泛采用特殊圆角设计、</p>
                     <p style="font-size: 0.85em">精美板材封边技术，拥有承重性超强的吊</p>
                     <p style="font-size: 0.85em">码和地脚。</p>
@@ -211,11 +211,11 @@
                 </div>
                 <div class="col-xs-2 col-md-2 opsc" style="text-align: center;background: white">
                     <img src="../image/cf/fz.png" style="margin-top: 20%"/>
-                    <p class="fu-text">欧派商场</p>
+                    <p class="fu-text">宜程商场</p>
                 </div>
                 <div class="col-xs-2 col-md-2 opsc" style="text-align: center;background: white">
                     <img src="../image/cf/cf-book.png" style="margin-top: 20%"/>
-                    <p class="fu-text">欧派商城</p>
+                    <p class="fu-text">宜程商城</p>
                 </div>
                 <div class="col-xs-2 col-md-2 opsc" style="text-align: center;background: white">
                     <img src="../image/cf/cf-people.png" style="margin-top: 20%"/>

@@ -12,7 +12,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>加入欧派</title>
+    <title>加入宜程</title>
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/font-awesome.css">
     <script src="../js/jquery-3.2.1.min.js"></script>
@@ -32,7 +32,7 @@
 
         .to_join_the_european01 {
             background: url("../image/to_join_the_european01.jpg") no-repeat;
-            background-size: 100%, 100%;
+            background-size: 130%, 100%;
         }
 
         #to_join_the_european_div ul li {
@@ -43,7 +43,7 @@
             text-align: center;
             padding-left: 25px;
             padding-right: 25px;
-            padding-bottom: 15%;
+            padding-bottom: 40%;
         }
 
         #to_join_the_european_div ul li a {
@@ -88,6 +88,8 @@
         }
 
         .to_join_the_european02_div img {
+            width: 90%;
+            margin-top:5%;
             -webkit-transition: -webkit-transform 0.3s;
             -moz-transition: -moz-transform 0.3s;
             -o-transition: -o-transform 0.3s;
@@ -148,7 +150,7 @@
     <div class="container-fluid to_join_the_european01" align="center">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-                <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">加入欧派</h2>
+                <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">加入宜程</h2>
 
                 <div id="to_join_the_european_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
@@ -186,7 +188,7 @@
                  style="background-color: #F7F7F7;padding: 0">
                 <img src="../image/to_join_the_european03.jpg" class="img-responsive" alt="">
                 <br>
-                <h4><a href="javascript:void(0)">工作在欧派</a></h4>
+                <h4><a href="javascript:void(0)">工作在宜程</a></h4>
                 <h5>我们相信人的力量，我们相信梦想的力量。我们的文化以公平、光明为根本。我们一直在寻求与我们同样具有积极态度和价值观的人。</h5>
                 <br><br>
                 <a href="#" class="to_join_the_european02_div_a">查看更多</a>

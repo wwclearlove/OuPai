@@ -100,10 +100,17 @@
                     <!-- 轮播（Carousel）项目 -->
                     <div class="carousel-inner">
                         <div class="item active">
+<<<<<<< HEAD
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+=======
+                            <div class="text-center" style="height: 100%">
+                                <a href="" style="text-decoration: none;">
+                                    <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
+                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
                                     </dl>
                                 </a>
@@ -111,20 +118,34 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+=======
+                            <div class="text-center" style="height: 100%">
+                                <a href="" style="text-decoration: none;">
+                                    <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
+                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
                                     </dl>
                                 </a>
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+=======
+                            <div class="text-center" style="height: 100%">
+                                <a href="" style="text-decoration: none;">
+                                    <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
+                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
                                     </dl>
                                 </a>
@@ -134,14 +155,22 @@
                             <div class="text-center" style="height: 100%">
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
+<<<<<<< HEAD
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+=======
+                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
                                     </dl>
                                 </a>
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center">
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -151,10 +180,17 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+=======
+                            <div class="text-center" style="height: 100%">
+                                <a href="" style="text-decoration: none;">
+                                    <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
+                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
                                     </dl>
                                 </a>
@@ -167,9 +203,15 @@
                 <div ><img src="../MyFuWu/news1.jpg" class="img-responsive"/></div>
             </div>
             <div class=" col-md-3 col-xs-3 col-md-offset-1 col-xs-offset-1" style="background-color: #ffffff;padding-bottom: 1%;padding-top: 1%">
+<<<<<<< HEAD
                 <div class="text-left visible-xs" style="padding: 5% 5%;font-size: 3vmin;border-bottom:1px dashed rgba(0,0,0,0.25)"><b>宜居计划</b></div>
                 <div ><img src="../MyFuWu/news2.jpg" class="img-responsive"/></div>
                 <div class="text-left visible-md visible-lg" style="padding: 5% 5%;font-size: 3vmin;border-bottom:1px dashed rgba(0,0,0,0.25)"><b>宜居计划</b></div>
+=======
+                <div class="text-left visible-xs" style="padding: 5% 5%;font-size: 3vmin;border-bottom:1px dashed rgba(0,0,0,0.25)"><b>爱家计划</b></div>
+                <div ><img src="../MyFuWu/news2.jpg" class="img-responsive"/></div>
+                <div class="text-left visible-md visible-lg" style="padding: 5% 5%;font-size: 3vmin;border-bottom:1px dashed rgba(0,0,0,0.25)"><b>爱家计划</b></div>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                 <div id="myCarousel2" class="carousel slide visible-md visible-lg" style="margin-top: 2%;padding-bottom: 7%">
                     <!-- 轮播（Carousel）指标 -->
                     <ol class="carousel-indicators">
@@ -183,10 +225,17 @@
                     <!-- 轮播（Carousel）项目 -->
                     <div class="carousel-inner">
                         <div class="item active">
+<<<<<<< HEAD
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+=======
+                            <div class="text-center" style="height: 100%">
+                                <a href="" style="text-decoration: none;">
+                                    <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
+                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
                                     </dl>
                                 </a>
@@ -194,7 +243,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -204,7 +257,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -214,7 +271,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -224,7 +285,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -234,7 +299,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -263,7 +332,11 @@
                     <!-- 轮播（Carousel）项目 -->
                     <div class="carousel-inner">
                         <div class="item active">
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -274,7 +347,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -284,7 +361,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -294,7 +375,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -304,7 +389,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
@@ -314,7 +403,11 @@
                             </div>
                         </div>
                         <div class="item" >
+<<<<<<< HEAD
                             <div class="text-center" >
+=======
+                            <div class="text-center" style="height: 100%">
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧派家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>

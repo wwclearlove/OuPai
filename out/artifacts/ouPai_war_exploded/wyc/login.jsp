@@ -20,9 +20,20 @@
   </head>
   <style>
     .loginbg{
+<<<<<<< HEAD
       background: url("../image/loginbg.jpg") no-repeat;
       background-size: 100%, 100%;
       border: 1px saddlebrown solid;
+=======
+<<<<<<< HEAD
+      background: url("../image/loginbg.jpg") no-repeat;
+      background-size: 100%, 100%;
+      border: 1px saddlebrown solid;
+=======
+      background: url("../image/login.jpg") no-repeat;
+      background-size: 120%, 100%;
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
     }
     #errorMsg{
       display: none;
@@ -66,6 +77,22 @@
     .reg a {
       color: #fc7f7f;
     }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    @media (max-width: 700px) {
+      .bt{
+        margin-top: 5%;
+      }
+    }
+    @media (min-width: 700px) {
+      .bt{
+        margin-top: 3%;
+      }
+    }
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
   </style>
   <script>
       $(function () {
@@ -93,11 +120,25 @@
 
   <jsp:include page="../header.jsp" flush="true"/>
   <div class="container-fluid" align="center">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
     <div class="row  loginbg">
       <div class=" col-md-5 col-md-offset-6" >
         <div class="row " style="background-color:#ffde0d;color: white;font-size: 1.5em;padding: 5%;">
           <img src="../image/logo.png" alt="" class="col-md-6 col-xs-6 col-xs-6"style="text-align: right" >
           <span class="col-md-6 col-xs-6 col-xs-6" style="text-align: left" >欢迎登录欧派</span>
+<<<<<<< HEAD
+=======
+=======
+    <div class="row loginbg">
+      <div class=" col-md-5 col-md-offset-6" >
+        <div class="row " style="background-color:#ffde0d;color: white;font-size: 1.5em;padding: 2%;">
+          <img src="../image/yclogo.png" alt="" class="col-md-6 col-xs-6 col-xs-6"style="text-align: right" >
+          <span class="col-md-6 col-xs-6 col-xs-6 bt" style="text-align: left" >欢迎登录欧派</span>
+>>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
+>>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
         </div>
         <div class="row kz" style="background-color: white;text-align: center">
           <div id="errorMsg" class="row alert alert-danger" ></div>
