@@ -6,474 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c73788e-4940-4687-afb3-a201790f3846" name="Default" comment="Merge branch 'master' of https://github.com/wwclearlove/OuPai&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/web/filter/TheShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/ppls_background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/image/the_wardrobe9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war/ouPai_war.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526114336_801.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120242_383.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120334_542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160526120344_225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160603144109_520.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/20160621184836_936.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/bigImg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/call6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/fuwu6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/gonglue4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/icon16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/news1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/news2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/MyFuWu/news3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/CartItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/ResultInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/druid.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/util/JDBCUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/util/MailUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/util/MailUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/util/Md5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/util/UuidUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/filter/CharchaterFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/ActiveUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/CartOkServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/CartServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/CheckCodeServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/DeleteItemServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/LoadProductServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/PayCartServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/PayOneServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/PaySuccessServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/RegistUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/classes/web/servlet/RemoveServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/activation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/commons-email-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/druid-1.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/itcast-tools-1.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jackson-annotations-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jackson-core-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jackson-databind-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/jstl-impl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/mail.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/4sfw.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Wefuwu/baoxiuzhengce.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/ck.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/Weyewu/yg.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/4Sfw.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/about_the_send.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/all_the_special_effects.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/baoxiuzhengce.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/become_a_supplier.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/brand_history.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/ck.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/fw.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/head.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/investor_relations.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/our_business.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/our_company.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/our_investment.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/project_case.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_shopping_cart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/the_title_content.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/css/yg.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/download/app.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/eg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/eg09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/egs01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/egs02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/egs03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/egs04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/egs05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/egs06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/eg/image/shuffling_figure02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/Fuwuheard.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/MyFuwu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/changjianwenti.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/dingdan.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/fuwu_call.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/gouwu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fcx/newzx.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/footer.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/4S-4S.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/4S-listen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/4S-people.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/4S-world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/Gfive.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/Gfour.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/Gone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/Gsix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/Gthree.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/Gtwo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/IconTexto_WebDev_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/abc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/bc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/bcc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/beijingnongshang.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/bh.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/bj.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/ccb.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/cib.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/cmb.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/cmbc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/dy.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/gf.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/guangda.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/hx.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/icbc.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/nanjing.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/ningbo.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/pingan.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/post.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/sfz.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/sh.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/shpd.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/zheshang.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bank_img/zx.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/banner8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/baoxiu-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/bg22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/big1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/big2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/aqcf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/astzy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/big-one.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/big-two.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/cf-book.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/cf-people.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/cf-wl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/fz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/lmdg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/lscf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/nycf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/pgnzt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/rxcf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/shopping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/skl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/snkl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/stjt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/sxgy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/three-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/tl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/wzzf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/ydn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cf/yscf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/cj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/djj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/erweima.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/footer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gcal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gwc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gwc_buy.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gwc_jx.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/gyop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic1_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic2_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic3_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic4_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic5_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/ic6_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/iicon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/investor_relations02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/jxgw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/loginbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/logo_ok.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_business16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_company06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/our_investment05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qianshou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/qq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/regist.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/share.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/shop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sl2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sl3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/sp4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/the_wardrobe20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/to_join_the_european04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/up-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/up-db.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/we.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wgmn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/wx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/xiao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yclogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg/yg-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg/yg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg/yg-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg/yg-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg/yg-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/yg/yg-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/image/zf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/all_the_special_effects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/head.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/investor_relations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/our_business.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/our_company.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/our_investment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_shopping_cart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/js/the_title_content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/the_title_content/the_title_content.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/investor_relations.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_business.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_company.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/our_investment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/ws/to_join_the_european.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/gwc.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/index2.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/jihuo_ok.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/logo_ok.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/pay.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/pay_ok.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/regist.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/resist_ok.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/the_shopping_cart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/the_shopping_cart.jsp~8f9bb68a289dac89ddce9883df88a4cd9eef749e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/the_shopping_cart.jsp~HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/wyc/wddd.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy/cwgys.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy/gcal.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy/gyop.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy/ppls.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20160526145806_873.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20160526145840_838.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20160526145925_122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20160526150000_831.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20160818092935_122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161013171938_772.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161013171952_507.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161013172018_316.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161013172033_149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161107182248_638.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161107182611_996.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161107183255_499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/20161117091000_110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/bigImg5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/jtleft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/jtright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ouPai_war_exploded/yy_img/shop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Weyewu/ck.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Weyewu/ck.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Weyewu/yg.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Weyewu/yg.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/about_the_send.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/about_the_send.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/all_the_special_effects.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/all_the_special_effects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/brand_history.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/brand_history.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/ck.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/ck.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/the_shopping_cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/the_shopping_cart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/yg.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/yg.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/fcx/dingdan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/fcx/dingdan.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/sl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/sl.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/the_wardrobe20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/the_wardrobe20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/image/yg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/image/yg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/wyc/the_shopping_cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/wyc/the_shopping_cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/wyc/wddd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/wyc/wddd.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/yy/gcal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/yy/gcal.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/yy/gyop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/yy/gyop.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/yy/ppls.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/yy/ppls.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="8c73788e-4940-4687-afb3-a201790f3846" name="Default" comment="Merge branch 'master' of https://github.com/wwclearlove/OuPai&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/web/WEB-INF/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -486,36 +19,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/wyc/the_shopping_cart.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#script#3;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#9696#9702#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/filter/TheShoppingCart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3078#3094#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -594,42 +98,6 @@
             <path>
               <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="oupai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oupai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oupai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oupai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oupai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oupai" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ouPai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oupai" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="wyc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -778,18 +246,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559630325851</updated>
-      <workItem from="1559630362510" duration="10605000" />
+      <workItem from="1559630362510" duration="11265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32304000" />
+    <option name="totallyTimeSpent" value="32964000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49270073" weight="0.22701383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49270073" visible="true" weight="0.22701383" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1229,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/filter/TheShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+        <state relative-caret-position="150">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3078#3094#0" expanded="true" />
@@ -1240,11 +707,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/wyc/the_shopping_cart.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        <state relative-caret-position="600">
+          <caret line="138" column="45" lean-forward="true" selection-start-line="138" selection-start-column="45" selection-end-line="138" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
             <element signature="n#script#3;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#9696#9702#0#HTML" expanded="true" />
           </folding>
