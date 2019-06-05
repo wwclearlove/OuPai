@@ -27,11 +27,7 @@ public class LoadProductServlet extends HttpServlet {
         String to_price = request.getParameter("price");
         to_price = to_price.substring(1,to_price.length());
         product.setPrice(Double.parseDouble(to_price));
-
         product.setPnum(1);
-
-
-
         if (name.equals("")) {
             out.write("false");
         }else {

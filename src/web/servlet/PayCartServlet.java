@@ -28,8 +28,4 @@ public class PayCartServlet extends HttpServlet {
 
         request.getRequestDispatcher("/wyc/pay.jsp").forward(request,response);
     }
-
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
-    }
 }
