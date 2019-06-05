@@ -41,20 +41,12 @@
     <div class="container-fluid our_company01" align="center">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-<<<<<<< HEAD
                 <h2 id="h2s" style="padding-top: 25%;padding-bottom: 3%;color: black;">我们的公司</h2>
-=======
-                <h2 id="h2s" style="padding-top: 25%;padding-bottom: 3%;color: white;">我们的公司</h2>
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
 
                 <div id="our_company01_div" align="center"
                      style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                     <ul id="our_company01_div_ul">
-<<<<<<< HEAD
                         <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>关于宜程</a></li>
-=======
-                        <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>关于欧派</a></li>
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                         <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>品牌历史</a></li>
                     </ul>
                     <script>
@@ -71,21 +63,12 @@
     <div class="container-fluid our_company02" align="center" style="padding-top: 10%;padding-bottom: 8%;">
         <div class="row" style="padding-left: 2%;padding-right: 2%">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-<<<<<<< HEAD
                 <img style="width: 100%;" src="../image/our_company02.jpg" class="img-responsive" alt="">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" align="left" style="padding-left: 5%;">
                 <h3>关于宜程</h3>
                 <h5>
                     宜程致力于改变每一个家庭，为每一个家庭定制独一无二的家， 让更多家庭享受高品质生活。
-=======
-                <img src="../image/our_company02.jpg" class="img-responsive" alt="">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" align="left" style="padding-left: 5%;">
-                <h3>关于欧派</h3>
-                <h5>
-                    欧派致力于改变每一个家庭，为每一个家庭定制独一无二的家， 让更多家庭享受高品质生活。
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                     我们每一款产品，都为满足个人的生活需求而打造。
                 </h5>
                 <a href="">查看更多</a>
@@ -97,15 +80,9 @@
          style="background-color: #F1F1F1;padding-top: 10%;padding-bottom: 8%;">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" align="left" style="padding-left: 5%;">
-<<<<<<< HEAD
                 <h3>世界的宜程</h3>
                 <h5>
                     “把宜程打造成一个受人尊敬、受人爱戴的中国著名的、有一定国际影响力的创意家居集团”，这是宜程的愿景。
-=======
-                <h3>世界的欧派</h3>
-                <h5>
-                    “把欧派打造成一个受人尊敬、受人爱戴的中国著名的、有一定国际影响力的创意家居集团”，这是欧派的愿景。
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                 </h5>
                 <a href="">查看更多</a>
             </div>
@@ -137,21 +114,13 @@
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" align="left" style="padding-left: 5%;">
                 <h3>家与未来</h3>
                 <h5>
-<<<<<<< HEAD
                     宜程努力为每个家庭提供美好家居，创造更高品质家居生活。 我们审视自己的企业理念和品牌，
-=======
-                    欧派一直努力为每个家庭提供美好家居，创造更高品质家居生活。 我们审视自己的企业理念和品牌，
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                     以家庭与未来为核心视角，探索及努力为每个家庭提供健康环保、智能人性以及充满个性色彩的产品。
                 </h5>
                 <a href="">查看更多</a>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-<<<<<<< HEAD
                 <img style="width: 100%;" src="../image/our_company05.jpg" class="img-responsive" alt="">
-=======
-                <img src="../image/our_company05.jpg" class="img-responsive" alt="">
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
             </div>
         </div>
     </div>
@@ -159,25 +128,14 @@
     <div class="container-fluid our_company02" align="center" style="padding-top: 10%;padding-bottom: 8%;">
         <div class="row" style="padding-left: 2%;padding-right: 2%">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-<<<<<<< HEAD
                 <img style="width: 100%;" src="../image/our_company06.jpg" class="img-responsive" alt="">
-=======
-                <img src="../image/our_company06.png" class="img-responsive" alt="">
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" align="left" style="padding-left: 5%;">
                 <h3>欧铂丽家居定制</h3>
                 <h5>
-<<<<<<< HEAD
                     欧铂丽是宜程集团旗下全新子品牌，主打年轻、时尚的家居风格。欧铂丽为顾客提供全屋6大空间定制服务，
                     分别为客厅、餐厅、卧房、厨房、书房、儿童房。综合家居一体化服务，为客户省下更多时间，省去更多麻烦。
                 </h5>
-=======
-                    欧铂丽是欧派集团旗下全新子品牌，主打年轻、时尚的家居风格。欧铂丽为顾客提供全屋6大空间定制服务，
-                    分别为客厅、餐厅、卧房、厨房、书房、儿童房。综合家居一体化服务，为客户省下更多时间，省去更多麻烦。
-                </h5>
-
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
                 <a href="">查看更多</a>
             </div>
         </div>

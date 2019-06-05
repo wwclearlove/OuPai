@@ -34,7 +34,7 @@
 <div class="container-fluid investor_relations01" align="center" style="margin: 0;padding: 0">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-        <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: white;">厨柜</h2>
+        <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: black;">厨柜</h2>
 
         <div id="the_title_content" align="center"
              style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">

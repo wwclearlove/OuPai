@@ -121,17 +121,10 @@
             </div>
         </div>
     </div>
-<<<<<<< HEAD
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-                <img src="${pageContext.request.contextPath}/image/footer.jpg" width="100%" alt=""><%-- class="img-responsive"--%>
-=======
     <div class="container-fluid" style="background-color: #3e3e3e;color: #aeb5b7">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 3%;text-align: center">
                 Copyright © 宜程团队 |
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
             </div>
         </div>
     </div>
