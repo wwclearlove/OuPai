@@ -33,7 +33,7 @@
                 <ul id="the_title_content_ul">
                     <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
                     <li ><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
                         <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">
@@ -42,7 +42,7 @@
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
                     document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth /5+ "px";
                 </script>
             </div>
@@ -75,6 +75,7 @@
                 <p class="text-center" style="font-size: 3vmin">邮箱联系</p>
                 <p class="text-center" style="font-size: 2vmin">请发送邮箱至：1280488753@qq.com</p>
 
+
             </div>
         </div>
     </div>
@@ -83,11 +84,7 @@
         <div class="col-md-3 col-md-offset-2 col-xs-3 col-xs-offset-1">
             <img src="../MyFuWu/call4.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
-<<<<<<< HEAD
                 <p class="text-center" style="font-size: 3vmin">假冒产品举报</p>
-=======
-                <p class="text-center" style="font-size: 3vmin">假冒欧派产品举报</p>
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                 <p class="text-center" style="font-size: 2vmin">全国客服：153-2856-1260；</p>
 
             </div>
@@ -96,11 +93,7 @@
             <img src="../image/erweima.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
                 <p class="text-center" style="font-size: 3vmin">微信二维码</p>
-<<<<<<< HEAD
                 <p class="text-center" style="font-size: 2vmin">宜程家居<br>
-=======
-                <p class="text-center" style="font-size: 2vmin">欧派家居<br>
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                     轻松扫一扫，感受欧派服务！
                 </p>
 

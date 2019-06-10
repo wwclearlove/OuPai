@@ -15,20 +15,8 @@
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
     <style>
       .loginbg{
-<<<<<<< HEAD
-        background: url("../image/bg22.jpg") no-repeat;
-        background-size: 100%, 100%;
-        border: 1px saddlebrown solid;
-=======
-<<<<<<< HEAD
-        background: url("../image/bg22.jpg") no-repeat;
-        background-size: 100%, 100%;
-        border: 1px saddlebrown solid;
-=======
         background: url("../image/regist.jpg") no-repeat;
         background-size: 140%, 100%;
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
       }
 
       .rg_form_left{
@@ -254,15 +242,7 @@
 
   <jsp:include page="../header.jsp" flush="true"/>
   <div class="container-fluid rg_layout" align="center">
-<<<<<<< HEAD
-    <div class="row  loginbg rg_form clearfix " style="font-size: 1.2em;padding-top:4%">
-=======
-<<<<<<< HEAD
-    <div class="row  loginbg rg_form clearfix " style="font-size: 1.2em;padding-top:4%">
-=======
     <div class="row  loginbg rg_form clearfix " style="font-size: 1.2em;">
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
       <div class="col-md-offset-1 col-md-2 " style="background:rgba(255,255,255,0.3);" >
         <div class="rg_form_left">
           <p style="	font-size: 1.8em;color:#ffcd26;">新用户注册</p>

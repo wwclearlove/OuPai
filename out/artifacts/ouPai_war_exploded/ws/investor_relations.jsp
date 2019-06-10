@@ -77,44 +77,46 @@
     <div class="container investor_relations03">
         <div class="row investor_relations03div" align="center">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居关于回购注销部分限制</a></h4>
+                <h4><a href="javascript:void(0)">城市住房结构变化或将带动家具租赁发展</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告</span>
+                <span>众所周知，2017年是共享经济之年，从出行的共享单车、共享电动车，到日常用品的共享充电宝、共享雨伞、共享健身房，共享的概念涉及的行业广泛，家居业也不例外。</span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居2018年年度股东大会决</a></h4>
+                <h4><a href="javascript:void(0)">2018全屋定制"互联网+"大扩张 产能过剩</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
+                <span>目前来看，全屋定制行业的“大鳄”并没有固化，几大品牌你追我赶，新的全屋定制品牌也快速崛起。现在很多企业都停留在跟风和概念层面，甚至是“挂羊头卖狗肉”，不具备真正的实力。 </span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居关于2019年第一季度主</a></h4>
+                <h4><a href="javascript:void(0)">2019成都木材交易额有望破40亿</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
+                <span>截至今年4月30日，成都国际铁路港共完成俄罗斯木材回程班列363列，柜量15273柜，货量达59万立方米。 </span>
+                <span></span><br>
+                <span></span><br>
                 <br><br><br><br>
-                <h5 style="color: #999999">2019-5-22</h5>
+                <h5 style="color: #999999">2019-6-5</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居关于公开发行A股可转</a></h4>
+                <h4><a href="javascript:void(0)">中国家居卖场 谁能先破千亿？</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告</span>
+                <span>恰好赶上国内外上市企业陆续发布财报，既包括全球知名的企业美国家得宝、劳氏、宜家等知名企业，也包括中国家居卖场巨头企业红星美凯龙、居然之家(居然新零售)等多家公司。</span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
@@ -123,44 +125,46 @@
         </div>
         <div class="row investor_relations03div" align="center">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居2018年年度股东大会会</a></h4>
+                <h4><a href="javascript:void(0)">城市住房结构变化或将带动家具租赁发展</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
+                <span>众所周知，2017年是共享经济之年，从出行的共享单车、共享电动车，到日常用品的共享充电宝、共享雨伞、共享健身房，共享的概念涉及的行业广泛，家居业也不例外。</span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居关于召开2018年年度股</a></h4>
+                <h4><a href="javascript:void(0)">2018全屋定制"互联网+"大扩张 产能过剩</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
+                <span>目前来看，全屋定制行业的“大鳄”并没有固化，几大品牌你追我赶，新的全屋定制品牌也快速崛起。现在很多企业都停留在跟风和概念层面，甚至是“挂羊头卖狗肉”，不具备真正的实力。 </span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居关于召开2018年度现金</a></h4>
+                <h4><a href="javascript:void(0)">2019成都木材交易额有望破40亿</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
+                <span>截至今年4月30日，成都国际铁路港共完成俄罗斯木材回程班列363列，柜量15273柜，货量达59万立方米。 </span>
+                <span></span><br>
+                <span></span><br>
                 <br><br><br><br>
-                <h5 style="color: #999999">2019-5-22</h5>
+                <h5 style="color: #999999">2019-6-5</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">
                 <br><br><br>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <h4><a href="javascript:void(0)">欧派家居关于续聘广东正中珠江</a></h4>
+                <h4><a href="javascript:void(0)">中国家居卖场 谁能先破千亿？</a></h4>
                 <br>
                 <div style="height: 1px;background-color: #737373;padding-left: 5%;padding-right: 5%;"></div>
                 <br>
-                <span>欧派家居关于回购注销部分限制性股票通知债权人公告 </span>
+                <span>恰好赶上国内外上市企业陆续发布财报，既包括全球知名的企业美国家得宝、劳氏、宜家等知名企业，也包括中国家居卖场巨头企业红星美凯龙、居然之家(居然新零售)等多家公司。</span>
                 <br><br><br><br>
                 <h5 style="color: #999999">2019-5-22</h5>
                 <img src="${pageContext.request.contextPath}/image/investor_relations02.png" alt="" width="100%">

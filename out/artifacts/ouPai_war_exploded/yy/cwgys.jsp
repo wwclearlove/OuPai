@@ -30,7 +30,7 @@
              style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
           <ul id="the_title_content_ul">
             <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
-              <i class="fa fa-hand-o-right fa-lg"></i>加入欧派</a></li>
+              <i class="fa fa-hand-o-right fa-lg"></i>加入宜程</a></li>
             <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
               <i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
           </ul>

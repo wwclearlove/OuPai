@@ -107,7 +107,7 @@
 
 .ck_divs{
     visibility: hidden;
-    transition: all 0.5s;
+    transition: all 1s;
 }
 
 .ck_divs img{

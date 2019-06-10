@@ -31,10 +31,10 @@
 }
 
 .the_wardrobe01_div_a a {
-    margin-left:10%;
+    margin-left:5%;
     float: left;
     color: black;
-    width: 30%;
+    width: 40%;
     display: block;
     padding-top: 2%;
     padding-bottom: 2%;
@@ -54,7 +54,6 @@
 }
 
 .add_to_cart i {
-
     font-size: 1em;
 }
 
@@ -95,5 +94,8 @@
 @media (max-width: 700px) {
     .the_wardrobe01_h6 {
         display: none;
+    }
+    .the_wardrobe01_div_a i {
+        font-size: 0.7em;
     }
 }

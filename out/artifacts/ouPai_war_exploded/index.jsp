@@ -162,17 +162,11 @@
             padding: 9%;
             background: #ffffff;
         }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 
         #carousel-example-generic img{
             width: 100%;
         }
 
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
     </style>
 
     <link rel="stylesheet" href="css/all_the_special_effects.css">
@@ -192,16 +186,6 @@
                 <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-<<<<<<< HEAD
-                <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="7"></li>
-=======
-<<<<<<< HEAD
-                <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="7"></li>
-=======
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
             </ol>
 
             <div class="carousel-inner" role="listbox">
@@ -241,27 +225,6 @@
 
                     </div>
                 </div>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
-                <div class="item">
-                    <img src="image/banner7.jpg" alt="...">
-                    <div class="carousel-caption">
-
-                    </div>
-                </div>
-                <div class="item">
-                    <img src="image/banner8.jpg" alt="...">
-                    <div class="carousel-caption">
-
-                    </div>
-                </div>
-<<<<<<< HEAD
-=======
-=======
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
             </div>
 
 
@@ -309,7 +272,7 @@
 
             <div class="row img_div ">
                 <h3>业务</h3>
-                <p>欧派以顶级设计师一对一提供空间设计服务， 真正实现一体化设计、一站式挑选、
+                <p>宜程以顶级设计师一对一提供空间设计服务， 真正实现一体化设计、一站式挑选、
                     个性化定制你的爱家，轻轻松松，拎包入住。</p>
             </div>
             <div class="row" style="padding: 5%">
@@ -328,9 +291,7 @@
             </div>
             <div class="row img_div">
                 <h3>厨柜</h3>
-                <p>欧派橱柜是中国橱柜标准制定者，
-                    连续11年蝉联全国橱柜行业会长单位, 2088多家门店覆盖全国，
-                    产品出口全球6大洲118个国家。</p>
+                <p>宜程橱柜是中国橱柜</p>
             </div>
             <div class="row" style="padding: 5%">
 
@@ -348,9 +309,9 @@
             </div>
             <div class="row img_div ">
                 <h3>大家居</h3>
-                <p>欧派大家居整合家居家装资源，
+                <p>宜程大家居整合家居家装资源，
                     以顶级设计师一对一提供空间设计服务，提供全屋定制解决方案。</p>
-            </div>
+        </div>
             <div class="row" style="padding: 5%">
 
             </div>
@@ -367,8 +328,7 @@
             </div>
             <div class="row img_div">
                 <h3>工程案例</h3>
-                <p>欧派作为国内最早为房地产楼盘配套整体橱柜的企业之一，
-                    并率先荣获“国家康居住宅示范工程指定产品”称号。</p>
+                <p>宜程作为国内最早为房地产楼盘配套整体橱柜的企业之一。</p>
             </div>
             <div class="row" style="padding: 5%">
 
@@ -393,7 +353,7 @@
     </div>
     <div class="row tx2" style="background: #d9d9d9;margin-bottom: 1%">
         <div class="col-md-6 col-sm-6  col-xs-6" style="border: 1px silver solid">
-            <img src="image/gyop.png" class="img-responsive">
+            <img src="image/gyop1.png" class="img-responsive">
         </div>
         <div class="col-md-6 col-sm-6  col-xs-6" style="border: 1px silver solid">
             <img src="image/xiao.jpg" class="img-responsive">
@@ -403,7 +363,7 @@
         <div class="col-md-3  col-sm-3  col-xs-3 col-md-push-1 col-sm-push-1 col-xs-push-1 div_i"
              style="border: 1px silver solid">
             <img src="image/iicon1.png " alt="">
-            <p class="p_d">世界的欧派</p>
+            <p class="p_d">世界的宜程</p>
         </div>
         <div class="col-md-3  col-sm-3  col-xs-3 col-md-push-1 col-sm-push-1 col-xs-push-1 div_i2"
              style="border: 1px silver solid">
@@ -443,7 +403,7 @@
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <img src="image/ic2.png " alt="">
-            <p class="p_d">欧派商场</p>
+            <p class="p_d">宜程商场</p>
             <em>&nbsp;——</em>
             <p>&nbsp;</p>
         </div>
@@ -483,7 +443,7 @@
     <div class="row" style="padding: 3%"></div>
     <div class="row tx1">
         <div class="row erji">
-            <h3 class=" col-md-12  col-xs-12">加入欧派</h3>
+            <h3 class=" col-md-12  col-xs-12">加入宜程</h3>
         </div>
         <div class="row erji">
             <h1 class=" col-md-12  col-xs-12">JOIN OPPEIN</h1>
@@ -498,7 +458,7 @@
             <div class="col-md-4  col-sm-12 col-xs-12" style="border: 1px saddlebrown solid;">
                 <div class="row qh1">
                     <i class="fa fa-grav fa-4x "></i>
-                    <span>工作在欧派</span>
+                    <span>工作在宜程</span>
                 </div>
                 <div class="row qh2">
                     <i class="fa fa-user-circle-o fa-4x "></i>

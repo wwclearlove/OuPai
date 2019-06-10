@@ -1,7 +1,8 @@
 .investor_relations01 {
-    background: url("../yy_img/bigImg5.jpg") no-repeat;
-    background-size: 100%, 100%;
+    background: url("../image/ppls_background.jpg") no-repeat;
+    background-size: 130%, 100%;
 }
+
 #the_title_content ul li {
     float: left;
     height: 100%;
@@ -10,7 +11,7 @@
     text-align: center;
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 60%;
+    padding-bottom: 40%;
 }
 
 #the_title_content ul li a {
@@ -30,66 +31,80 @@
     display: none;
     line-height: 60px;
 }
+
 @media (max-width: 700px) {
     #the_title_content {
         display: none;
     }
 }
-.hz{
+
+.hz {
     margin-top: 5%;
     height: 80px;
     line-height: 80px;
     text-align: center;
 }
-.div{
+
+.div {
     display: none;
 }
-.div y{
+
+.div y {
     color: #000000;
     font-weight: bold;
 
 }
-.div y:hover{
+
+.div y:hover {
     color: #ffc900;
 }
 
-.hzzz{
+.hzzz {
     display: none;
 }
 
-.lbt{
+.lbt {
     /*margin-top: 30px;*/
 }
+
 ul li {
     /*float:left;*/
 }
-@media (min-width: 750px) {
-  .span1{
-      font-size: 5em
 
-  }
-    .span2{
+@media (min-width: 750px) {
+    .span1 {
+        font-size: 5em
+
+    }
+
+    .span2 {
         font-size: 1.2em;
     }
-    ul li span{
+
+    ul li span {
         font-size: 1em
     }
-    y{
+
+    y {
         font-size: 2em;
     }
 }
-@media (max-width: 750px){
-    .span1{
+
+@media (max-width: 750px) {
+    .span1 {
         font-size: 3em
 
     }
-    .span2{
-        font-size:0.5em;
+
+    .span2 {
+        font-size: 0.5em;
     }
-    ul li span{
-        font-size:0.3em
+
+    ul li span {
+        font-size: 0.3em
     }
-    y{
+
+    y {
         font-size: 0.8em;
     }
 }

@@ -39,8 +39,8 @@
                             class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i
                             class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i
-                            class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i--%>
+                            <%--class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
                         <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
@@ -49,7 +49,7 @@
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
                     document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth / 5 + "px";
                 </script>
             </div>
@@ -90,20 +90,12 @@
             <p>④.电镀功能配件系列保修期为1年；</p>
             <p>⑤.塑胶类功能配件保修期为2年；</p>
             <p>⑥.其他易损，易耗件不在免费保修期范围。</p>
-<<<<<<< HEAD
             <p> 产品实行“终身使用，免费维修”，即：免费保修期满后，上门维修只收材料、配件等成本费，不另收维护费和服务费。</p>
-=======
-            <p> 欧派家居系列产品实行“终身使用，免费维修”，即：免费保修期满后，上门维修只收材料、配件等成本费，不另收维护费和服务费。</p>
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
         </div>
     </div>
     <div class="row rs-1">
         <div class="col-md-10 col-xs-10 col-md-offset-1 col-xs-offset-1 ">
-<<<<<<< HEAD
             <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gthree.jpg" alt=""/>&nbsp;&nbsp;&nbsp;木门系列
-=======
-            <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gthree.jpg" alt=""/>&nbsp;&nbsp;&nbsp;欧铂尼木门
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
             </p>
             <p>①.木门门扇、门套木制品保修期为5年，五金配件保修期为1年；</p>
             <p>②.产品实行终身使用，免费维修，即免费保修期后，上门维修只收取材料配件等成本费用，不另收维修费及服务费</p>
@@ -130,12 +122,7 @@
         <div class="col-md-10 col-xs-10 col-md-offset-1 col-xs-offset-1 ">
             <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gsix.jpg" alt=""/>&nbsp;&nbsp;&nbsp;壁纸产品
             </p>
-<<<<<<< HEAD
-            <p>壁纸两年免费保修，终身维护。</p>
-=======
-            <p>欧派壁纸两年免费保修，终身维护。</p>
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
-        </div>
+            <p>壁纸两年免费保修，终身维护。</p></div>
     </div>
 </section>
 <jsp:include page="../footer.jsp" flush="true"/>

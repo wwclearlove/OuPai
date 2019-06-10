@@ -25,7 +25,7 @@
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/our_company.jsp">
                       公司</a></li>
-                    <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp">关于欧派</a></li>
+                    <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp">关于宜程</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp">品牌历史</a></li>
 
                 </ul>
@@ -54,10 +54,11 @@
 
             </div>
             <div class="row-content col-md-2  col-xs-6">
-                <h3>加入欧派</h3>
+                <h3>加入宜程</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
-                       加入欧派</a></li>
+                       加入宜程</a></li>
+                       加入宜程</a></li>
                     <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
                      我们的招商</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp">成为供应商</a></li>
@@ -121,23 +122,10 @@
             </div>
         </div>
     </div>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-                <img src="${pageContext.request.contextPath}/image/footer.jpg" width="100%" alt=""><%-- class="img-responsive"--%>
-<<<<<<< HEAD
-=======
-=======
     <div class="container-fluid" style="background-color: #3e3e3e;color: #aeb5b7">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 3%;text-align: center">
                 Copyright © 宜程团队 |
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
             </div>
         </div>
     </div>
