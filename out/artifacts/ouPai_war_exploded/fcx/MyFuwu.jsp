@@ -49,11 +49,7 @@
 </div>
 <section>
 
-<<<<<<< HEAD
     <div class="container-fluid" style="margin-top: 10%">
-=======
-    <div class="container-fluid">
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
                 <img src="../MyFuWu/fuwu1.png" class="img-responsive"/>

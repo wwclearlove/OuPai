@@ -83,11 +83,7 @@
         <div class="col-md-3 col-md-offset-2 col-xs-3 col-xs-offset-1">
             <img src="../MyFuWu/call4.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
-<<<<<<< HEAD
                 <p class="text-center" style="font-size: 3vmin">假冒产品举报</p>
-=======
-                <p class="text-center" style="font-size: 3vmin">假冒欧派产品举报</p>
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                 <p class="text-center" style="font-size: 2vmin">全国客服：153-2856-1260；</p>
 
             </div>
@@ -96,11 +92,7 @@
             <img src="../image/erweima.jpg" class="img-responsive"/>
             <div style="background:#f7f7f7;padding-top: 5%;padding-bottom: 5%">
                 <p class="text-center" style="font-size: 3vmin">微信二维码</p>
-<<<<<<< HEAD
                 <p class="text-center" style="font-size: 2vmin">宜程家居<br>
-=======
-                <p class="text-center" style="font-size: 2vmin">欧派家居<br>
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
                     轻松扫一扫，感受欧派服务！
                 </p>
 

@@ -162,23 +162,11 @@
             padding: 9%;
             background: #ffffff;
         }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 6f0be3012a404845844205839847f6d6b09a7f37
 
         #carousel-example-generic img{
             width: 100%;
         }
 
-<<<<<<< HEAD
-=======
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
->>>>>>> 6f0be3012a404845844205839847f6d6b09a7f37
     </style>
 
     <link rel="stylesheet" href="css/all_the_special_effects.css">
@@ -198,19 +186,6 @@
                 <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-                <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="7"></li>
-=======
-<<<<<<< HEAD
-                <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="7"></li>
-=======
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
->>>>>>> 6f0be3012a404845844205839847f6d6b09a7f37
             </ol>
 
             <div class="carousel-inner" role="listbox">
@@ -250,30 +225,6 @@
 
                     </div>
                 </div>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
-                <div class="item">
-                    <img src="image/banner7.jpg" alt="...">
-                    <div class="carousel-caption">
-
-                    </div>
-                </div>
-                <div class="item">
-                    <img src="image/banner8.jpg" alt="...">
-                    <div class="carousel-caption">
-
-                    </div>
-                </div>
-<<<<<<< HEAD
-=======
-=======
->>>>>>> be93f5eb081b37cccb4e643750460242fd81b4c7
->>>>>>> 322d9bbf314f17e3471d4f54a496a177f4ebc9ba
->>>>>>> 6f0be3012a404845844205839847f6d6b09a7f37
             </div>
 
 
