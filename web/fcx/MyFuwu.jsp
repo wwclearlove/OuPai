@@ -31,7 +31,7 @@
                  style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                 <ul id="the_title_content_ul">
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>保修政策</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
@@ -40,7 +40,7 @@
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
                     document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth /5+ "px";
                 </script>
             </div>
@@ -48,7 +48,6 @@
     </div>
 </div>
 <section>
-
     <div class="container-fluid" style="margin-top: 10%">
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
@@ -59,11 +58,11 @@
                 <img src="../MyFuWu/20160621184836_936.jpg" class="img-responsive"/>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
-                <img src="../MyFuWu/fuwu2.png" class="img-responsive"/>
+                <img src="../MyFuWu/fuwu21.png" class="img-responsive"/>
             </div>
 
             <div class="col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
-                <img src="../MyFuWu/20160526114336_801.jpg" class="img-responsive"/>
+                <img src="../MyFuWu/gouwu.jpg" class="img-responsive"/>
             </div>
 
 
@@ -73,13 +72,13 @@
     <div class="container-fluid" style="margin-top: 20px">
         <div class="row" style="overflow: hidden" >
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
-                <img src="../MyFuWu/fuwu1.png" class="img-responsive"/>
+                <img src="../MyFuWu/fuwu3.png" class="img-responsive"/>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
                 <img src="../MyFuWu/20160526120242_383.jpg" class="img-responsive"/>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
-                <img src="../MyFuWu/fuwu1.png" class="img-responsive"/>
+                <img src="../MyFuWu/fuwu4.png" class="img-responsive"/>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
                 <img src="../MyFuWu/20160526120334_542.jpg" class="img-responsive"/>
@@ -92,13 +91,13 @@
     <div class="container-fluid" style="margin-top: 20px;margin-bottom: 10%">
         <div class="row" style="overflow: hidden" >
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
-                <img src="../MyFuWu/fuwu1.png" class="img-responsive"/>
+                <img src="../MyFuWu/fuwu6.png" class="img-responsive"/>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
                 <img src="../MyFuWu/20160526120344_225.jpg" class="img-responsive"/>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">
-                <img src="../MyFuWu/fuwu1.png" class="img-responsive"/>
+                <img src="../MyFuWu/fuwu6.png" class="img-responsive"/>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3  visible-md visible-lg" style="padding-right: 0;padding-left: 0;">
                 <img src="../MyFuWu/20160603144109_520.jpg" class="img-responsive"/>

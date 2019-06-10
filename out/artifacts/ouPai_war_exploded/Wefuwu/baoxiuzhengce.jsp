@@ -39,8 +39,8 @@
                             class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i
                             class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i
-                            class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i--%>
+                            <%--class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
                         <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
@@ -49,7 +49,7 @@
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
                     document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth / 5 + "px";
                 </script>
             </div>
@@ -122,8 +122,12 @@
         <div class="col-md-10 col-xs-10 col-md-offset-1 col-xs-offset-1 ">
             <p style="font-size: 1.8em;font-weight: bold"><img src="../image/Gsix.jpg" alt=""/>&nbsp;&nbsp;&nbsp;壁纸产品
             </p>
+<<<<<<< HEAD
             <p>壁纸两年免费保修，终身维护。</p>
         </div>
+=======
+            <p>壁纸两年免费保修，终身维护。</p></div>
+>>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
     </div>
 </section>
 <jsp:include page="../footer.jsp" flush="true"/>

@@ -37,8 +37,8 @@
                             class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i
                             class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i
-                            class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i--%>
+                            <%--class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">
                         <i class="fa fa-hand-o-right fa-lg"></i>保修政策</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/fuwu_call.jsp">
@@ -47,7 +47,7 @@
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
                     document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth / 5 + "px";
                 </script>
             </div>
@@ -85,6 +85,7 @@
             <p style="margin-top:40px">为让更多消费者梦想成真，遍布中国及世界各地的</p>
             <p> 网上服务服务网点，让消费者随时随地</p>
             <p>都能享受到宜程家居营销模式及一站式个性服务。</p>
+
         </div>
     </div>
     <div class="row">

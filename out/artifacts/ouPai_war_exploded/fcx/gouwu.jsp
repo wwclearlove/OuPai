@@ -22,7 +22,6 @@
 <jsp:include page="../header.jsp" flush="true"/>
 
 <%--内容--%>
-
 <div class="container-fluid investor_relations01" align="center">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
@@ -32,7 +31,7 @@
                  style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
                 <ul id="the_title_content_ul">
                     <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
                         <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">
@@ -43,7 +42,7 @@
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[4].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
                     document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth /5+ "px";
                 </script>
             </div>
@@ -57,7 +56,6 @@
         <div style="margin-top: 5%"><span style="background: #f5f5f5;border-radius: 5%;padding: 10px 20px;">快速</span>&nbsp;&nbsp;<span>网上预约搞定。</span> </div>
         <div style="margin-top: 5%"><span style="background: #f5f5f5;border-radius: 5%;padding: 10px 20px;">便捷</span>&nbsp;&nbsp;<span>全国各地支持上门服务。</span> </div>
         <div style="margin-top: 5%"><span style="background: #f5f5f5;border-radius: 5%;padding: 10px 20px;">划算</span>&nbsp;&nbsp;<span>量尺设计不收取任何费用。</span> </div>
-
     </div>
     <div class="col-md-5 visible-md visible-lg" style="margin-top: 5%;margin-bottom: 5%;">
         <img src="../MyFuWu/gonglue1.jpg"/>

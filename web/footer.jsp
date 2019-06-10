@@ -25,7 +25,7 @@
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/our_company.jsp">
                       公司</a></li>
-                    <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp">关于欧派</a></li>
+                    <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp">关于宜程</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp">品牌历史</a></li>
 
                 </ul>
@@ -54,10 +54,11 @@
 
             </div>
             <div class="row-content col-md-2  col-xs-6">
-                <h3>加入欧派</h3>
+                <h3>加入宜程</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
-                       加入欧派</a></li>
+                       加入宜程</a></li>
+                       加入宜程</a></li>
                     <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
                      我们的招商</a></li>
                     <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp">成为供应商</a></li>

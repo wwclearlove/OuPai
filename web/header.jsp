@@ -42,7 +42,7 @@
                 <li>
                     <a class="search-btn " href="${pageContext.request.contextPath}/wyc/the_shopping_cart.jsp">
                         <img src="${pageContext.request.contextPath}/image/shop.png" class="img-circle">
-                        <span>欧派商城</span>
+                        <span>宜程商城</span>
                     </a>
                 </li>
                 <li>
@@ -88,7 +88,7 @@
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li><a href="${pageContext.request.contextPath}/ws/our_company.jsp">
                                 <i class="fa fa-hand-o-right fa-lg"></i>我们的公司</a></li>
-                            <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-hand-o-right fa-lg"></i>关于欧派</a></li>
+                            <li><a href="${pageContext.request.contextPath}/yy/gyop.jsp"><i class="fa fa-hand-o-right fa-lg"></i>关于宜程</a></li>
                             <li><a href="${pageContext.request.contextPath}/yy/ppls.jsp"><i class="fa fa-hand-o-right fa-lg"></i>品牌历史</a></li>
 
                         </ul>
@@ -122,10 +122,10 @@
                         </ul>
                     </li>
                     <li class="dropdown list">
-                        <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">加入欧派<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">加入宜程<span class="caret"></span></a>
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
-                                <i class="fa fa-hand-o-right fa-lg"></i>加入欧派</a></li>
+                                <i class="fa fa-hand-o-right fa-lg"></i>加入宜程</a></li>
                             <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
                                 <i class="fa fa-hand-o-right fa-lg"></i>我们的招商</a></li>
                             <li><a href="${pageContext.request.contextPath}/yy/cwgys.jsp"><i class="fa fa-hand-o-right fa-lg">
