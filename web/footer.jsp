@@ -17,7 +17,9 @@
                     <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp">业务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp">厨柜</a></li>
                     <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp">衣柜</a></li>
+                    <%--
                     <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp">工程案例</a></li>
+                    --%>
                 </ul>
             </div>
             <div class="row-content col-md-2  col-xs-4">
@@ -35,7 +37,7 @@
                 <ul>
                     <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp">我们服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp">购物攻略</a></li>
-                    <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp">常见问题</a></li>
+                    <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp">常见问题</a></li>--%>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
                         4S服务</a></li>
                     <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">
@@ -57,7 +59,6 @@
                 <h3>加入宜程</h3>
                 <ul>
                     <li><a href="${pageContext.request.contextPath}/ws/to_join_the_european.jsp">
-                       加入宜程</a></li>
                        加入宜程</a></li>
                     <li ><a href="${pageContext.request.contextPath}/ws/our_investment.jsp">
                      我们的招商</a></li>
@@ -125,7 +126,7 @@
     <div class="container-fluid" style="background-color: #3e3e3e;color: #aeb5b7">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 3%;text-align: center">
-                Copyright © 宜程团队 |
+                Copyright © 宜程团队 版权所有 | 服务热线：182-2796-1206
             </div>
         </div>
     </div>

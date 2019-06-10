@@ -29,7 +29,7 @@
             text-align: center;
             padding-left: 25px;
             padding-right: 25px;
-            padding-bottom: 10%;
+            padding-bottom: 40%;
         }
 
         #the_title_content ul li a {
@@ -76,7 +76,7 @@
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
                     document.getElementById("the_title_content").style.width = oLi[1].offsetWidth * (oLi.length + 1) + "px";
-                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[1].offsetWidth /3 + "px";
+                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[1].offsetWidth / 3 + "px";
                 </script>
             </div>
         </div>
@@ -104,13 +104,8 @@
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
-<<<<<<< HEAD
-                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
-                                        <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
-=======
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">单身贵族的“豪宅”，玻璃隔断卧室打造高级感</dt>
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">玻璃的清晰特性意味着卧室仍然可以被视为整体的一部分，从而视觉上最大化空间尺寸。玻璃卧室隔断还可以在卧室周围创造一个轻巧的“茧”，给人一种安全的睡眠空间感，甚至还可以减少噪音，有助于改善睡眠。</dd>
->>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
                                     </dl>
                                 </a>
                             </div>
@@ -119,13 +114,8 @@
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
-<<<<<<< HEAD
-                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
-                                        <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
-=======
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">温馨的家，仅需要一点暖色就能体现！</dt>
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">家里面总觉得少了一些温馨感，其实这就是因为你没有给家里面增加暖色所导致的，今天，小宅就给大家看看，如果家里面增加了暖色的色彩会给你带来什么不一样的效果。</dd>
->>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
                                     </dl>
                                 </a>
                             </div>
@@ -134,13 +124,8 @@
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
-<<<<<<< HEAD
-                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
-                                        <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
-=======
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">欧式不好看？那你一定是不知道洛可可！</dt>
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">我们平时提到风格，基本说的是北欧、法式、欧式等等。但是，有没有想过，你了解的风格不是原本的样子呢？</dd>
->>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
                                     </dl>
                                 </a>
                             </div>
@@ -149,13 +134,8 @@
                             <div class="text-center">
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
-<<<<<<< HEAD
-                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家具利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
-                                        <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
-=======
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">中式·窗棂 | 不仅是画，更是诗儿</dt>
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">中式风格的装修能够体现出一个人的素养，很多喜欢中式风格装修的人都比较喜爱中国古文学，所以装修的效果不仅要追求像是画一样，更要富有一定的诗意。</dd>
->>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
                                     </dl>
                                 </a>
                             </div>
@@ -206,13 +186,8 @@
                             <div class="text-center" >
                                 <a href="" style="text-decoration: none;">
                                     <dl style="table-layout: fixed;padding-top: 20%;padding-bottom: 20%;">
-<<<<<<< HEAD
-                                        <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">宜程家居利刃出鞘剑指巅峰蓝海，整装大家居正式全面腾飞</dt>
-                                        <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">近期，某报社刊登的新闻报道称我司涉及多起产品检测不合格事件，我司极为重视，第一时间进行调查，经过翔实的查证，我司发现该报道与客观事实严重不符，为避免误导广大读者和消费者，我司严正声明如下：</dd>
-=======
                                         <dt style="font-size: 3vmin;margin-left: 10px;margin-right:10px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">前期准备-装修前先和物业沟通一下，不然~</dt>
                                         <dd style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;color: #000">在进行装修前业主一定要自行去与物业沟通并且办理相关手续，并且确认所需资质与费用，这也才能将装修进行下去，否则装修会进行的比较困难。</dd>
->>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
                                     </dl>
                                 </a>
 

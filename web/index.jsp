@@ -2,9 +2,10 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" contenmvn package -Dmaven.test.failture.ignore=true t="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <title>欢迎进入我们的首页</title>
     <!-- Bootstrap -->
@@ -267,7 +268,7 @@
     <div class="row img_div">
         <div class="col-md-3 col-xs-6 col-sm-6 img_d1">
             <div class="row">
-                <img src="image/we.jpg " class="img-thumbnail">
+                <img src="image/djj.jpg" class="img-thumbnail">
             </div>
 
             <div class="row img_div ">
@@ -291,7 +292,8 @@
             </div>
             <div class="row img_div">
                 <h3>厨柜</h3>
-                <p>宜程橱柜是中国橱柜</p>
+                <p>宜程橱柜是中国橱柜，真正实现一体化设计、一站式挑选、
+                    个性化定制你的爱家，轻轻松松，拎包入住。</p>
             </div>
             <div class="row" style="padding: 5%">
 
@@ -479,8 +481,7 @@
                 <p style="color: white;"> 我们相信人的力量，我们相信梦想的力量。我 <br>
                     们的文化以公平、光明为根本。我们一直在寻<br>
                     求与我们同样具有积极态度和价值观的人。我<br>
-                    们已经为您搭好一个平台。 简历投递邮箱:<br>
-                    rsb@oppein.com；
+                    们已经为您搭好一个平台。<br>
                 </p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>

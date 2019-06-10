@@ -33,34 +33,39 @@
 
 <div class="container-fluid investor_relations01" align="center" style="margin: 0;padding: 0">
     <div class="row">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
-        <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: black;">厨柜</h2>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0">
+            <h2 id="h2s" style="padding-top: 25%;padding-bottom: 4%;color: black;">厨柜</h2>
 
-        <div id="the_title_content" align="center"
-             style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
-          <ul id="the_title_content_ul">
-            <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i class="fa fa-dot-circle-o fa-lg"></i>  业务 </a></li>
-            <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 衣柜 </a></li>
-            <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-dot-circle-o fa-lg"></i> 工程案例</a></li>
-          </ul>
-          <script>
-              var oUl = document.getElementById("the_title_content_ul");
-              var oLi = oUl.getElementsByTagName("li");
-              document.getElementById("the_title_content").style.width = oLi[2].offsetWidth * (oLi.length + 1) + "px";
-              document.getElementById("the_title_content_ul").style.marginLeft = oLi[2].offsetWidth / 2 + "px";
-              var oUlInvestor = document.getElementById("the_title_content_ul");
-              var oLiInvestor = oUlInvestor.getElementsByTagName("li");
-              var oIInvestor = oUlInvestor.getElementsByTagName("i");
-              for (var i = 0; i < oLiInvestor.length; i++) {
-                  oLiInvestor[i].index = i;
-                  oLiInvestor[i].onmouseover = function (ev) {
-                      oIInvestor[this.index].style.display = "block"
-                  };
-                  oLiInvestor[i].onmouseout = function (ev) {
-                      oIInvestor[this.index].style.display = "none"
-                  }
-              }
-          </script>
+            <div id="the_title_content" align="center"
+                 style="height: 60px;opacity: 0.8;background-color: white;margin: 0 auto;border-radius: 50px;">
+                <ul id="the_title_content_ul">
+                    <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i
+                            class="fa fa-dot-circle-o fa-lg"></i> 业务 </a></li>
+                    <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp"><i
+                            class="fa fa-dot-circle-o fa-lg"></i> 衣柜 </a></li>
+
+                    <%--<li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i
+                            class="fa fa-dot-circle-o fa-lg"></i> 工程案例</a></li>
+                    --%>
+                </ul>
+                <script>
+                    var oUl = document.getElementById("the_title_content_ul");
+                    var oLi = oUl.getElementsByTagName("li");
+                    document.getElementById("the_title_content").style.width = oLi[1].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content_ul").style.marginLeft = 0 + "px";
+                    var oUlInvestor = document.getElementById("the_title_content_ul");
+                    var oLiInvestor = oUlInvestor.getElementsByTagName("li");
+                    var oIInvestor = oUlInvestor.getElementsByTagName("i");
+                    for (var i = 0; i < oLiInvestor.length; i++) {
+                        oLiInvestor[i].index = i;
+                        oLiInvestor[i].onmouseover = function (ev) {
+                            oIInvestor[this.index].style.display = "block"
+                        };
+                        oLiInvestor[i].onmouseout = function (ev) {
+                            oIInvestor[this.index].style.display = "none"
+                        }
+                    }
+                </script>
             </div>
         </div>
     </div>

@@ -79,7 +79,9 @@
                             <li><a href="${pageContext.request.contextPath}/ws/our_business.jsp"><i class="fa fa-hand-o-right fa-lg"></i>业务</a></li>
                             <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i class="fa fa-hand-o-right fa-lg"></i>厨柜</a></li>
                             <li><a href="${pageContext.request.contextPath}/Weyewu/yg.jsp"><i class="fa fa-hand-o-right fa-lg"></i>衣柜</a></li>
+                            <%--
                             <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i class="fa fa-hand-o-right fa-lg"></i>工程案例</a></li>
+                            --%>
                         </ul>
                     </li>
 
@@ -98,7 +100,7 @@
                         <ul class="dropdown-menu as menu_list" style=" min-width: 140px;">
                             <li ><a href="${pageContext.request.contextPath}/fcx/MyFuwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>我们的服务</a></li>
                             <li ><a href="${pageContext.request.contextPath}/fcx/gouwu.jsp"><i class="fa fa-hand-o-right fa-lg"></i>购物攻略</a></li>
-                            <li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>
+                            <%--<li><a href="${pageContext.request.contextPath}/fcx/changjianwenti.jsp"><i class="fa fa-hand-o-right fa-lg"></i>常见问题</a></li>--%>
                             <li><a href="${pageContext.request.contextPath}/Wefuwu/4sfw.jsp">
                                 <i class="fa fa-hand-o-right fa-lg"></i>4S服务</a></li>
                             <li><a href="${pageContext.request.contextPath}/Wefuwu/baoxiuzhengce.jsp">

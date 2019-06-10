@@ -41,17 +41,13 @@
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
                     document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
-                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth /5+ "px";
+                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[3].offsetWidth / 5+ "px";
                 </script>
             </div>
         </div>
     </div>
 </div>
 <section>
-<<<<<<< HEAD
-
-=======
->>>>>>> 7db0d0ccb00a8c9486549275ff261c827857dacc
     <div class="container-fluid" style="margin-top: 10%">
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 col-xs-offset-1" style="padding-left: 0;padding-right: 0">

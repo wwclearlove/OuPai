@@ -35,15 +35,15 @@
                     <li><a href="${pageContext.request.contextPath}/Weyewu/ck.jsp"><i
                             class="fa fa-dot-circle-o fa-lg"></i> 厨柜 </a></li>
 
-                    <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i
+                   <%-- <li><a href="${pageContext.request.contextPath}/yy/gcal.jsp"><i
                             class="fa fa-dot-circle-o fa-lg"></i> 工程案例</a></li>
-
+                   --%>
                 </ul>
                 <script>
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
-                    document.getElementById("the_title_content").style.width = oLi[2].offsetWidth * (oLi.length + 1) + "px";
-                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[2].offsetWidth / 2 + "px";
+                    document.getElementById("the_title_content").style.width = oLi[1].offsetWidth * (oLi.length + 1) + "px";
+                    document.getElementById("the_title_content_ul").style.marginLeft = 0 + "px";
                 </script>
             </div>
         </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" contenmvn package -Dmaven.test.failture.ignore=true t="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <title> 保修政策</title>
     <!-- Bootstrap -->
@@ -18,7 +18,7 @@
     <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/head.js"></script>
     <link href="../css/baoxiuzhengce.css" rel="stylesheet">
-    <script type="text/javascript" src="../js/investor_relations.js"></script>
+    <%--<script type="text/javascript" src="../js/investor_relations.js"></script>--%>
 
     <link rel="stylesheet" href="../css/all_the_special_effects.css">
     <script type="text/javascript" src="../js/all_the_special_effects.js"></script>
@@ -50,7 +50,19 @@
                     var oUl = document.getElementById("the_title_content_ul");
                     var oLi = oUl.getElementsByTagName("li");
                     document.getElementById("the_title_content").style.width = oLi[3].offsetWidth * (oLi.length + 1) + "px";
-                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[4].offsetWidth / 5 + "px";
+                    document.getElementById("the_title_content_ul").style.marginLeft = oLi[3].offsetWidth / 5 + "px";
+                    var oUlInvestor = document.getElementById("the_title_content_ul");
+                    var oLiInvestor = oUlInvestor.getElementsByTagName("li");
+                    var oIInvestor = oUlInvestor.getElementsByTagName("i");
+                    for (var i = 0; i < oLiInvestor.length; i++) {
+                        oLiInvestor[i].index = i;
+                        oLiInvestor[i].onmouseover = function (ev) {
+                            oIInvestor[this.index].style.display = "block"
+                        };
+                        oLiInvestor[i].onmouseout = function (ev) {
+                            oIInvestor[this.index].style.display = "none"
+                        }
+                    }
                 </script>
             </div>
         </div>
